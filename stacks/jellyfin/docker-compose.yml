@@ -15,7 +15,8 @@ services:
     volumes:
       - jellyfin_config:/config
       - jellyfin_cache:/cache
-      - ${JELLYFIN_MEDIA_PATH:-/srv/media}:/media
+      - /Users/bill/Documents/media_local:/media_local
+      - /Volumes/Stuff/media:/media_external
 
 volumes:
   jellyfin_config:

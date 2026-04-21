@@ -39,6 +39,8 @@ Example compose paths:
 
 Most stacks work with defaults, but these are the important ones to set in Portainer.
 
+You can use `.env.example` in the repo root as a starting template.
+
 Common:
 
 - `TZ` (example: `America/New_York`)
