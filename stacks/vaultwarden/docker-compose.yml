@@ -1,12 +1,11 @@
 services:
   vaultwarden:
-    image: vaultwarden/server:${VAULTWARDEN_TAG:-latest}
+    image: vaultwarden/server:latest
     container_name: vaultwarden
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
     environment:
-      - TZ=${TZ:-UTC}
       - WEBSOCKET_ENABLED=true
     ports:
       - "8222:80"

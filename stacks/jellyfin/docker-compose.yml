@@ -1,22 +1,18 @@
 services:
   jellyfin:
-    image: lscr.io/linuxserver/jellyfin:${JELLYFIN_TAG:-latest}
+    image: lscr.io/linuxserver/jellyfin:latest
     container_name: jellyfin
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
-    environment:
-      - PUID=${PUID:-1000}
-      - PGID=${PGID:-1000}
-      - TZ=${TZ:-UTC}
     ports:
       - "8096:8096"
       - "8920:8920"
     volumes:
       - jellyfin_config:/config
       - jellyfin_cache:/cache
-      - /Users/bill/Documents/media_local:/media_local
-      - /Volumes/Stuff/media:/media_external
+      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
+      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
 
 volumes:
   jellyfin_config:

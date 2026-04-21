@@ -37,53 +37,24 @@ Example compose paths:
 
 ## Environment Variables
 
-Most stacks work with defaults, but these are the important ones to set in Portainer.
+Most stacks are now hardcoded for simplicity.
 
 You can use `.env.example` in the repo root as a starting template.
 
-Common:
+Shared media paths:
 
-- `TZ` (example: `America/New_York`)
-- `PUID` (example: `1000`)
-- `PGID` (example: `1000`)
-
-Media paths:
-
-- `DOWNLOADS_PATH` (default: `/srv/downloads`)
-- `SONARR_TV_PATH` (default: `/srv/media/tv`)
-- `RADARR_MOVIES_PATH` (default: `/srv/media/movies`)
-- `JELLYFIN_MEDIA_PATH` (default: `/srv/media`)
-- `AUDIOBOOKS_PATH` (default: `/srv/media/audiobooks`)
-- `PODCASTS_PATH` (default: `/srv/media/podcasts`)
+- `MEDIA_LOCAL_PATH` (default: `/Users/bill/Documents/media_local`)
+- `MEDIA_EXTERNAL_PATH` (default: `/Volumes/Stuff/media`)
 
 Monica:
 
 - `MONICA_DB_ROOT_PASSWORD` (change from default)
 - `MONICA_DB_PASSWORD` (change from default)
 - `MONICA_APP_KEY` (set your own key)
-- `MONICA_APP_URL` (set to your real URL)
-
-## Image Tag Pinning
-
-Every stack supports an optional image tag environment variable. If you set it in Portainer, it overrides `latest`.
-
-Available tag variables:
-
-- `PORTAINER_TAG`
-- `SONARR_TAG`
-- `RADARR_TAG`
-- `JELLYFIN_TAG`
-- `AUDIOBOOKSHELF_TAG`
-- `HOMARR_TAG`
-- `UPTIME_KUMA_TAG`
-- `METABASE_TAG`
-- `MONICA_TAG`
-- `MONICA_DB_TAG`
-- `VAULTWARDEN_TAG`
 
 ## Notes
 
 - Config/data is stored in named Docker volumes by default.
-- Media/download mounts are host bind mounts via environment variables above.
+- Media mounts are host bind mounts controlled by the two shared media vars above.
 - `homarr` and `portainer` mount `/var/run/docker.sock`; keep those stacks trusted/admin-only.
 

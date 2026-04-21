@@ -1,20 +1,16 @@
 services:
   radarr:
-    image: lscr.io/linuxserver/radarr:${RADARR_TAG:-latest}
+    image: lscr.io/linuxserver/radarr:latest
     container_name: radarr
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
-    environment:
-      - PUID=${PUID:-1000}
-      - PGID=${PGID:-1000}
-      - TZ=${TZ:-UTC}
     ports:
       - "7878:7878"
     volumes:
       - radarr_config:/config
-      - ${RADARR_MOVIES_PATH:-/srv/media/movies}:/movies
-      - ${DOWNLOADS_PATH:-/srv/downloads}:/downloads
+      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
+      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
 
 volumes:
   radarr_config:

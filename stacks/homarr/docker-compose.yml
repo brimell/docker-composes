@@ -1,12 +1,10 @@
 services:
   homarr:
-    image: ghcr.io/homarr-labs/homarr:${HOMARR_TAG:-latest}
+    image: ghcr.io/homarr-labs/homarr:latest
     container_name: homarr
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
-    environment:
-      - TZ=${TZ:-UTC}
     ports:
       - "7575:7575"
     volumes:
