@@ -1,6 +1,6 @@
 services:
   metabase:
-    image: metabase/metabase:latest
+    image: metabase/metabase:${METABASE_TAG:-latest}
     container_name: metabase
     restart: unless-stopped
     security_opt:
@@ -12,12 +12,6 @@ services:
       - "3000:3000"
     volumes:
       - metabase_data:/metabase-data
-    networks:
-      - media-stack
 
 volumes:
   metabase_data:
-
-networks:
-  media-stack:
-    driver: bridge

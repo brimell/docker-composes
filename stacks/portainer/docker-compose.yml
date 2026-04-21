@@ -1,6 +1,6 @@
 services:
   portainer:
-    image: portainer/portainer-ce:latest
+    image: portainer/portainer-ce:${PORTAINER_TAG:-latest}
     container_name: portainer
     restart: unless-stopped
     security_opt:
@@ -12,12 +12,6 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - portainer_data:/data
-    networks:
-      - media-stack
 
 volumes:
   portainer_data:
-
-networks:
-  media-stack:
-    driver: bridge

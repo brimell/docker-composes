@@ -1,0 +1,20 @@
+services:
+  audiobookshelf:
+    image: ghcr.io/advplyr/audiobookshelf:${AUDIOBOOKSHELF_TAG:-latest}
+    container_name: audiobookshelf
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    environment:
+      - TZ=${TZ:-UTC}
+    ports:
+      - "13378:80"
+    volumes:
+      - audiobookshelf_config:/config
+      - audiobookshelf_metadata:/metadata
+      - ${AUDIOBOOKS_PATH:-/srv/media/audiobooks}:/audiobooks
+      - ${PODCASTS_PATH:-/srv/media/podcasts}:/podcasts
+
+volumes:
+  audiobookshelf_config:
+  audiobookshelf_metadata:

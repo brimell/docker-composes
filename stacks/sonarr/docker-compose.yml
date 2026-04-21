@@ -1,6 +1,6 @@
 services:
   sonarr:
-    image: lscr.io/linuxserver/sonarr:latest
+    image: lscr.io/linuxserver/sonarr:${SONARR_TAG:-latest}
     container_name: sonarr
     restart: unless-stopped
     security_opt:
@@ -12,12 +12,9 @@ services:
     ports:
       - "8989:8989"
     volumes:
-      - ../config/sonarr:/config
-      - ../media/tv:/tv
-      - ../downloads:/downloads
-    networks:
-      - media-stack
+      - sonarr_config:/config
+      - ${SONARR_TV_PATH:-/srv/media/tv}:/tv
+      - ${DOWNLOADS_PATH:-/srv/downloads}:/downloads
 
-networks:
-  media-stack:
-    driver: bridge
+volumes:
+  sonarr_config:

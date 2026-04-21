@@ -1,6 +1,6 @@
 services:
   jellyfin:
-    image: lscr.io/linuxserver/jellyfin:latest
+    image: lscr.io/linuxserver/jellyfin:${JELLYFIN_TAG:-latest}
     container_name: jellyfin
     restart: unless-stopped
     security_opt:
@@ -13,12 +13,10 @@ services:
       - "8096:8096"
       - "8920:8920"
     volumes:
-      - ../config/jellyfin:/config
-      - ../cache/jellyfin:/cache
-      - ../media:/media
-    networks:
-      - media-stack
+      - jellyfin_config:/config
+      - jellyfin_cache:/cache
+      - ${JELLYFIN_MEDIA_PATH:-/srv/media}:/media
 
-networks:
-  media-stack:
-    driver: bridge
+volumes:
+  jellyfin_config:
+  jellyfin_cache:

@@ -1,6 +1,6 @@
 services:
   radarr:
-    image: lscr.io/linuxserver/radarr:latest
+    image: lscr.io/linuxserver/radarr:${RADARR_TAG:-latest}
     container_name: radarr
     restart: unless-stopped
     security_opt:
@@ -12,12 +12,9 @@ services:
     ports:
       - "7878:7878"
     volumes:
-      - ../config/radarr:/config
-      - ../media/movies:/movies
-      - ../downloads:/downloads
-    networks:
-      - media-stack
+      - radarr_config:/config
+      - ${RADARR_MOVIES_PATH:-/srv/media/movies}:/movies
+      - ${DOWNLOADS_PATH:-/srv/downloads}:/downloads
 
-networks:
-  media-stack:
-    driver: bridge
+volumes:
+  radarr_config:

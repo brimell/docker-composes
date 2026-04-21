@@ -1,6 +1,6 @@
 services:
   uptime-kuma:
-    image: louislam/uptime-kuma:latest
+    image: louislam/uptime-kuma:${UPTIME_KUMA_TAG:-latest}
     container_name: uptime-kuma
     restart: unless-stopped
     security_opt:
@@ -8,10 +8,7 @@ services:
     ports:
       - "3001:3001"
     volumes:
-      - ../config/uptime-kuma:/app/data
-    networks:
-      - media-stack
+      - uptime_kuma_data:/app/data
 
-networks:
-  media-stack:
-    driver: bridge
+volumes:
+  uptime_kuma_data:
