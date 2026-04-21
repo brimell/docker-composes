@@ -1,0 +1,20 @@
+services:
+  homarr:
+    image: ghcr.io/homarr-labs/homarr:latest
+    container_name: homarr
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    environment:
+      - TZ=${TZ:-UTC}
+    ports:
+      - "7575:7575"
+    volumes:
+      - ../config/homarr:/appdata
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    networks:
+      - media-stack
+
+networks:
+  media-stack:
+    driver: bridge

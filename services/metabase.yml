@@ -1,0 +1,23 @@
+services:
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    environment:
+      - MB_DB_FILE=/metabase-data/metabase.db
+      - TZ=${TZ:-UTC}
+    ports:
+      - "3000:3000"
+    volumes:
+      - metabase_data:/metabase-data
+    networks:
+      - media-stack
+
+volumes:
+  metabase_data:
+
+networks:
+  media-stack:
+    driver: bridge

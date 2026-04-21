@@ -1,0 +1,23 @@
+services:
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    environment:
+      - PUID=${PUID:-1000}
+      - PGID=${PGID:-1000}
+      - TZ=${TZ:-UTC}
+    ports:
+      - "7878:7878"
+    volumes:
+      - ../config/radarr:/config
+      - ../media/movies:/movies
+      - ../downloads:/downloads
+    networks:
+      - media-stack
+
+networks:
+  media-stack:
+    driver: bridge
