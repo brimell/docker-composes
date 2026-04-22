@@ -8,8 +8,5 @@ services:
     ports:
       - "7575:7575"
     volumes:
-      - homarr_data:/appdata
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/homarr:/appdata
       - /var/run/docker.sock:/var/run/docker.sock:ro
-
-volumes:
-  homarr_data:

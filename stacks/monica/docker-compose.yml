@@ -12,7 +12,7 @@ services:
       - MARIADB_USER=monica
       - MARIADB_PASSWORD=${MONICA_DB_PASSWORD:-change_me_monica_password}
     volumes:
-      - monica_db_data:/var/lib/mysql
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/monica/db:/var/lib/mysql
 
   monica:
     image: monica:latest
@@ -38,8 +38,4 @@ services:
     ports:
       - "6875:80"
     volumes:
-      - monica_data:/var/www/html/storage
-
-volumes:
-  monica_db_data:
-  monica_data:
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/monica/storage:/var/www/html/storage

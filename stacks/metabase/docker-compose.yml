@@ -10,7 +10,4 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - metabase_data:/metabase-data
-
-volumes:
-  metabase_data:
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/metabase:/metabase-data

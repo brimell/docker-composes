@@ -37,9 +37,13 @@ Example compose paths:
 
 ## Environment Variables
 
-Most stacks are now hardcoded for simplicity.
-
 You can use `.env.example` in the repo root as a starting template.
+
+Common:
+
+- `CONFIG_ROOT` path on the Docker host where app config/data is stored. Defaults to `/Users/bill/Documents/GitHub/docker-composes/data`.
+- `MEDIA_LOCAL_PATH` local media folder mounted into media apps. Defaults to `/Users/bill/Documents/media_local`.
+- `MEDIA_EXTERNAL_PATH` external media folder mounted into media apps. Defaults to `/Volumes/Stuff/media`.
 
 Monica:
 
@@ -47,8 +51,30 @@ Monica:
 - `MONICA_DB_PASSWORD` (change from default)
 - `MONICA_APP_KEY` (set your own key)
 
+## Config and Data
+
+Container config/data is stored under `CONFIG_ROOT`, with one folder per app:
+
+- `data/portainer`
+- `data/sonarr/config`
+- `data/radarr/config`
+- `data/jellyfin/config`
+- `data/jellyfin/cache`
+- `data/audiobookshelf/config`
+- `data/audiobookshelf/metadata`
+- `data/homarr`
+- `data/uptime-kuma`
+- `data/metabase`
+- `data/monica/db`
+- `data/monica/storage`
+- `data/vaultwarden`
+
+The `data/` folder is intentionally ignored by git because it can contain databases, passwords, API keys, sessions, and other private runtime state. Back it up separately if you want to recreate the machine exactly.
+
+Existing named Docker volumes are not moved automatically. For example, the current Portainer volume is `documents_portainer_data`, mounted at `/data` in the container. To migrate it, stop the stack, copy the contents of that volume into `data/portainer`, then redeploy the stack with this compose file.
+
 ## Notes
 
-- Config/data is stored in named Docker volumes by default.
-- Media mounts are hardcoded to `/Users/bill/Documents/media_local` and `/Volumes/Stuff/media`.
+- Config/data is stored in bind-mounted folders under `CONFIG_ROOT`.
+- Media mounts default to `/Users/bill/Documents/media_local` and `/Volumes/Stuff/media`.
 - `homarr` and `portainer` mount `/var/run/docker.sock`; keep those stacks trusted/admin-only.

@@ -13,11 +13,7 @@ services:
       - "8096:8096"
       - "8920:8920"
     volumes:
-      - jellyfin_config:/config
-      - jellyfin_cache:/cache
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/jellyfin/config:/config
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/jellyfin/cache:/cache
       - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
       - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
-
-volumes:
-  jellyfin_config:
-  jellyfin_cache:
