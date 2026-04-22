@@ -10,8 +10,8 @@ services:
     volumes:
       - audiobookshelf_config:/config
       - audiobookshelf_metadata:/metadata
-      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
-      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
+      - /Users/bill/Documents/media_local:/media_local
+      - /Volumes/Stuff/media:/media_external
 
 volumes:
   audiobookshelf_config:

@@ -9,8 +9,8 @@ services:
       - "8989:8989"
     volumes:
       - sonarr_config:/config
-      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
-      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
+      - /Users/bill/Documents/media_local:/media_local
+      - /Volumes/Stuff/media:/media_external
 
 volumes:
   sonarr_config:

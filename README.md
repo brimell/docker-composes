@@ -41,11 +41,6 @@ Most stacks are now hardcoded for simplicity.
 
 You can use `.env.example` in the repo root as a starting template.
 
-Shared media paths:
-
-- `MEDIA_LOCAL_PATH` (default: `/Users/bill/Documents/media_local`)
-- `MEDIA_EXTERNAL_PATH` (default: `/Volumes/Stuff/media`)
-
 Monica:
 
 - `MONICA_DB_ROOT_PASSWORD` (change from default)
@@ -55,6 +50,5 @@ Monica:
 ## Notes
 
 - Config/data is stored in named Docker volumes by default.
-- Media mounts are host bind mounts controlled by the two shared media vars above.
+- Media mounts are hardcoded to `/Users/bill/Documents/media_local` and `/Volumes/Stuff/media`.
 - `homarr` and `portainer` mount `/var/run/docker.sock`; keep those stacks trusted/admin-only.
-
