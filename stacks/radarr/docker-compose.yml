@@ -9,5 +9,4 @@ services:
       - "7878:7878"
     volumes:
       - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/radarr/config:/config
-      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
-      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
+      - ${MEDIA_MOVIES_PATH:-/Volumes/Stuff/media/movies}:/movies

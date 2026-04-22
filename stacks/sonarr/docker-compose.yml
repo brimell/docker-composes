@@ -9,5 +9,4 @@ services:
       - "8989:8989"
     volumes:
       - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/sonarr/config:/config
-      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
-      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
+      - ${MEDIA_SHOWS_PATH:-/Volumes/Stuff/media/shows}:/shows

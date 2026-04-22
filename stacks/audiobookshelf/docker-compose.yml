@@ -10,5 +10,4 @@ services:
     volumes:
       - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/audiobookshelf/config:/config
       - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/audiobookshelf/metadata:/metadata
-      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
-      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
+      - ${MEDIA_AUDIOBOOKS_PATH:-/Volumes/Stuff/media/audiobooks}:/audiobooks

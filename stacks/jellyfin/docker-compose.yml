@@ -15,5 +15,10 @@ services:
     volumes:
       - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/jellyfin/config:/config
       - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/jellyfin/cache:/cache
-      - ${MEDIA_LOCAL_PATH:-/Users/bill/Documents/media_local}:/media_local
-      - ${MEDIA_EXTERNAL_PATH:-/Volumes/Stuff/media}:/media_external
+      - ${MEDIA_MOVIES_PATH:-/Volumes/Stuff/media/movies}:/movies
+      - ${MEDIA_SHOWS_PATH:-/Volumes/Stuff/media/shows}:/shows
+      - ${MEDIA_AUDIOBOOKS_PATH:-/Volumes/Stuff/media/audiobooks}:/audiobooks
+      - ${MEDIA_LOCAL_MOVIES_PATH:-/Users/bill/Documents/media_local/movies}:/media_local/movies
+      - ${MEDIA_LOCAL_SHOWS_PATH:-/Users/bill/Documents/media_local/shows}:/media_local/shows
+      - ${MEDIA_LOCAL_AUDIOBOOKS_PATH:-/Users/bill/Documents/media_local/audiobooks}:/media_local/audiobooks
+      - ${MEDIA_LOCAL_PHOTOS_PATH:-/Users/bill/Documents/media_local/photos}:/media_local/photos
