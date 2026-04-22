@@ -3440,3 +3440,5 @@
 2026-04-22 22:25:28.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2026-04-22 22:25:28.8|Info|DownloadDecisionMaker|No results found
 2026-04-22 22:25:28.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-22 22:27:07.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-04-22 22:27:07.8|Info|ConsoleApp|Exiting main.

@@ -4796,3 +4796,15 @@ System.UnauthorizedAccessException: Access to the path '/movies/._300 (2006) MUL
 [2026-04-22 21:50:11.393 +01:00] [INF] [115] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
 [2026-04-22 21:50:14.452 +01:00] [INF] [115] Jellyfin.Database.Providers.Sqlite.SqliteDatabaseProvider: jellyfin.db optimized successfully!
 [2026-04-22 21:50:14.452 +01:00] [INF] [115] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 3 seconds
+[2026-04-22 23:27:07.795 +01:00] [INF] [106] Emby.Server.Implementations.Session.SessionManager: Sending shutdown notifications
+[2026-04-22 23:27:07.807 +01:00] [INF] [107] Main: Running query planner optimizations in the database... This might take a while
+[2026-04-22 23:27:07.831 +01:00] [INF] [56] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media_local/movies"
+[2026-04-22 23:27:07.832 +01:00] [INF] [56] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media_local/shows"
+[2026-04-22 23:27:07.832 +01:00] [INF] [56] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/movies"
+[2026-04-22 23:27:07.833 +01:00] [INF] [56] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/audiobooks"
+[2026-04-22 23:27:07.833 +01:00] [INF] [56] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/shows"
+[2026-04-22 23:27:07.837 +01:00] [INF] [107] Emby.Server.Implementations.ApplicationHost: Disposing "CoreAppHost"
+[2026-04-22 23:27:07.837 +01:00] [INF] [107] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzArtistProvider"
+[2026-04-22 23:27:07.838 +01:00] [INF] [107] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzAlbumProvider"
+[2026-04-22 23:27:07.838 +01:00] [INF] [107] Emby.Server.Implementations.ApplicationHost: Disposing "CoverArtArchiveImageProvider"
+[2026-04-22 23:27:07.839 +01:00] [INF] [107] Emby.Server.Implementations.ApplicationHost: Disposing "PluginManager"
