@@ -4859,3 +4859,10 @@
 2026-04-22 22:05:28.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
 2026-04-22 22:10:28.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
 2026-04-22 22:15:28.7|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-22 22:20:28.7|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-22 22:25:28.8|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-22 22:25:28.8|Info|RssSyncService|Starting RSS Sync
+2026-04-22 22:25:28.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-22 22:25:28.8|Info|DownloadDecisionMaker|No results found
+2026-04-22 22:25:28.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-22 22:25:28.8|Debug|PendingReleaseService|Removing failed releases from pending

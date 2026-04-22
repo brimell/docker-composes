@@ -1,0 +1,13 @@
+services:
+  bazarr:
+    image: lscr.io/linuxserver/bazarr:latest
+    container_name: bazarr
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    ports:
+      - "6767:6767"
+    volumes:
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/bazarr/config:/config
+      - ${MEDIA_MOVIES_PATH:-/Volumes/Stuff/media/movies}:/movies
+      - ${MEDIA_SHOWS_PATH:-/Volumes/Stuff/media/shows}:/shows

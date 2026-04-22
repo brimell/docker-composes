@@ -11,6 +11,7 @@ Each stack is self-contained in:
 - `stacks/portainer/docker-compose.yml`
 - `stacks/sonarr/docker-compose.yml`
 - `stacks/radarr/docker-compose.yml`
+- `stacks/bazarr/docker-compose.yml`
 - `stacks/jellyfin/docker-compose.yml`
 - `stacks/audiobookshelf/docker-compose.yml`
 - `stacks/homarr/docker-compose.yml`
@@ -33,6 +34,7 @@ For each stack in Portainer:
 Example compose paths:
 
 - `stacks/sonarr/docker-compose.yml`
+- `stacks/bazarr/docker-compose.yml`
 - `stacks/monica/docker-compose.yml`
 - `stacks/vaultwarden/docker-compose.yml`
 
@@ -69,6 +71,7 @@ Container config/data is stored under `CONFIG_ROOT`, with one folder per app:
 - `data/portainer`
 - `data/sonarr/config`
 - `data/radarr/config`
+- `data/bazarr/config`
 - `data/jellyfin/config`
 - `data/jellyfin/cache`
 - `data/audiobookshelf/config`
