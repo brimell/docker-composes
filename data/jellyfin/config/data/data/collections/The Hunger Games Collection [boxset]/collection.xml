@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>04/22/2026 03:24:39</Added>
+  <LockData>false</LockData>
+  <Overview>A science fiction film series based on the novel of the same name by Suzanne Collins. The film series takes place in a dystopian post-apocalyptic future in the nation of Panem.</Overview>
+  <LocalTitle>The Hunger Games Collection</LocalTitle>
+  <PremiereDate>2012-03-12</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2012</ProductionYear>
+  <TmdbId>131635</TmdbId>
+  <Genres>
+    <Genre>Science Fiction</Genre>
+    <Genre>Adventure</Genre>
+    <Genre>Action</Genre>
+    <Genre>Thriller</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Lionsgate</Studio>
+    <Studio>Color Force</Studio>
+    <Studio />
+    <Studio>Studio Babelsberg</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/movies/The Hunger Games (2012) [1080p]/The.Hunger.Games.1080p.BluRay.x264.YIFY.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/The Hunger Games Catching Fire (2013) [1080p]/The.Hunger.Games.Catching.Fire.2013.1080p.BluRay.x264.YIFY.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/The Hunger.Games.Mockingjay.Part.1.2014.Multi.2160p.UHD.BluRay.x265.HDR.Atmos.7.1.[En+Hi]-DTOne/The.Hunger.Games.Mockingjay.Part.1.2014.Multi.2160p.UHD.BluRay.x265.HDR.Atmos.7.1.[En+Hi]-DTOne.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/The Hunger.Games.Mockingjay.Part.2.2015.2160p.UHD.BluRay.x265.HDR.Atmos.7.1.[En+Hi]-DTOne/The.Hunger.Games.Mockingjay.Part.2.2015.2160p.UHD.BluRay.x265.HDR.Atmos.7.1.[En+Hi]-DTOne.mkv</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

@@ -1911,3 +1911,353 @@ PRAGMA temp_store=2;
 [2026-04-22 02:24:12.241 +01:00] [WRN] [32] Jellyfin.Networking.Manager.NetworkManager: "::ffff:192.168.65.1": Only loopback "::1" returned, using that as bind address.
 [2026-04-22 02:24:12.243 +01:00] [INF] [31] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "::ffff:192.168.65.1" request
 [2026-04-22 02:24:12.361 +01:00] [WRN] [33] Jellyfin.Networking.Manager.NetworkManager: "::ffff:192.168.65.1": Only loopback "::1" returned, using that as bind address.
+[2026-04-22 02:24:23.311 +01:00] [WRN] [29] Jellyfin.Networking.Manager.NetworkManager: "::ffff:192.168.65.1": Only loopback "::1" returned, using that as bind address.
+[2026-04-22 02:24:38.715 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.Api.TMDbBoxSetsController: Starting a manual refresh of TMDb collections
+[2026-04-22 02:24:38.835 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Found 49 TMDb collection(s) across all movies
+[2026-04-22 02:24:38.837 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "10 Things I Hate About You"
+[2026-04-22 02:24:38.837 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Alien"
+[2026-04-22 02:24:38.837 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Avatar: Fire and Ash"
+[2026-04-22 02:24:38.837 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Batman"
+[2026-04-22 02:24:38.837 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Batman Begins"
+[2026-04-22 02:24:38.837 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Battle Royale"
+[2026-04-22 02:24:38.838 +01:00] [INF] [29] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Before... Collection" ("123800") does not exist. Creating it now!
+[2026-04-22 02:24:38.840 +01:00] [INF] [29] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media_local/movies"
+[2026-04-22 02:24:38.840 +01:00] [INF] [29] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media_local/shows"
+[2026-04-22 02:24:38.840 +01:00] [INF] [29] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/movies"
+[2026-04-22 02:24:38.840 +01:00] [INF] [29] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/audiobooks"
+[2026-04-22 02:24:38.841 +01:00] [INF] [29] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/shows"
+[2026-04-22 02:24:39.188 +01:00] [ERR] [29] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-22 02:24:39.272 +01:00] [WRN] [29] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2026-04-22 02:24:39.300 +01:00] [ERR] [31] MediaBrowser.Controller.Entities.BaseItem: Error refreshing owned items for "/shows"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.Entities.BaseItem.GetFileSystemChildren(IDirectoryService directoryService)
+   at MediaBrowser.Controller.Entities.BaseItem.RefreshMetadata(MetadataRefreshOptions options, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.300 +01:00] [ERR] [31] MediaBrowser.Providers.Folders.FolderMetadataService: Error validating images for "/shows"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetFiles(BaseItem item, Boolean includeDirectories, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.355 +01:00] [ERR] [32] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Shows (external)"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.<>c.<FileInfos>b__5_0(FileSystemEntry& entry)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableWhereIterator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.MoveNext()
+   at System.Collections.Generic.SegmentedArrayBuilder`1.AddRange(IEnumerable`1 source)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.378 +01:00] [ERR] [31] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Shows (external)"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.<>c.<FileInfos>b__5_0(FileSystemEntry& entry)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableWhereIterator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.MoveNext()
+   at System.Collections.Generic.SegmentedArrayBuilder`1.AddRange(IEnumerable`1 source)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.381 +01:00] [INF] [25] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2026-04-22 02:24:39.435 +01:00] [INF] [32] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Blade Runner"
+[2026-04-22 02:24:39.435 +01:00] [INF] [32] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Bridget Jones's Diary"
+[2026-04-22 02:24:39.435 +01:00] [INF] [32] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "James Bond Collection" ("645") does not exist. Creating it now!
+[2026-04-22 02:24:39.470 +01:00] [INF] [31] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Crouching Tiger, Hidden Dragon"
+[2026-04-22 02:24:39.470 +01:00] [INF] [31] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Die Hard"
+[2026-04-22 02:24:39.470 +01:00] [INF] [31] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Dune Collection" ("726871") does not exist. Creating it now!
+[2026-04-22 02:24:39.518 +01:00] [ERR] [25] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-22 02:24:39.560 +01:00] [WRN] [25] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2026-04-22 02:24:39.561 +01:00] [ERR] [25] MediaBrowser.Controller.Entities.BaseItem: Error refreshing owned items for "/shows"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.Entities.BaseItem.GetFileSystemChildren(IDirectoryService directoryService)
+   at MediaBrowser.Controller.Entities.BaseItem.RefreshMetadata(MetadataRefreshOptions options, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.561 +01:00] [ERR] [25] MediaBrowser.Providers.Folders.FolderMetadataService: Error validating images for "/shows"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetFiles(BaseItem item, Boolean includeDirectories, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.578 +01:00] [ERR] [33] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Shows (external)"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.<>c.<FileInfos>b__5_0(FileSystemEntry& entry)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableWhereIterator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.MoveNext()
+   at System.Collections.Generic.SegmentedArrayBuilder`1.AddRange(IEnumerable`1 source)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.590 +01:00] [ERR] [31] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Shows (external)"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.<>c.<FileInfos>b__5_0(FileSystemEntry& entry)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableWhereIterator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.MoveNext()
+   at System.Collections.Generic.SegmentedArrayBuilder`1.AddRange(IEnumerable`1 source)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.629 +01:00] [ERR] [31] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-22 02:24:39.688 +01:00] [WRN] [31] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2026-04-22 02:24:39.698 +01:00] [ERR] [29] MediaBrowser.Controller.Entities.BaseItem: Error retrieving children
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.Entities.BaseItem.GetFileSystemChildren(IDirectoryService directoryService)
+   at MediaBrowser.Controller.Entities.Folder.GetNonCachedChildren(IDirectoryService directoryService)
+   at MediaBrowser.Controller.Entities.Folder.ValidateChildrenInternal2(IProgress`1 progress, Boolean recursive, Boolean refreshChildMetadata, Boolean allowRemoveRoot, MetadataRefreshOptions refreshOptions, IDirectoryService directoryService, CancellationToken cancellationToken)
+[2026-04-22 02:24:39.790 +01:00] [INF] [32] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "F1"
+[2026-04-22 02:24:39.790 +01:00] [INF] [32] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Gladiator Collection" ("1069584") does not exist. Creating it now!
+[2026-04-22 02:24:39.818 +01:00] [INF] [39] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "The Godfather Collection" ("230") does not exist. Creating it now!
+[2026-04-22 02:24:39.842 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Grease"
+[2026-04-22 02:24:39.842 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Harry Potter Collection" ("1241") does not exist. Creating it now!
+[2026-04-22 02:24:39.870 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "How to Train Your Dragon"
+[2026-04-22 02:24:39.870 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "How to Train Your Dragon Collection" ("89137") does not exist. Creating it now!
+[2026-04-22 02:24:39.889 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "The Human Condition Collection" ("85473") does not exist. Creating it now!
+[2026-04-22 02:24:39.969 +01:00] [INF] [39] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "The Hunger Games Collection" ("131635") does not exist. Creating it now!
+[2026-04-22 02:24:39.986 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Interpol Code 8"
+[2026-04-22 02:24:39.986 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Joker Collection" ("987044") does not exist. Creating it now!
+[2026-04-22 02:24:40.001 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Kaguya-sama Final: Love Is War"
+[2026-04-22 02:24:40.001 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Kill Bill Collection" ("2883") does not exist. Creating it now!
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Lord of the Rings: The Fellowship of the Ring"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Mary Poppins"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Matrix"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "A Minecraft Movie"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Now You See Me: Now You Don't"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Ocean's Eleven"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Predator: Badlands"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Scenes from a Marriage"
+[2026-04-22 02:24:40.023 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Sex and the City Collection" ("50457") does not exist. Creating it now!
+[2026-04-22 02:24:40.049 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Silence of the Lambs"
+[2026-04-22 02:24:40.049 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Spider-Man: Spider-Verse Collection" ("573436") does not exist. Creating it now!
+[2026-04-22 02:24:40.069 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Superman"
+[2026-04-22 02:24:40.069 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "Three Colors Collection" ("131") does not exist. Creating it now!
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Top Gun: Maverick"
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Train to Busan"
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Transformers"
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Violet Evergarden: The Movie"
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Wicked"
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Wild Robot"
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Wings of Desire"
+[2026-04-22 02:24:40.092 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Box Set for "World of Tomorrow Collection" ("506918") does not exist. Creating it now!
+[2026-04-22 02:24:40.112 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Wrong Trousers"
+[2026-04-22 02:24:40.112 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Yojimbo"
+[2026-04-22 02:24:40.113 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.Api.TMDbBoxSetsController: Completed refresh of TMDb collections
+[2026-04-22 02:24:40.516 +01:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Error resolving path "/movies/Y Tu Mamá También (2001) [1080p] [BluRay] [5.1] [YTS.MX]"
+System.UnauthorizedAccessException: Access to the path '/movies/Y Tu Mamá También (2001) [1080p] [BluRay] [5.1] [YTS.MX]/._Y.Tu.Mamá.También.2001.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileStatus.ThrowOnCacheInitializationError(ReadOnlySpan`1 path)
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolveFileList(IReadOnlyList`1 fileList, IDirectoryService directoryService, Folder parent, Nullable`1 collectionType, IItemResolver[] resolvers, LibraryOptions libraryOptions)+MoveNext()
+[2026-04-22 02:24:40.595 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.Api.TMDbBoxSetsController: Starting a manual refresh of TMDb collections
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Found 49 TMDb collection(s) across all movies
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "10 Things I Hate About You"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Alien"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Avatar: Fire and Ash"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Batman"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Batman Begins"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Battle Royale"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Before Midnight, Before Sunrise, Before Sunset" is/are already in their proper box set, "Before... Collection"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Blade Runner"
+[2026-04-22 02:24:40.668 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Bridget Jones's Diary"
+[2026-04-22 02:24:40.690 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Casino Royale, Diamonds Are Forever, Die Another Day, Dr. No, For Your Eyes Only, From Russia with Love, GoldenEye, Goldfinger, Licence to Kill, Live and Let Die, The Living Daylights, The Man with the Golden Gun, Moonraker, Never Say Never Again, No Time to Die, Octopussy, On Her Majesty's Secret Service, Quantum of Solace, Skyfall, Spectre, The Spy Who Loved Me, Thunderball, Tomorrow Never Dies, A View to a Kill, The World Is Not Enough, You Only Live Twice" is/are already in their proper box set, "James Bond Collection"
+[2026-04-22 02:24:40.690 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Crouching Tiger, Hidden Dragon"
+[2026-04-22 02:24:40.690 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Die Hard"
+[2026-04-22 02:24:40.692 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Dune, Dune: Part Two" is/are already in their proper box set, "Dune Collection"
+[2026-04-22 02:24:40.692 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "F1"
+[2026-04-22 02:24:40.693 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Gladiator, Gladiator II" is/are already in their proper box set, "Gladiator Collection"
+[2026-04-22 02:24:40.694 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "The Godfather, The Godfather Part II" is/are already in their proper box set, "The Godfather Collection"
+[2026-04-22 02:24:40.694 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Grease"
+[2026-04-22 02:24:40.700 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Harry Potter and the Chamber of Secrets, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Goblet of Fire, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix, Harry Potter and the Philosopher's Stone, Harry Potter and the Prisoner of Azkaban" is/are already in their proper box set, "Harry Potter Collection"
+[2026-04-22 02:24:40.700 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "How to Train Your Dragon"
+[2026-04-22 02:24:40.702 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "How to Train Your Dragon, How to Train Your Dragon 2, How to Train Your Dragon: The Hidden World" is/are already in their proper box set, "How to Train Your Dragon Collection"
+[2026-04-22 02:24:40.704 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "The Human Condition I: No Greater Love, The Human Condition II: Road to Eternity, The Human Condition III: A Soldier's Prayer" is/are already in their proper box set, "The Human Condition Collection"
+[2026-04-22 02:24:40.706 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "The Hunger Games, The Hunger Games: Catching Fire, The Hunger Games: Mockingjay - Part 1, The Hunger Games: Mockingjay - Part 2" is/are already in their proper box set, "The Hunger Games Collection"
+[2026-04-22 02:24:40.706 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Interpol Code 8"
+[2026-04-22 02:24:40.707 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Joker, Joker" is/are already in their proper box set, "Joker Collection"
+[2026-04-22 02:24:40.707 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Kaguya-sama Final: Love Is War"
+[2026-04-22 02:24:40.708 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Kill Bill: Vol. 1, Kill Bill: Vol. 2" is/are already in their proper box set, "Kill Bill Collection"
+[2026-04-22 02:24:40.708 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Lord of the Rings: The Fellowship of the Ring"
+[2026-04-22 02:24:40.708 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Mary Poppins"
+[2026-04-22 02:24:40.708 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Matrix"
+[2026-04-22 02:24:40.708 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "A Minecraft Movie"
+[2026-04-22 02:24:40.709 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Now You See Me: Now You Don't"
+[2026-04-22 02:24:40.709 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Ocean's Eleven"
+[2026-04-22 02:24:40.709 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Predator: Badlands"
+[2026-04-22 02:24:40.709 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Scenes from a Marriage"
+[2026-04-22 02:24:40.710 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Sex and the City, Sex and the City 2" is/are already in their proper box set, "Sex and the City Collection"
+[2026-04-22 02:24:40.710 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Silence of the Lambs"
+[2026-04-22 02:24:40.711 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Spider-Man: Across the Spider-Verse, Spider-Man: Into the Spider-Verse" is/are already in their proper box set, "Spider-Man: Spider-Verse Collection"
+[2026-04-22 02:24:40.711 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Superman"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "Three Colors: Blue, Three Colors: Red, Three Colors: White" is/are already in their proper box set, "Three Colors Collection"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Top Gun: Maverick"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Train to Busan"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Transformers"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Violet Evergarden: The Movie"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Wicked"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Wild Robot"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Wings of Desire"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: The movies "World of Tomorrow, World of Tomorrow Episode Three: The Absent Destinations of David Prime, World of Tomorrow Episode Two: The Burden of Other People's Thoughts" is/are already in their proper box set, "World of Tomorrow Collection"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "The Wrong Trousers"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.TMDbBoxSetManager: Minimum number of movies is 2, but there is/are only 1: "Yojimbo"
+[2026-04-22 02:24:40.714 +01:00] [INF] [34] Jellyfin.Plugin.TMDbBoxSets.Api.TMDbBoxSetsController: Completed refresh of TMDb collections
+[2026-04-22 02:24:48.555 +01:00] [ERR] [34] MediaBrowser.Controller.Entities.BaseItem: Error refreshing owned items for "/shows"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerable`1.DelegateEnumerator.TransformEntry(FileSystemEntry& entry)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.Entities.BaseItem.RefreshMetadata(MetadataRefreshOptions options, CancellationToken cancellationToken)
+[2026-04-22 02:24:48.556 +01:00] [ERR] [34] MediaBrowser.Providers.Folders.FolderMetadataService: Error validating images for "/shows"
+System.UnauthorizedAccessException: Access to the path '/shows/._Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI' is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at System.IO.FileSystemInfo.Create(String fullPath, String fileName, Boolean asDirectory, FileStatus& fileStatus)
+   at System.IO.Enumeration.FileSystemEnumerable`1.DelegateEnumerator.TransformEntry(FileSystemEntry& entry)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.IEnumerableSelectIterator`2.ToArray()
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetFiles(BaseItem item, Boolean includeDirectories, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-22 02:24:49.311 +01:00] [WRN] [32] Jellyfin.Networking.Manager.NetworkManager: "::ffff:192.168.65.1": Only loopback "::1" returned, using that as bind address.
+[2026-04-22 02:24:55.239 +01:00] [WRN] [25] Microsoft.EntityFrameworkCore.Query: Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-04-22 02:24:58.393 +01:00] [INF] [29] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 19 seconds
+[2026-04-22 02:24:58.450 +01:00] [INF] [37] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media_local/shows"
+[2026-04-22 02:24:58.472 +01:00] [INF] [30] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media_local/movies"
+[2026-04-22 02:24:58.908 +01:00] [INF] [39] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/shows"
+[2026-04-22 02:24:58.931 +01:00] [INF] [25] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/audiobooks"
+[2026-04-22 02:24:58.957 +01:00] [INF] [33] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/movies"
+[2026-04-22 02:25:44.669 +01:00] [WRN] [29] Jellyfin.Networking.Manager.NetworkManager: "::ffff:192.168.65.1": Only loopback "::1" returned, using that as bind address.
