@@ -1,0 +1,263 @@
+{"timestamp":"2026-04-22 00:34:51.815","source":"Server.js:220","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.816","source":"Server.js:143","message":"[Server] Init v2.33.2","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.816","source":"Server.js:144","message":"[Server] Node.js Version: v20.20.2","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.816","source":"Server.js:145","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.816","source":"Server.js:146","message":"[Server] Arch: arm64","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.818","source":"Database.js:171","message":"[Database] absdatabase.sqlite not found at /config/absdatabase.sqlite","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.818","source":"Database.js:217","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.831","source":"Database.js:292","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.831","source":"Database.js:300","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.831","source":"Database.js:269","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.831","source":"Database.js:273","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.845","source":"MigrationManager.js:76","message":"[MigrationManager] Database is new. Skipping migrations.","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.991","source":"Database.js:201","message":"[Database] Db initialized with models: user, session, apiKey, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.992","source":"Database.js:865","message":"[Database] Adding trigger update_library_items_title","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.994","source":"Database.js:865","message":"[Database] Adding trigger update_library_items_title_ignore_prefix","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.995","source":"Database.js:865","message":"[Database] Adding trigger update_library_items_title_from_podcasts_title","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.997","source":"Database.js:865","message":"[Database] Adding trigger update_library_items_title_ignore_prefix_from_podcasts_title_ignore_prefix","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:51.999","source":"Database.js:903","message":"[Database] Adding trigger update_library_items_author_names_on_book_authors_insert","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.001","source":"Database.js:903","message":"[Database] Adding trigger update_library_items_author_names_on_book_authors_delete","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.003","source":"Database.js:928","message":"[Database] Adding trigger update_library_items_author_names_on_authors_update","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.019","source":"Database.js:207","message":"[Database] running ANALYZE","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.021","source":"Database.js:209","message":"[Database] ANALYZE completed","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.021","source":"TokenManager.js:42","message":"[TokenManager] JWT secret key not found, generating one","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.024","source":"LogManager.js:71","message":"[LogManager] Init current daily log filename: 2026-04-22.txt","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.028","source":"BackupManager.js:327","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.028","source":"BackupManager.js:77","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:34:52.036","source":"Server.js:423","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:46:49.239","source":"Server.js:432","message":"[Server] Initializing new server","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:46:52.867","source":"LocalAuthStrategy.js:88","message":"[LocalAuth] User \"bill\" logged in from ip ::ffff:192.168.65.1","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:46:52.931","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io VYMbOIbFNSFx6X4RAAAB","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:47:22.725","source":"Watcher.js:58","message":"[Watcher] Initializing watcher for \"Audiobooks\".","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:47:25.567","source":"Watcher.js:89","message":"[Watcher] \"Audiobooks\" Ready","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:48.969","source":"LibraryScanner.js:65","message":"[LibraryScanner] Library metadata precedence changed since last scan. From [Unset] to [folderStructure,audioMetatags,nfoFile,txtFiles,opfFile,absMetadata]","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:48.969","source":"LibraryScanner.js:86","message":"[LibraryScanner] Starting (forced) library scan 6db582cd-b909-4c83-ab20-d43fc3fbc9a1 for Audiobooks","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:52.727","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:52.728","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:52.728","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=autobiographical+talk\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:54.222","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:54.824","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:55.432","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:55.619","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:55.619","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:55.619","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=eastern+%26+western+zen\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:55.619","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=05\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:55.619","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=wisdom+of+the+ridiculous\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:56.434","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:56.591","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:57.200","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:57.827","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:58.476","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:58.650","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:58.650","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:58.650","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=eastern+thought\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:58.650","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=modern+world\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:48:59.744","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:48:59.923","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:00.540","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:01.169","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:01.326","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:01.512","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:01.513","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:01.513","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=fundamentals+of+buddhism+1+of+2\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:02.546","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:03.159","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:03.761","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:03.897","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:04.502","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:04.677","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:04.677","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:04.678","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=fundamentals+of+buddhism+2+of+2\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:05.166","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:05.305","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:05.938","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:06.085","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:06.741","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:07.384","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:07.384","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:07.384","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=game+theory+of+ethics\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:08.387","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:08.518","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:08.659","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:08.852","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:08.852","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:08.852","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=lao+tzu%27s+tao+te+ching\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:09.364","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:09.508","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:09.647","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:10.295","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:10.295","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:10.296","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=philosophies+of+asia\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:10.296","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=introduction+to+buddhism\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:11.455","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:12.061","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:12.201","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:12.813","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:13.030","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:13.674","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:13.674","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:13.675","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=philosophy+of+the+tao\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:14.216","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:14.356","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:14.963","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:15.127","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:15.127","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:15.127","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=seeing+through+the+game\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:15.128","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=jung\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:15.593","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket VYMbOIbFNSFx6X4RAAAB disconnected from client \"bill\" after 142662ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:15.742","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io eoRr7TH-jvFHCAFgAAAD","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:15.806","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:15.953","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:16.174","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:16.322","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:16.469","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:17.109","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:17.110","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:17.110","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=seminar+on+tibetan+buddhism\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:17.110","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=wisdom+of+the+mountains+4\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:17.759","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:17.907","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:18.053","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:18.269","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:18.406","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:19.050","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:19.050","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:19.050","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=still+the+mind-intro+to+meditation\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:19.996","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:20.609","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:20.801","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:20.801","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:20.801","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=taboo+against+knowing+who+you+are\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:21.276","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:21.948","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:22.101","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:22.240","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:22.830","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:23.514","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:23.514","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:23.514","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=teaches+meditation\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:24.049","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:24.184","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:24.339","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:24.569","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:24.570","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:24.570","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=this+timeless+moment\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:24.570","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts+talks+with+laura+huxley\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:25.241","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:25.367","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:26.006","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:26.149","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:26.296","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:26.477","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:26.477","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:26.477","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=what+is+reality+1967\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:27.441","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:27.588","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:27.716","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:28.322","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:28.928","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:29.097","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:29.097","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:29.097","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=whole+thing\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:29.097","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alert+relazation\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:29.097","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=complete\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:29.951","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:30.071","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:30.199","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:30.854","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:30.992","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:31.190","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:31.190","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:31.190","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=zen+accident\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:31.674","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:31.804","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:32.031","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:32.031","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:32.031","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=zen+practice%2C+zen+art+pt1\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:32.583","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:32.741","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:32.953","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:33.094","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:33.238","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:33.883","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:33.883","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:33.883","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=zen+tales\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:34.361","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:34.529","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:35.156","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:35.789","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:35.789","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:35.789","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=zen+and+the+art+of+controlled+accidents\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:36.285","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:36.417","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:36.633","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:36.634","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=alan+watts\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:36.634","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=zen+and+the+limits+of+explanation\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:37.145","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:37.757","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:38.361","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:38.756","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:38.756","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=matthew+mcconaughey\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:38.756","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=greenlights\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:39.764","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:39.900","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:40.098","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:40.098","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=miss+peregrine%27s+peculiar+children+book+5\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:40.098","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=the+conference+of+the+birds\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:40.610","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:40.825","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:40.965","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:42.056","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:42.056","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=murderbot+diaries+book+6\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:42.056","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=network+effect\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:43.004","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:43.627","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:43.768","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:44.754","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:44.754","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=the+horus+heresy\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:44.754","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=siege+of+terra+book+3\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:44.754","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=the+first+wall\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:45.391","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:45.549","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:45.690","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:45.832","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:45.961","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:47.350","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:47.351","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=world+of+warcraft+book+24\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:47.351","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=shadows+rising\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:49:47.834","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:47.973","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:49:48.580","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:19.991","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:19.992","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=orson+scott+card+collection\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:19.992","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=orson+scott+card-the+worthing+saga\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:20.501","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:20.661","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:21.711","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:21.712","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=john+grisham\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:21.712","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=the+summons\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:22.644","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:23.296","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:30.244","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:30.245","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=basil+rathbone\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:30.245","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=the+edgar+allan+poe+audio+coll\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:31.254","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:31.394","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:37.548","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:37.548","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=orson+scott+card+collection\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:37.549","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=orson+scott+card-mayflower+series-%231-lovelock\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:38.571","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:39.179","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:42.884","source":"LibraryScanner.js:92","message":"[LibraryScanner] Library scan \"6db582cd-b909-4c83-ab20-d43fc3fbc9a1\" completed in 1:53 | 369 Added | 0 Updated | 0 Missing","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:42.894","source":"LibraryScan.js:139","message":"[LibraryScan] Scan log saved \"/metadata/logs/scans/2026-04-22_6db582cd-b909-4c83-ab20-d43fc3fbc9a1.txt\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:42.913","source":"LibraryController.js:1273","message":"[LibraryController] Scan complete","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:56.669","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:56.669","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=john+grisham\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:56.669","source":"Audnexus.js:53","message":"[Audnexus] Searching for author \"https://api.audnex.us/authors?name=the+summons\"","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 00:50:57.641","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 00:50:58.240","source":"GoogleBooks.js:70","message":"[GoogleBooks] Volume search error Request failed with status code 429","levelName":"ERROR","level":4}
+{"timestamp":"2026-04-22 01:00:46.646","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket eoRr7TH-jvFHCAFgAAAD disconnected from client \"bill\" after 690904ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 01:00:46.881","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io CeHpbt-FcUD6L6StAAAF","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 01:01:11.838","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket CeHpbt-FcUD6L6StAAAF disconnected from client \"bill\" after 24957ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 01:12:50.975","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io f-vnAVkOLP85aXZsAAAH","levelName":"INFO","level":2}
+{"timestamp":"2026-04-22 01:13:39.401","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket f-vnAVkOLP85aXZsAAAH disconnected from client \"bill\" after 48426ms (Reason: transport close)","levelName":"INFO","level":2}

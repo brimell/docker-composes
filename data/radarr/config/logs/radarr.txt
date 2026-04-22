@@ -1,0 +1,1118 @@
+2026-04-22 00:57:36.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:36.4|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:36.4|Info|RefreshMovieService|Updating info for In the Mood for Love
+2026-04-22 00:57:36.4|Info|DiskScanService|Scanning disk for In the Mood for Love
+2026-04-22 00:57:36.4|Info|DiskScanService|Completed scanning disk for In the Mood for Love
+2026-04-22 00:57:36.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:36.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:36.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:36.4|Info|ExistingExtraFileService|Found 4 possible extra files, imported 4 files.
+2026-04-22 00:57:36.5|Info|RefreshMovieService|Updating info for Incendies
+2026-04-22 00:57:36.5|Info|DiskScanService|Scanning disk for Incendies
+2026-04-22 00:57:36.5|Info|DiskScanService|Completed scanning disk for Incendies
+2026-04-22 00:57:36.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:36.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:36.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:36.5|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:36.5|Info|RefreshMovieService|Updating info for The Intern
+2026-04-22 00:57:36.6|Info|DiskScanService|Scanning disk for The Intern
+2026-04-22 00:57:36.6|Info|DiskScanService|Completed scanning disk for The Intern
+2026-04-22 00:57:36.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:36.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:36.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:36.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:36.6|Info|RefreshMovieService|Updating info for Interpol Code 8
+2026-04-22 00:57:36.6|Info|DiskScanService|Scanning disk for Interpol Code 8
+2026-04-22 00:57:36.6|Info|DiskScanService|Completed scanning disk for Interpol Code 8
+2026-04-22 00:57:36.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:36.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:36.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:36.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:36.7|Info|RefreshMovieService|Updating info for Interstellar
+2026-04-22 00:57:36.7|Info|DiskScanService|Scanning disk for Interstellar
+2026-04-22 00:57:36.7|Info|DiskScanService|Completed scanning disk for Interstellar
+2026-04-22 00:57:36.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:36.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:36.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:36.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:36.7|Info|RefreshMovieService|Updating info for The Iron Giant
+2026-04-22 00:57:36.9|Info|DiskScanService|Scanning disk for The Iron Giant
+2026-04-22 00:57:36.9|Info|DiskScanService|Completed scanning disk for The Iron Giant
+2026-04-22 00:57:36.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:36.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:36.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:36.9|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:36.9|Info|RefreshMovieService|Updating info for It's Such a Beautiful Day
+2026-04-22 00:57:36.9|Info|DiskScanService|Scanning disk for It's Such a Beautiful Day
+2026-04-22 00:57:36.9|Info|DiskScanService|Completed scanning disk for It's Such a Beautiful Day
+2026-04-22 00:57:36.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:36.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.0|Info|ExistingExtraFileService|Found 6 possible extra files, imported 3 files.
+2026-04-22 00:57:37.0|Info|RefreshMovieService|Updating info for Joker
+2026-04-22 00:57:37.0|Info|DiskScanService|Scanning disk for Joker
+2026-04-22 00:57:37.2|Info|MovieService|Assigning file [Sample,Screens/Joker 2019 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv] to movie [[Joker (2019)][tt7286456, 475557]]
+2026-04-22 00:57:37.2|Info|DiskScanService|Completed scanning disk for Joker
+2026-04-22 00:57:37.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.3|Info|ExistingExtraFileService|Found 23 possible extra files, imported 19 files.
+2026-04-22 00:57:37.3|Info|RefreshMovieService|Updating info for Kaguya-sama Final: Love Is War
+2026-04-22 00:57:37.4|Info|DiskScanService|Scanning disk for Kaguya-sama Final: Love Is War
+2026-04-22 00:57:37.4|Info|DiskScanService|Completed scanning disk for Kaguya-sama Final: Love Is War
+2026-04-22 00:57:37.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:37.4|Info|RefreshMovieService|Updating info for Kill Bill: Vol. 1
+2026-04-22 00:57:37.4|Info|DiskScanService|Scanning disk for Kill Bill: Vol. 1
+2026-04-22 00:57:37.4|Info|DiskScanService|Completed scanning disk for Kill Bill: Vol. 1
+2026-04-22 00:57:37.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.5|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:37.5|Info|RefreshMovieService|Updating info for Kill Bill: Vol. 2
+2026-04-22 00:57:37.5|Info|DiskScanService|Scanning disk for Kill Bill: Vol. 2
+2026-04-22 00:57:37.5|Info|DiskScanService|Completed scanning disk for Kill Bill: Vol. 2
+2026-04-22 00:57:37.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.5|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:37.5|Info|RefreshMovieService|Updating info for Kitbull
+2026-04-22 00:57:37.6|Info|DiskScanService|Scanning disk for Kitbull
+2026-04-22 00:57:37.6|Info|DiskScanService|Completed scanning disk for Kitbull
+2026-04-22 00:57:37.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:37.6|Info|RefreshMovieService|Updating info for La Haine
+2026-04-22 00:57:37.6|Info|DiskScanService|Scanning disk for La Haine
+2026-04-22 00:57:37.6|Info|DiskScanService|Completed scanning disk for La Haine
+2026-04-22 00:57:37.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.6|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:37.7|Info|RefreshMovieService|Updating info for La La Land
+2026-04-22 00:57:37.7|Info|DiskScanService|Scanning disk for La La Land
+2026-04-22 00:57:37.7|Info|DiskScanService|Completed scanning disk for La La Land
+2026-04-22 00:57:37.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:37.7|Info|RefreshMovieService|Updating info for La Notte
+2026-04-22 00:57:37.8|Info|DiskScanService|Scanning disk for La Notte
+2026-04-22 00:57:37.8|Info|MovieService|Assigning file [Sample.mkv] to movie [[La Notte (1961)][tt0054130, 41050]]
+2026-04-22 00:57:37.8|Info|DiskScanService|Completed scanning disk for La Notte
+2026-04-22 00:57:37.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.8|Info|ExistingExtraFileService|Found 5 possible extra files, imported 0 files.
+2026-04-22 00:57:37.8|Info|RefreshMovieService|Updating info for Lady Bird
+2026-04-22 00:57:37.9|Info|DiskScanService|Scanning disk for Lady Bird
+2026-04-22 00:57:37.9|Info|DiskScanService|Completed scanning disk for Lady Bird
+2026-04-22 00:57:37.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:37.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:37.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:37.9|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:37.9|Info|RefreshMovieService|Updating info for Lawrence of Arabia
+2026-04-22 00:57:38.0|Info|DiskScanService|Scanning disk for Lawrence of Arabia
+2026-04-22 00:57:38.0|Info|DiskScanService|Completed scanning disk for Lawrence of Arabia
+2026-04-22 00:57:38.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.0|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:38.0|Info|RefreshMovieService|Updating info for Le Samouraï
+2026-04-22 00:57:38.1|Info|DiskScanService|Scanning disk for Le Samouraï
+2026-04-22 00:57:38.1|Info|DiskScanService|Completed scanning disk for Le Samouraï
+2026-04-22 00:57:38.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.1|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:38.1|Info|RefreshMovieService|Updating info for Le Trou
+2026-04-22 00:57:38.1|Info|DiskScanService|Scanning disk for Le Trou
+2026-04-22 00:57:38.1|Info|DiskScanService|Completed scanning disk for Le Trou
+2026-04-22 00:57:38.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.1|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:38.1|Info|RefreshMovieService|Updating info for The Life Aquatic with Steve Zissou
+2026-04-22 00:57:38.2|Info|DiskScanService|Scanning disk for The Life Aquatic with Steve Zissou
+2026-04-22 00:57:38.2|Info|DiskScanService|Completed scanning disk for The Life Aquatic with Steve Zissou
+2026-04-22 00:57:38.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.2|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:38.2|Info|RefreshMovieService|Updating info for Life of Pi
+2026-04-22 00:57:38.2|Info|DiskScanService|Scanning disk for Life of Pi
+2026-04-22 00:57:38.2|Error|VideoFileInfoReader|Unable to parse media info from file: /movies/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT.mkv
+
+[v6.1.1.10360] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x406e4380] EBML header parsing failed
+/movies/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./NzbDrone.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 67
+
+
+2026-04-22 00:57:38.2|Error|DetectSample|Failed to get runtime from the file, make sure ffprobe is available
+2026-04-22 00:57:38.2|Error|VideoFileInfoReader|Unable to parse media info from file: /movies/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT.mkv
+
+[v6.1.1.10360] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x253b4380] EBML header parsing failed
+/movies/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./NzbDrone.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 67
+
+
+2026-04-22 00:57:38.2|Info|MovieService|Assigning file [Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT.mkv] to movie [[Life of Pi (2012)][tt0454876, 87827]]
+2026-04-22 00:57:38.3|Info|DiskScanService|Completed scanning disk for Life of Pi
+2026-04-22 00:57:38.3|Error|VideoFileInfoReader|Unable to parse media info from file: /movies/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT.mkv
+
+[v6.1.1.10360] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x2bf4f380] EBML header parsing failed
+/movies/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT/Life.of.Pi.2012.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1-FGT.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./NzbDrone.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 67
+
+
+2026-04-22 00:57:38.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.3|Info|ExistingExtraFileService|Found 5 possible extra files, imported 5 files.
+2026-04-22 00:57:38.3|Info|RefreshMovieService|Updating info for Limelight
+2026-04-22 00:57:38.4|Info|DiskScanService|Scanning disk for Limelight
+2026-04-22 00:57:38.4|Info|DiskScanService|Completed scanning disk for Limelight
+2026-04-22 00:57:38.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.4|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:38.4|Info|RefreshMovieService|Updating info for Little Miss Sunshine
+2026-04-22 00:57:38.5|Info|DiskScanService|Scanning disk for Little Miss Sunshine
+2026-04-22 00:57:38.5|Info|DiskScanService|Completed scanning disk for Little Miss Sunshine
+2026-04-22 00:57:38.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.5|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:38.5|Info|RefreshMovieService|Updating info for Little Women
+2026-04-22 00:57:38.5|Info|DiskScanService|Scanning disk for Little Women
+2026-04-22 00:57:38.5|Info|DiskScanService|Completed scanning disk for Little Women
+2026-04-22 00:57:38.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.5|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:38.5|Info|RefreshMovieService|Updating info for The Lord of the Rings: The Fellowship of the Ring
+2026-04-22 00:57:38.6|Info|DiskScanService|Scanning disk for The Lord of the Rings: The Fellowship of the Ring
+2026-04-22 00:57:38.6|Info|DiskScanService|Completed scanning disk for The Lord of the Rings: The Fellowship of the Ring
+2026-04-22 00:57:38.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.6|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:38.6|Info|RefreshMovieService|Updating info for The Lord of the Rings: The Return of the King
+2026-04-22 00:57:38.7|Info|DiskScanService|Scanning disk for The Lord of the Rings: The Return of the King
+2026-04-22 00:57:38.7|Info|DiskScanService|Completed scanning disk for The Lord of the Rings: The Return of the King
+2026-04-22 00:57:38.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.7|Warn|AggregationService|Unable to augment information for file: '/movies/The Lord Of The Rings The Return Of The King (2003) [EXTENDED] [2160p] [4K] [BluRay] [5.1] [YTS.MX]/YTSProxies.com.txt'. Movie: [The Lord of the Rings: The Return of the King (2003)][tt0167260, 122] Error: Object reference not set to an instance of an object.
+
+[v6.1.1.10360] System.NullReferenceException: Object reference not set to an instance of an object.
+   at NzbDrone.Core.MediaFiles.MovieImport.Aggregation.Aggregators.AggregateSubtitleInfo.CleanSubtitleTitleInfo(MovieFile movieFile, String path, String fileNameBeforeRename) in ./NzbDrone.Core/MediaFiles/MovieImport/Aggregation/Aggregators/AggregateSubtitleInfo.cs:line 42
+   at NzbDrone.Core.MediaFiles.MovieImport.Aggregation.Aggregators.AggregateSubtitleInfo.Aggregate(LocalMovie localMovie, DownloadClientItem downloadClientItem) in ./NzbDrone.Core/MediaFiles/MovieImport/Aggregation/Aggregators/AggregateSubtitleInfo.cs:line 35
+   at NzbDrone.Core.MediaFiles.MovieImport.Aggregation.AggregationService.Augment(LocalMovie localMovie, DownloadClientItem downloadClientItem) in ./NzbDrone.Core/MediaFiles/MovieImport/Aggregation/AggregationService.cs:line 67
+
+
+2026-04-22 00:57:38.7|Error|EventAggregator|ExistingExtraFileService failed while processing [MovieScannedEvent]
+
+[v6.1.1.10360] System.NullReferenceException: Object reference not set to an instance of an object.
+   at NzbDrone.Core.Extras.Subtitles.ExistingSubtitleImporter.ProcessFiles(Movie movie, List`1 filesOnDisk, List`1 importedFiles, String fileNameBeforeRename) in ./NzbDrone.Core/Extras/Subtitles/ExistingSubtitleImporter.cs:line 74
+   at NzbDrone.Core.Extras.ExistingExtraFileService.ImportExtraFiles(Movie movie, List`1 possibleExtraFiles, String fileNameBeforeRename) in ./NzbDrone.Core/Extras/ExistingExtraFileService.cs:line 36
+   at NzbDrone.Core.Extras.ExistingExtraFileService.Handle(MovieScannedEvent message) in ./NzbDrone.Core/Extras/ExistingExtraFileService.cs:line 48
+   at NzbDrone.Core.Messaging.Events.EventAggregator.PublishEvent[TEvent](TEvent event)
+
+
+2026-04-22 00:57:38.7|Info|RefreshMovieService|Updating info for The Lord of the Rings: The Two Towers
+2026-04-22 00:57:38.7|Info|DiskScanService|Scanning disk for The Lord of the Rings: The Two Towers
+2026-04-22 00:57:38.8|Info|DiskScanService|Completed scanning disk for The Lord of the Rings: The Two Towers
+2026-04-22 00:57:38.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.8|Warn|AggregationService|Unable to augment information for file: '/movies/The Lord Of The Rings The Two Towers (2002) [EXTENDED] [2160p] [4K] [BluRay] [5.1] [YTS.MX]/YTSProxies.com.txt'. Movie: [The Lord of the Rings: The Two Towers (2002)][tt0167261, 121] Error: Object reference not set to an instance of an object.
+
+[v6.1.1.10360] System.NullReferenceException: Object reference not set to an instance of an object.
+   at NzbDrone.Core.MediaFiles.MovieImport.Aggregation.Aggregators.AggregateSubtitleInfo.CleanSubtitleTitleInfo(MovieFile movieFile, String path, String fileNameBeforeRename) in ./NzbDrone.Core/MediaFiles/MovieImport/Aggregation/Aggregators/AggregateSubtitleInfo.cs:line 42
+   at NzbDrone.Core.MediaFiles.MovieImport.Aggregation.Aggregators.AggregateSubtitleInfo.Aggregate(LocalMovie localMovie, DownloadClientItem downloadClientItem) in ./NzbDrone.Core/MediaFiles/MovieImport/Aggregation/Aggregators/AggregateSubtitleInfo.cs:line 35
+   at NzbDrone.Core.MediaFiles.MovieImport.Aggregation.AggregationService.Augment(LocalMovie localMovie, DownloadClientItem downloadClientItem) in ./NzbDrone.Core/MediaFiles/MovieImport/Aggregation/AggregationService.cs:line 67
+
+
+2026-04-22 00:57:38.8|Error|EventAggregator|ExistingExtraFileService failed while processing [MovieScannedEvent]
+
+[v6.1.1.10360] System.NullReferenceException: Object reference not set to an instance of an object.
+   at NzbDrone.Core.Extras.Subtitles.ExistingSubtitleImporter.ProcessFiles(Movie movie, List`1 filesOnDisk, List`1 importedFiles, String fileNameBeforeRename) in ./NzbDrone.Core/Extras/Subtitles/ExistingSubtitleImporter.cs:line 74
+   at NzbDrone.Core.Extras.ExistingExtraFileService.ImportExtraFiles(Movie movie, List`1 possibleExtraFiles, String fileNameBeforeRename) in ./NzbDrone.Core/Extras/ExistingExtraFileService.cs:line 36
+   at NzbDrone.Core.Extras.ExistingExtraFileService.Handle(MovieScannedEvent message) in ./NzbDrone.Core/Extras/ExistingExtraFileService.cs:line 48
+   at NzbDrone.Core.Messaging.Events.EventAggregator.PublishEvent[TEvent](TEvent event)
+
+
+2026-04-22 00:57:38.8|Info|RefreshMovieService|Updating info for Lost Highway
+2026-04-22 00:57:38.8|Info|DiskScanService|Scanning disk for Lost Highway
+2026-04-22 00:57:38.8|Info|DiskScanService|Completed scanning disk for Lost Highway
+2026-04-22 00:57:38.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:38.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:38.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:38.8|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:38.8|Info|RefreshMovieService|Updating info for Love Exposure
+2026-04-22 00:57:38.9|Info|DiskScanService|Scanning disk for Love Exposure
+2026-04-22 00:57:38.9|Info|DiskScanService|Completed scanning disk for Love Exposure
+2026-04-22 00:57:38.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.0|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:39.0|Info|RefreshMovieService|Updating info for Love, Rosie
+2026-04-22 00:57:39.0|Info|DiskScanService|Scanning disk for Love, Rosie
+2026-04-22 00:57:39.0|Info|DiskScanService|Completed scanning disk for Love, Rosie
+2026-04-22 00:57:39.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.0|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:39.0|Info|RefreshMovieService|Updating info for Léon: The Professional
+2026-04-22 00:57:39.1|Info|DiskScanService|Scanning disk for Léon: The Professional
+2026-04-22 00:57:39.1|Info|DiskScanService|Completed scanning disk for Léon: The Professional
+2026-04-22 00:57:39.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.1|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:39.1|Info|RefreshMovieService|Updating info for Malcolm X
+2026-04-22 00:57:39.2|Info|DiskScanService|Scanning disk for Malcolm X
+2026-04-22 00:57:39.2|Info|DiskScanService|Completed scanning disk for Malcolm X
+2026-04-22 00:57:39.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.2|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:39.2|Info|RefreshMovieService|Updating info for Marty Supreme
+2026-04-22 00:57:39.2|Info|DiskScanService|Scanning disk for Marty Supreme
+2026-04-22 00:57:39.2|Info|DiskScanService|Completed scanning disk for Marty Supreme
+2026-04-22 00:57:39.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.2|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:39.2|Info|RefreshMovieService|Updating info for The Matrix
+2026-04-22 00:57:39.3|Info|DiskScanService|Scanning disk for The Matrix
+2026-04-22 00:57:39.3|Info|DiskScanService|Completed scanning disk for The Matrix
+2026-04-22 00:57:39.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.3|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:39.3|Info|RefreshMovieService|Updating info for Memories of Murder
+2026-04-22 00:57:39.3|Info|DiskScanService|Scanning disk for Memories of Murder
+2026-04-22 00:57:39.3|Info|DiskScanService|Completed scanning disk for Memories of Murder
+2026-04-22 00:57:39.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.4|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:39.4|Info|RefreshMovieService|Updating info for Mickey 17
+2026-04-22 00:57:39.5|Info|DiskScanService|Scanning disk for Mickey 17
+2026-04-22 00:57:39.5|Info|DiskScanService|Completed scanning disk for Mickey 17
+2026-04-22 00:57:39.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.5|Info|ExistingExtraFileService|Found 4 possible extra files, imported 4 files.
+2026-04-22 00:57:39.5|Info|RefreshMovieService|Updating info for Midnight in Paris
+2026-04-22 00:57:39.6|Info|DiskScanService|Scanning disk for Midnight in Paris
+2026-04-22 00:57:39.6|Info|DiskScanService|Completed scanning disk for Midnight in Paris
+2026-04-22 00:57:39.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.6|Info|ExistingExtraFileService|Found 8 possible extra files, imported 2 files.
+2026-04-22 00:57:39.6|Info|RefreshMovieService|Updating info for Millennium Actress
+2026-04-22 00:57:39.7|Info|DiskScanService|Scanning disk for Millennium Actress
+2026-04-22 00:57:39.7|Info|DiskScanService|Completed scanning disk for Millennium Actress
+2026-04-22 00:57:39.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.7|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:39.7|Info|RefreshMovieService|Updating info for Mind Game
+2026-04-22 00:57:39.8|Info|DiskScanService|Scanning disk for Mind Game
+2026-04-22 00:57:39.8|Info|DiskScanService|Completed scanning disk for Mind Game
+2026-04-22 00:57:39.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.8|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:39.8|Info|RefreshMovieService|Updating info for A Minecraft Movie
+2026-04-22 00:57:39.9|Info|DiskScanService|Scanning disk for A Minecraft Movie
+2026-04-22 00:57:39.9|Info|DiskScanService|Completed scanning disk for A Minecraft Movie
+2026-04-22 00:57:39.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:39.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:39.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:39.9|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:39.9|Info|RefreshMovieService|Updating info for Minority Report
+2026-04-22 00:57:40.0|Info|DiskScanService|Scanning disk for Minority Report
+2026-04-22 00:57:40.0|Info|DiskScanService|Completed scanning disk for Minority Report
+2026-04-22 00:57:40.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.1|Info|ExistingExtraFileService|Found 11 possible extra files, imported 2 files.
+2026-04-22 00:57:40.1|Info|RefreshMovieService|Updating info for Monte Carlo
+2026-04-22 00:57:40.1|Info|DiskScanService|Scanning disk for Monte Carlo
+2026-04-22 00:57:40.1|Info|DiskScanService|Completed scanning disk for Monte Carlo
+2026-04-22 00:57:40.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.1|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:40.1|Info|RefreshMovieService|Updating info for Moonlight
+2026-04-22 00:57:40.2|Info|DiskScanService|Scanning disk for Moonlight
+2026-04-22 00:57:40.2|Info|DiskScanService|Completed scanning disk for Moonlight
+2026-04-22 00:57:40.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.2|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:40.2|Info|RefreshMovieService|Updating info for Moonrise Kingdom
+2026-04-22 00:57:40.3|Info|DiskScanService|Scanning disk for Moonrise Kingdom
+2026-04-22 00:57:40.3|Info|DiskScanService|Completed scanning disk for Moonrise Kingdom
+2026-04-22 00:57:40.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.3|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:40.3|Info|RefreshMovieService|Updating info for Moulin Rouge!
+2026-04-22 00:57:40.3|Info|DiskScanService|Scanning disk for Moulin Rouge!
+2026-04-22 00:57:40.4|Info|DiskScanService|Completed scanning disk for Moulin Rouge!
+2026-04-22 00:57:40.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:40.4|Info|RefreshMovieService|Updating info for Naked
+2026-04-22 00:57:40.5|Info|DiskScanService|Scanning disk for Naked
+2026-04-22 00:57:40.5|Info|DiskScanService|Completed scanning disk for Naked
+2026-04-22 00:57:40.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.5|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:40.5|Info|RefreshMovieService|Updating info for Night Is Short, Walk On Girl
+2026-04-22 00:57:40.6|Info|DiskScanService|Scanning disk for Night Is Short, Walk On Girl
+2026-04-22 00:57:40.6|Info|DiskScanService|Completed scanning disk for Night Is Short, Walk On Girl
+2026-04-22 00:57:40.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.6|Info|ExistingExtraFileService|Found 3 possible extra files, imported 2 files.
+2026-04-22 00:57:40.6|Info|RefreshMovieService|Updating info for Nosferatu
+2026-04-22 00:57:40.6|Info|DiskScanService|Scanning disk for Nosferatu
+2026-04-22 00:57:40.6|Info|DiskScanService|Completed scanning disk for Nosferatu
+2026-04-22 00:57:40.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:40.7|Info|RefreshMovieService|Updating info for Nostalgia
+2026-04-22 00:57:40.7|Info|DiskScanService|Scanning disk for Nostalgia
+2026-04-22 00:57:40.7|Info|DiskScanService|Completed scanning disk for Nostalgia
+2026-04-22 00:57:40.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.7|Info|ExistingExtraFileService|Found 3 possible extra files, imported 2 files.
+2026-04-22 00:57:40.7|Info|RefreshMovieService|Updating info for Now You See Me: Now You Don't
+2026-04-22 00:57:40.8|Info|DiskScanService|Scanning disk for Now You See Me: Now You Don't
+2026-04-22 00:57:40.8|Info|DiskScanService|Completed scanning disk for Now You See Me: Now You Don't
+2026-04-22 00:57:40.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.8|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:40.8|Info|RefreshMovieService|Updating info for Ocean's Eleven
+2026-04-22 00:57:40.8|Info|DiskScanService|Scanning disk for Ocean's Eleven
+2026-04-22 00:57:40.9|Info|DiskScanService|Completed scanning disk for Ocean's Eleven
+2026-04-22 00:57:40.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:40.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:40.9|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:40.9|Info|RefreshMovieService|Updating info for Okja
+2026-04-22 00:57:40.9|Info|DiskScanService|Scanning disk for Okja
+2026-04-22 00:57:40.9|Info|DiskScanService|Completed scanning disk for Okja
+2026-04-22 00:57:40.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:40.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.0|Info|ExistingExtraFileService|Found 9 possible extra files, imported 1 files.
+2026-04-22 00:57:41.0|Info|RefreshMovieService|Updating info for Oldboy
+2026-04-22 00:57:41.1|Info|DiskScanService|Scanning disk for Oldboy
+2026-04-22 00:57:41.1|Info|DiskScanService|Completed scanning disk for Oldboy
+2026-04-22 00:57:41.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.1|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:41.1|Info|RefreshMovieService|Updating info for On the Waterfront
+2026-04-22 00:57:41.1|Info|DiskScanService|Scanning disk for On the Waterfront
+2026-04-22 00:57:41.1|Info|DiskScanService|Completed scanning disk for On the Waterfront
+2026-04-22 00:57:41.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.1|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:41.1|Info|RefreshMovieService|Updating info for One Battle After Another
+2026-04-22 00:57:41.2|Info|DiskScanService|Scanning disk for One Battle After Another
+2026-04-22 00:57:41.2|Info|DiskScanService|Completed scanning disk for One Battle After Another
+2026-04-22 00:57:41.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.2|Info|ExistingExtraFileService|Found 11 possible extra files, imported 1 files.
+2026-04-22 00:57:41.2|Info|RefreshMovieService|Updating info for One Day
+2026-04-22 00:57:41.3|Info|DiskScanService|Scanning disk for One Day
+2026-04-22 00:57:41.3|Info|DiskScanService|Completed scanning disk for One Day
+2026-04-22 00:57:41.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.3|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:41.3|Info|RefreshMovieService|Updating info for Palm Springs
+2026-04-22 00:57:41.3|Info|DiskScanService|Scanning disk for Palm Springs
+2026-04-22 00:57:41.3|Info|DiskScanService|Completed scanning disk for Palm Springs
+2026-04-22 00:57:41.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.4|Info|ExistingExtraFileService|Found 4 possible extra files, imported 2 files.
+2026-04-22 00:57:41.4|Info|RefreshMovieService|Updating info for Paperman
+2026-04-22 00:57:41.4|Info|DiskScanService|Scanning disk for Paperman
+2026-04-22 00:57:41.4|Info|DiskScanService|Completed scanning disk for Paperman
+2026-04-22 00:57:41.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:41.4|Info|RefreshMovieService|Updating info for Parasite
+2026-04-22 00:57:41.5|Info|DiskScanService|Scanning disk for Parasite
+2026-04-22 00:57:41.6|Info|DiskScanService|Completed scanning disk for Parasite
+2026-04-22 00:57:41.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:41.6|Info|RefreshMovieService|Updating info for Paris, Texas
+2026-04-22 00:57:41.6|Info|DiskScanService|Scanning disk for Paris, Texas
+2026-04-22 00:57:41.6|Info|DiskScanService|Completed scanning disk for Paris, Texas
+2026-04-22 00:57:41.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:41.6|Info|RefreshMovieService|Updating info for Paths of Glory
+2026-04-22 00:57:41.7|Info|DiskScanService|Scanning disk for Paths of Glory
+2026-04-22 00:57:41.7|Info|DiskScanService|Completed scanning disk for Paths of Glory
+2026-04-22 00:57:41.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.7|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:41.7|Info|RefreshMovieService|Updating info for Perfect Blue
+2026-04-22 00:57:41.7|Info|DiskScanService|Scanning disk for Perfect Blue
+2026-04-22 00:57:41.7|Info|DiskScanService|Completed scanning disk for Perfect Blue
+2026-04-22 00:57:41.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:41.7|Info|RefreshMovieService|Updating info for Perfect Days
+2026-04-22 00:57:41.8|Info|DiskScanService|Scanning disk for Perfect Days
+2026-04-22 00:57:41.8|Info|DiskScanService|Completed scanning disk for Perfect Days
+2026-04-22 00:57:41.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.8|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:41.8|Info|RefreshMovieService|Updating info for Phantom Thread
+2026-04-22 00:57:41.8|Info|DiskScanService|Scanning disk for Phantom Thread
+2026-04-22 00:57:41.9|Info|DiskScanService|Completed scanning disk for Phantom Thread
+2026-04-22 00:57:41.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.9|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:41.9|Info|RefreshMovieService|Updating info for The Pianist
+2026-04-22 00:57:41.9|Info|DiskScanService|Scanning disk for The Pianist
+2026-04-22 00:57:41.9|Info|DiskScanService|Completed scanning disk for The Pianist
+2026-04-22 00:57:41.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:41.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:41.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:41.9|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:41.9|Info|RefreshMovieService|Updating info for Portrait of a Lady on Fire
+2026-04-22 00:57:42.1|Info|DiskScanService|Scanning disk for Portrait of a Lady on Fire
+2026-04-22 00:57:42.1|Info|DiskScanService|Completed scanning disk for Portrait of a Lady on Fire
+2026-04-22 00:57:42.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.1|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:42.1|Info|RefreshMovieService|Updating info for Portrait of a Young Girl at the End of the 60s in Brussels
+2026-04-22 00:57:42.1|Info|DiskScanService|Scanning disk for Portrait of a Young Girl at the End of the 60s in Brussels
+2026-04-22 00:57:42.1|Info|DiskScanService|Completed scanning disk for Portrait of a Young Girl at the End of the 60s in Brussels
+2026-04-22 00:57:42.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.2|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:42.2|Info|RefreshMovieService|Updating info for Predator: Badlands
+2026-04-22 00:57:42.2|Info|DiskScanService|Scanning disk for Predator: Badlands
+2026-04-22 00:57:42.2|Info|DiskScanService|Completed scanning disk for Predator: Badlands
+2026-04-22 00:57:42.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.2|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:42.2|Info|RefreshMovieService|Updating info for The Prestige
+2026-04-22 00:57:42.3|Info|DiskScanService|Scanning disk for The Prestige
+2026-04-22 00:57:42.3|Info|DiskScanService|Completed scanning disk for The Prestige
+2026-04-22 00:57:42.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.3|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:42.3|Info|RefreshMovieService|Updating info for Priscilla
+2026-04-22 00:57:42.3|Info|DiskScanService|Scanning disk for Priscilla
+2026-04-22 00:57:42.3|Info|DiskScanService|Completed scanning disk for Priscilla
+2026-04-22 00:57:42.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.3|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:42.3|Info|RefreshMovieService|Updating info for Project Hail Mary
+2026-04-22 00:57:42.4|Info|DiskScanService|Scanning disk for Project Hail Mary
+2026-04-22 00:57:42.4|Info|DiskScanService|Completed scanning disk for Project Hail Mary
+2026-04-22 00:57:42.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.4|Info|ExistingExtraFileService|Found 9 possible extra files, imported 5 files.
+2026-04-22 00:57:42.4|Info|RefreshMovieService|Updating info for Pulp Fiction
+2026-04-22 00:57:42.5|Info|DiskScanService|Scanning disk for Pulp Fiction
+2026-04-22 00:57:42.5|Info|DiskScanService|Completed scanning disk for Pulp Fiction
+2026-04-22 00:57:42.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.5|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:42.5|Info|RefreshMovieService|Updating info for The Pursuit of Happyness
+2026-04-22 00:57:42.6|Info|DiskScanService|Scanning disk for The Pursuit of Happyness
+2026-04-22 00:57:42.6|Info|DiskScanService|Completed scanning disk for The Pursuit of Happyness
+2026-04-22 00:57:42.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.6|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:42.7|Info|RefreshMovieService|Updating info for Raging Bull
+2026-04-22 00:57:42.7|Info|DiskScanService|Scanning disk for Raging Bull
+2026-04-22 00:57:42.7|Info|DiskScanService|Completed scanning disk for Raging Bull
+2026-04-22 00:57:42.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.7|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:42.7|Info|RefreshMovieService|Updating info for Ran
+2026-04-22 00:57:42.8|Info|DiskScanService|Scanning disk for Ran
+2026-04-22 00:57:42.8|Info|DiskScanService|Completed scanning disk for Ran
+2026-04-22 00:57:42.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.8|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:42.8|Info|RefreshMovieService|Updating info for Ready Player One
+2026-04-22 00:57:42.8|Info|DiskScanService|Scanning disk for Ready Player One
+2026-04-22 00:57:42.8|Info|DiskScanService|Completed scanning disk for Ready Player One
+2026-04-22 00:57:42.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.9|Info|ExistingExtraFileService|Found 10 possible extra files, imported 1 files.
+2026-04-22 00:57:42.9|Info|RefreshMovieService|Updating info for Rebecca
+2026-04-22 00:57:42.9|Info|DiskScanService|Scanning disk for Rebecca
+2026-04-22 00:57:42.9|Info|DiskScanService|Completed scanning disk for Rebecca
+2026-04-22 00:57:42.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:42.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:42.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:42.9|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:42.9|Info|RefreshMovieService|Updating info for Requiem for a Dream
+2026-04-22 00:57:43.0|Info|DiskScanService|Scanning disk for Requiem for a Dream
+2026-04-22 00:57:43.0|Info|DiskScanService|Completed scanning disk for Requiem for a Dream
+2026-04-22 00:57:43.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.0|Info|ExistingExtraFileService|Found 9 possible extra files, imported 2 files.
+2026-04-22 00:57:43.0|Info|RefreshMovieService|Updating info for Ritual
+2026-04-22 00:57:43.1|Info|DiskScanService|Scanning disk for Ritual
+2026-04-22 00:57:43.1|Info|DiskScanService|Completed scanning disk for Ritual
+2026-04-22 00:57:43.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.2|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:43.2|Info|RefreshMovieService|Updating info for Rocco and His Brothers
+2026-04-22 00:57:43.2|Info|DiskScanService|Scanning disk for Rocco and His Brothers
+2026-04-22 00:57:43.2|Info|DiskScanService|Completed scanning disk for Rocco and His Brothers
+2026-04-22 00:57:43.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.2|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:43.2|Info|RefreshMovieService|Updating info for Roman Holiday
+2026-04-22 00:57:43.3|Info|DiskScanService|Scanning disk for Roman Holiday
+2026-04-22 00:57:43.3|Info|DiskScanService|Completed scanning disk for Roman Holiday
+2026-04-22 00:57:43.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.3|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:43.3|Info|RefreshMovieService|Updating info for Romeo + Juliet
+2026-04-22 00:57:43.3|Info|DiskScanService|Scanning disk for Romeo + Juliet
+2026-04-22 00:57:43.3|Info|DiskScanService|Completed scanning disk for Romeo + Juliet
+2026-04-22 00:57:43.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.3|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-22 00:57:43.3|Info|RefreshMovieService|Updating info for The Royal Tenenbaums
+2026-04-22 00:57:43.4|Info|DiskScanService|Scanning disk for The Royal Tenenbaums
+2026-04-22 00:57:43.4|Info|DiskScanService|Completed scanning disk for The Royal Tenenbaums
+2026-04-22 00:57:43.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.4|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:43.4|Info|RefreshMovieService|Updating info for Rushmore
+2026-04-22 00:57:43.5|Info|DiskScanService|Scanning disk for Rushmore
+2026-04-22 00:57:43.5|Info|DiskScanService|Completed scanning disk for Rushmore
+2026-04-22 00:57:43.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.5|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:43.5|Info|RefreshMovieService|Updating info for Scenes from a Marriage
+2026-04-22 00:57:43.6|Info|DiskScanService|Scanning disk for Scenes from a Marriage
+2026-04-22 00:57:43.6|Info|DiskScanService|Completed scanning disk for Scenes from a Marriage
+2026-04-22 00:57:43.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:43.7|Info|RefreshMovieService|Updating info for Schindler's List
+2026-04-22 00:57:43.7|Info|DiskScanService|Scanning disk for Schindler's List
+2026-04-22 00:57:43.7|Info|DiskScanService|Completed scanning disk for Schindler's List
+2026-04-22 00:57:43.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.7|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:43.7|Info|RefreshMovieService|Updating info for Se7en
+2026-04-22 00:57:43.8|Info|DiskScanService|Scanning disk for Se7en
+2026-04-22 00:57:43.8|Info|DiskScanService|Completed scanning disk for Se7en
+2026-04-22 00:57:43.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.8|Info|ExistingExtraFileService|Found 5 possible extra files, imported 5 files.
+2026-04-22 00:57:43.8|Info|RefreshMovieService|Updating info for Sense and Sensibility
+2026-04-22 00:57:43.9|Info|DiskScanService|Scanning disk for Sense and Sensibility
+2026-04-22 00:57:43.9|Info|DiskScanService|Completed scanning disk for Sense and Sensibility
+2026-04-22 00:57:43.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.9|Info|ExistingExtraFileService|Found 6 possible extra files, imported 6 files.
+2026-04-22 00:57:43.9|Info|RefreshMovieService|Updating info for Seven Samurai
+2026-04-22 00:57:43.9|Info|DiskScanService|Scanning disk for Seven Samurai
+2026-04-22 00:57:43.9|Info|DiskScanService|Completed scanning disk for Seven Samurai
+2026-04-22 00:57:43.9|Error|VideoFileInfoReader|Unable to parse media info from file: /movies/Seven Samurai (1954) [ENSUBBED] [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Seven.Samurai.1954.ENSUBBED.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv
+
+[v6.1.1.10360] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x3445e380] EBML header parsing failed
+/movies/Seven Samurai (1954) [ENSUBBED] [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Seven.Samurai.1954.ENSUBBED.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./NzbDrone.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 67
+
+
+2026-04-22 00:57:43.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:43.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:43.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:43.9|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:43.9|Info|RefreshMovieService|Updating info for Sex and the City
+2026-04-22 00:57:44.0|Info|DiskScanService|Scanning disk for Sex and the City
+2026-04-22 00:57:44.0|Info|DiskScanService|Completed scanning disk for Sex and the City
+2026-04-22 00:57:44.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.0|Info|ExistingExtraFileService|Found 11 possible extra files, imported 2 files.
+2026-04-22 00:57:44.0|Info|RefreshMovieService|Updating info for Sex and the City 2
+2026-04-22 00:57:44.2|Info|DiskScanService|Scanning disk for Sex and the City 2
+2026-04-22 00:57:44.2|Info|DiskScanService|Completed scanning disk for Sex and the City 2
+2026-04-22 00:57:44.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.2|Info|ExistingExtraFileService|Found 11 possible extra files, imported 2 files.
+2026-04-22 00:57:44.2|Info|RefreshMovieService|Updating info for The Shawshank Redemption
+2026-04-22 00:57:44.3|Info|DiskScanService|Scanning disk for The Shawshank Redemption
+2026-04-22 00:57:44.3|Info|DiskScanService|Completed scanning disk for The Shawshank Redemption
+2026-04-22 00:57:44.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.3|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:44.3|Info|RefreshMovieService|Updating info for She's All That
+2026-04-22 00:57:44.4|Info|DiskScanService|Scanning disk for She's All That
+2026-04-22 00:57:44.4|Info|DiskScanService|Completed scanning disk for She's All That
+2026-04-22 00:57:44.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:44.4|Info|RefreshMovieService|Updating info for The Shop Around the Corner
+2026-04-22 00:57:44.4|Info|DiskScanService|Scanning disk for The Shop Around the Corner
+2026-04-22 00:57:44.4|Info|DiskScanService|Completed scanning disk for The Shop Around the Corner
+2026-04-22 00:57:44.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.4|Info|ExistingExtraFileService|Found 4 possible extra files, imported 2 files.
+2026-04-22 00:57:44.4|Info|RefreshMovieService|Updating info for A Short Film About Love
+2026-04-22 00:57:44.5|Info|DiskScanService|Scanning disk for A Short Film About Love
+2026-04-22 00:57:44.5|Info|DiskScanService|Completed scanning disk for A Short Film About Love
+2026-04-22 00:57:44.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.5|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:44.5|Info|RefreshMovieService|Updating info for Shutter Island
+2026-04-22 00:57:44.5|Info|DiskScanService|Scanning disk for Shutter Island
+2026-04-22 00:57:44.6|Info|DiskScanService|Completed scanning disk for Shutter Island
+2026-04-22 00:57:44.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:44.6|Info|RefreshMovieService|Updating info for The Silence of the Lambs
+2026-04-22 00:57:44.7|Info|DiskScanService|Scanning disk for The Silence of the Lambs
+2026-04-22 00:57:44.7|Info|DiskScanService|Completed scanning disk for The Silence of the Lambs
+2026-04-22 00:57:44.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.7|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:44.7|Info|RefreshMovieService|Updating info for Silenced
+2026-04-22 00:57:44.8|Info|DiskScanService|Scanning disk for Silenced
+2026-04-22 00:57:44.8|Info|DiskScanService|Completed scanning disk for Silenced
+2026-04-22 00:57:44.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.8|Info|ExistingExtraFileService|Found 9 possible extra files, imported 1 files.
+2026-04-22 00:57:44.8|Info|RefreshMovieService|Updating info for A Silent Voice: The Movie
+2026-04-22 00:57:44.9|Info|DiskScanService|Scanning disk for A Silent Voice: The Movie
+2026-04-22 00:57:44.9|Info|DiskScanService|Completed scanning disk for A Silent Voice: The Movie
+2026-04-22 00:57:44.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.9|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:44.9|Info|RefreshMovieService|Updating info for Sing Street
+2026-04-22 00:57:44.9|Info|DiskScanService|Scanning disk for Sing Street
+2026-04-22 00:57:44.9|Info|DiskScanService|Completed scanning disk for Sing Street
+2026-04-22 00:57:44.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:44.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:44.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:44.9|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:44.9|Info|RefreshMovieService|Updating info for Sinners
+2026-04-22 00:57:45.0|Info|DiskScanService|Scanning disk for Sinners
+2026-04-22 00:57:45.0|Info|DiskScanService|Completed scanning disk for Sinners
+2026-04-22 00:57:45.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.0|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:45.0|Info|RefreshMovieService|Updating info for Society of the Snow
+2026-04-22 00:57:45.0|Info|DiskScanService|Scanning disk for Society of the Snow
+2026-04-22 00:57:45.0|Info|DiskScanService|Completed scanning disk for Society of the Snow
+2026-04-22 00:57:45.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.0|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:45.0|Info|RefreshMovieService|Updating info for The Spectacular Now
+2026-04-22 00:57:45.1|Info|DiskScanService|Scanning disk for The Spectacular Now
+2026-04-22 00:57:45.1|Info|DiskScanService|Completed scanning disk for The Spectacular Now
+2026-04-22 00:57:45.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.1|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:45.1|Info|RefreshMovieService|Updating info for Spider-Man: Across the Spider-Verse
+2026-04-22 00:57:45.2|Info|DiskScanService|Scanning disk for Spider-Man: Across the Spider-Verse
+2026-04-22 00:57:45.2|Info|DiskScanService|Completed scanning disk for Spider-Man: Across the Spider-Verse
+2026-04-22 00:57:45.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.2|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:45.2|Info|RefreshMovieService|Updating info for Spider-Man: Into the Spider-Verse
+2026-04-22 00:57:45.3|Info|DiskScanService|Scanning disk for Spider-Man: Into the Spider-Verse
+2026-04-22 00:57:45.3|Info|DiskScanService|Completed scanning disk for Spider-Man: Into the Spider-Verse
+2026-04-22 00:57:45.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.3|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:45.3|Info|RefreshMovieService|Updating info for Stalker
+2026-04-22 00:57:45.4|Info|DiskScanService|Scanning disk for Stalker
+2026-04-22 00:57:45.4|Info|DiskScanService|Completed scanning disk for Stalker
+2026-04-22 00:57:45.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:45.4|Info|RefreshMovieService|Updating info for Stutterer
+2026-04-22 00:57:45.4|Info|DiskScanService|Scanning disk for Stutterer
+2026-04-22 00:57:45.4|Info|DiskScanService|Completed scanning disk for Stutterer
+2026-04-22 00:57:45.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.4|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:45.4|Info|RefreshMovieService|Updating info for The Substance
+2026-04-22 00:57:45.5|Info|DiskScanService|Scanning disk for The Substance
+2026-04-22 00:57:45.5|Info|DiskScanService|Completed scanning disk for The Substance
+2026-04-22 00:57:45.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.5|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:45.5|Info|RefreshMovieService|Updating info for Summer Rental
+2026-04-22 00:57:45.6|Info|DiskScanService|Scanning disk for Summer Rental
+2026-04-22 00:57:45.6|Info|DiskScanService|Completed scanning disk for Summer Rental
+2026-04-22 00:57:45.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.6|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:45.6|Info|RefreshMovieService|Updating info for Superbad
+2026-04-22 00:57:45.6|Info|DiskScanService|Scanning disk for Superbad
+2026-04-22 00:57:45.6|Info|DiskScanService|Completed scanning disk for Superbad
+2026-04-22 00:57:45.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.6|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:45.6|Info|RefreshMovieService|Updating info for Superman
+2026-04-22 00:57:45.8|Info|DiskScanService|Scanning disk for Superman
+2026-04-22 00:57:45.8|Info|DiskScanService|Completed scanning disk for Superman
+2026-04-22 00:57:45.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.8|Info|ExistingExtraFileService|Found 9 possible extra files, imported 1 files.
+2026-04-22 00:57:45.8|Info|RefreshMovieService|Updating info for Swing Girls
+2026-04-22 00:57:45.9|Info|DiskScanService|Scanning disk for Swing Girls
+2026-04-22 00:57:45.9|Info|DiskScanService|Completed scanning disk for Swing Girls
+2026-04-22 00:57:45.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.9|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:45.9|Info|RefreshMovieService|Updating info for Synecdoche, New York
+2026-04-22 00:57:45.9|Info|DiskScanService|Scanning disk for Synecdoche, New York
+2026-04-22 00:57:45.9|Info|DiskScanService|Completed scanning disk for Synecdoche, New York
+2026-04-22 00:57:45.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:45.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:45.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:45.9|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:45.9|Info|RefreshMovieService|Updating info for The Tale of The Princess Kaguya
+2026-04-22 00:57:46.0|Info|DiskScanService|Scanning disk for The Tale of The Princess Kaguya
+2026-04-22 00:57:46.0|Info|DiskScanService|Completed scanning disk for The Tale of The Princess Kaguya
+2026-04-22 00:57:46.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.0|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:46.0|Info|RefreshMovieService|Updating info for Taxi Driver
+2026-04-22 00:57:46.1|Info|DiskScanService|Scanning disk for Taxi Driver
+2026-04-22 00:57:46.1|Info|DiskScanService|Completed scanning disk for Taxi Driver
+2026-04-22 00:57:46.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.1|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:46.1|Info|RefreshMovieService|Updating info for There Will Be Blood
+2026-04-22 00:57:46.2|Info|DiskScanService|Scanning disk for There Will Be Blood
+2026-04-22 00:57:46.2|Info|DiskScanService|Completed scanning disk for There Will Be Blood
+2026-04-22 00:57:46.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.2|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:46.2|Info|RefreshMovieService|Updating info for Three Colors: Blue
+2026-04-22 00:57:46.3|Info|DiskScanService|Scanning disk for Three Colors: Blue
+2026-04-22 00:57:46.3|Info|DiskScanService|Completed scanning disk for Three Colors: Blue
+2026-04-22 00:57:46.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.4|Info|ExistingExtraFileService|Found 6 possible extra files, imported 0 files.
+2026-04-22 00:57:46.4|Info|RefreshMovieService|Updating info for Three Colors: Red
+2026-04-22 00:57:46.4|Info|DiskScanService|Scanning disk for Three Colors: Red
+2026-04-22 00:57:46.4|Info|DiskScanService|Completed scanning disk for Three Colors: Red
+2026-04-22 00:57:46.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:46.4|Info|RefreshMovieService|Updating info for Three Colors: White
+2026-04-22 00:57:46.5|Info|DiskScanService|Scanning disk for Three Colors: White
+2026-04-22 00:57:46.5|Info|DiskScanService|Completed scanning disk for Three Colors: White
+2026-04-22 00:57:46.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.5|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:46.5|Info|RefreshMovieService|Updating info for Thunder Road
+2026-04-22 00:57:46.5|Info|DiskScanService|Scanning disk for Thunder Road
+2026-04-22 00:57:46.5|Info|DiskScanService|Completed scanning disk for Thunder Road
+2026-04-22 00:57:46.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.5|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:46.5|Info|RefreshMovieService|Updating info for Titanic
+2026-04-22 00:57:46.6|Info|DiskScanService|Scanning disk for Titanic
+2026-04-22 00:57:46.6|Info|DiskScanService|Completed scanning disk for Titanic
+2026-04-22 00:57:46.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:46.6|Info|RefreshMovieService|Updating info for Tokyo Story
+2026-04-22 00:57:46.7|Info|DiskScanService|Scanning disk for Tokyo Story
+2026-04-22 00:57:46.7|Info|DiskScanService|Completed scanning disk for Tokyo Story
+2026-04-22 00:57:46.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.7|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:46.7|Info|RefreshMovieService|Updating info for Top Gun: Maverick
+2026-04-22 00:57:46.8|Info|DiskScanService|Scanning disk for Top Gun: Maverick
+2026-04-22 00:57:46.8|Info|DiskScanService|Completed scanning disk for Top Gun: Maverick
+2026-04-22 00:57:46.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.8|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:46.8|Info|RefreshMovieService|Updating info for Train to Busan
+2026-04-22 00:57:46.9|Info|DiskScanService|Scanning disk for Train to Busan
+2026-04-22 00:57:46.9|Info|DiskScanService|Completed scanning disk for Train to Busan
+2026-04-22 00:57:46.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:46.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:46.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:46.9|Info|ExistingExtraFileService|Found 10 possible extra files, imported 2 files.
+2026-04-22 00:57:46.9|Info|RefreshMovieService|Updating info for Transformers
+2026-04-22 00:57:47.0|Info|DiskScanService|Scanning disk for Transformers
+2026-04-22 00:57:47.0|Info|DiskScanService|Completed scanning disk for Transformers
+2026-04-22 00:57:47.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.0|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.0|Info|RefreshMovieService|Updating info for The Umbrellas of Cherbourg
+2026-04-22 00:57:47.0|Info|DiskScanService|Scanning disk for The Umbrellas of Cherbourg
+2026-04-22 00:57:47.0|Info|DiskScanService|Completed scanning disk for The Umbrellas of Cherbourg
+2026-04-22 00:57:47.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.0|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:47.0|Info|RefreshMovieService|Updating info for The Usual Suspects
+2026-04-22 00:57:47.1|Info|DiskScanService|Scanning disk for The Usual Suspects
+2026-04-22 00:57:47.1|Info|DiskScanService|Completed scanning disk for The Usual Suspects
+2026-04-22 00:57:47.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.1|Info|ExistingExtraFileService|Found 9 possible extra files, imported 2 files.
+2026-04-22 00:57:47.1|Info|RefreshMovieService|Updating info for V for Vendetta
+2026-04-22 00:57:47.2|Info|DiskScanService|Scanning disk for V for Vendetta
+2026-04-22 00:57:47.2|Info|DiskScanService|Completed scanning disk for V for Vendetta
+2026-04-22 00:57:47.2|Error|VideoFileInfoReader|Unable to parse media info from file: /movies/V For Vendetta (2005) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/V.For.Vendetta.2005.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv
+
+[v6.1.1.10360] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x1e4c0380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x1e4c0380] EBML header parsing failed
+/movies/V For Vendetta (2005) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/V.For.Vendetta.2005.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./NzbDrone.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 67
+
+
+2026-04-22 00:57:47.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.2|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.2|Info|RefreshMovieService|Updating info for Vertigo
+2026-04-22 00:57:47.4|Info|DiskScanService|Scanning disk for Vertigo
+2026-04-22 00:57:47.4|Info|DiskScanService|Completed scanning disk for Vertigo
+2026-04-22 00:57:47.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.4|Info|RefreshMovieService|Updating info for Violet Evergarden: The Movie
+2026-04-22 00:57:47.4|Info|DiskScanService|Scanning disk for Violet Evergarden: The Movie
+2026-04-22 00:57:47.4|Info|DiskScanService|Completed scanning disk for Violet Evergarden: The Movie
+2026-04-22 00:57:47.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.4|Info|ExistingExtraFileService|Found 5 possible extra files, imported 3 files.
+2026-04-22 00:57:47.4|Info|RefreshMovieService|Updating info for Volver
+2026-04-22 00:57:47.5|Info|DiskScanService|Scanning disk for Volver
+2026-04-22 00:57:47.5|Info|DiskScanService|Completed scanning disk for Volver
+2026-04-22 00:57:47.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.5|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.5|Info|RefreshMovieService|Updating info for Waves
+2026-04-22 00:57:47.5|Info|DiskScanService|Scanning disk for Waves
+2026-04-22 00:57:47.5|Info|DiskScanService|Completed scanning disk for Waves
+2026-04-22 00:57:47.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.6|Info|RefreshMovieService|Updating info for We All Loved Each Other So Much
+2026-04-22 00:57:47.6|Info|DiskScanService|Scanning disk for We All Loved Each Other So Much
+2026-04-22 00:57:47.6|Info|DiskScanService|Completed scanning disk for We All Loved Each Other So Much
+2026-04-22 00:57:47.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.6|Info|RefreshMovieService|Updating info for Weathering with You
+2026-04-22 00:57:47.7|Info|DiskScanService|Scanning disk for Weathering with You
+2026-04-22 00:57:47.7|Info|DiskScanService|Completed scanning disk for Weathering with You
+2026-04-22 00:57:47.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:47.7|Info|RefreshMovieService|Updating info for West Side Story
+2026-04-22 00:57:47.7|Info|DiskScanService|Scanning disk for West Side Story
+2026-04-22 00:57:47.7|Info|DiskScanService|Completed scanning disk for West Side Story
+2026-04-22 00:57:47.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:47.7|Info|RefreshMovieService|Updating info for While You Were Sleeping
+2026-04-22 00:57:47.8|Info|DiskScanService|Scanning disk for While You Were Sleeping
+2026-04-22 00:57:47.8|Info|DiskScanService|Completed scanning disk for While You Were Sleeping
+2026-04-22 00:57:47.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.9|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.9|Info|RefreshMovieService|Updating info for Wicked
+2026-04-22 00:57:47.9|Info|DiskScanService|Scanning disk for Wicked
+2026-04-22 00:57:47.9|Info|DiskScanService|Completed scanning disk for Wicked
+2026-04-22 00:57:47.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:47.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:47.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:47.9|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:47.9|Info|RefreshMovieService|Updating info for The Wild Robot
+2026-04-22 00:57:48.0|Info|DiskScanService|Scanning disk for The Wild Robot
+2026-04-22 00:57:48.0|Info|DiskScanService|Completed scanning disk for The Wild Robot
+2026-04-22 00:57:48.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.0|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:48.0|Info|RefreshMovieService|Updating info for Wings of Desire
+2026-04-22 00:57:48.1|Info|DiskScanService|Scanning disk for Wings of Desire
+2026-04-22 00:57:48.1|Info|DiskScanService|Completed scanning disk for Wings of Desire
+2026-04-22 00:57:48.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.1|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:48.1|Info|RefreshMovieService|Updating info for Woman in the Dunes
+2026-04-22 00:57:48.1|Info|DiskScanService|Scanning disk for Woman in the Dunes
+2026-04-22 00:57:48.1|Info|DiskScanService|Completed scanning disk for Woman in the Dunes
+2026-04-22 00:57:48.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.1|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:48.1|Info|RefreshMovieService|Updating info for A Woman Under the Influence
+2026-04-22 00:57:48.2|Info|DiskScanService|Scanning disk for A Woman Under the Influence
+2026-04-22 00:57:48.2|Info|DiskScanService|Completed scanning disk for A Woman Under the Influence
+2026-04-22 00:57:48.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.2|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:48.2|Info|RefreshMovieService|Updating info for The Worst Person in the World
+2026-04-22 00:57:48.2|Info|DiskScanService|Scanning disk for The Worst Person in the World
+2026-04-22 00:57:48.2|Info|DiskScanService|Completed scanning disk for The Worst Person in the World
+2026-04-22 00:57:48.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.2|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:48.3|Info|RefreshMovieService|Updating info for The Wrong Trousers
+2026-04-22 00:57:48.4|Info|DiskScanService|Scanning disk for The Wrong Trousers
+2026-04-22 00:57:48.4|Info|DiskScanService|Completed scanning disk for The Wrong Trousers
+2026-04-22 00:57:48.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.4|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:48.4|Info|RefreshMovieService|Updating info for "Wuthering Heights"
+2026-04-22 00:57:48.4|Info|DiskScanService|Scanning disk for "Wuthering Heights"
+2026-04-22 00:57:48.4|Info|DiskScanService|Completed scanning disk for "Wuthering Heights"
+2026-04-22 00:57:48.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.4|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-22 00:57:48.4|Info|RefreshMovieService|Updating info for Y Tu Mamá También
+2026-04-22 00:57:48.5|Info|DiskScanService|Scanning disk for Y Tu Mamá También
+2026-04-22 00:57:48.5|Info|DiskScanService|Completed scanning disk for Y Tu Mamá También
+2026-04-22 00:57:48.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.5|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2026-04-22 00:57:48.5|Info|RefreshMovieService|Updating info for Yi Yi
+2026-04-22 00:57:48.6|Info|DiskScanService|Scanning disk for Yi Yi
+2026-04-22 00:57:48.6|Info|DiskScanService|Completed scanning disk for Yi Yi
+2026-04-22 00:57:48.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.6|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2026-04-22 00:57:48.6|Info|RefreshMovieService|Updating info for Yojimbo
+2026-04-22 00:57:48.6|Info|DiskScanService|Scanning disk for Yojimbo
+2026-04-22 00:57:48.6|Info|DiskScanService|Completed scanning disk for Yojimbo
+2026-04-22 00:57:48.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.6|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:48.6|Info|RefreshMovieService|Updating info for The Young Girls of Rochefort
+2026-04-22 00:57:48.7|Info|DiskScanService|Scanning disk for The Young Girls of Rochefort
+2026-04-22 00:57:48.7|Info|DiskScanService|Completed scanning disk for The Young Girls of Rochefort
+2026-04-22 00:57:48.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.7|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2026-04-22 00:57:48.7|Info|RefreshMovieService|Updating info for Your Name.
+2026-04-22 00:57:48.7|Info|DiskScanService|Scanning disk for Your Name.
+2026-04-22 00:57:48.7|Info|DiskScanService|Completed scanning disk for Your Name.
+2026-04-22 00:57:48.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-22 00:57:48.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-22 00:57:48.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-22 00:57:48.8|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
