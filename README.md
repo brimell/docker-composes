@@ -16,10 +16,15 @@ Each stack is self-contained in:
 - `stacks/audiobookshelf/docker-compose.yml`
 - `stacks/homarr/docker-compose.yml`
 - `stacks/uptime-kuma/docker-compose.yml`
+- `stacks/actualbudget/docker-compose.yml` (includes `caddy` + `actual-server`)
 - `stacks/metabase/docker-compose.yml`
 - `stacks/monica/docker-compose.yml` (includes `monica` + `monica-db`)
 - `stacks/vaultwarden/docker-compose.yml`
 - `stacks/photoprism/docker-compose.yml`
+
+Actual Budget:
+
+- Edit `stacks/actualbudget/Caddyfile` and set your real domain before deploying.
 
 ## Portainer Usage
 
@@ -78,6 +83,7 @@ Container config/data is stored under `CONFIG_ROOT`, with one folder per app:
 - `data/audiobookshelf/metadata`
 - `data/homarr`
 - `data/uptime-kuma`
+- `data/actualbudget`
 - `data/metabase`
 - `data/monica/db`
 - `data/monica/storage`
