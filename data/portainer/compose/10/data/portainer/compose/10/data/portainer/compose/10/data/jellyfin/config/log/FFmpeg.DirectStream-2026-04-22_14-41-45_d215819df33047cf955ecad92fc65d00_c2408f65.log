@@ -1,0 +1,150 @@
+{"Protocol":0,"Id":"d215819df33047cf955ecad92fc65d00","Path":"/movies/Project Hail Mary [2026] WEBrip YG/Project.Hail.Mary.2026.2160p.WEBrip.h265.Dual YG.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":11482117207,"Name":"Project.Hail.Mary.2026.2160p.WEBrip.h265.Dual YG","IsRemote":false,"ETag":"d837b3f69f4f9028d599a422ba7528db","RunTimeTicks":93918000000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"hevc","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":"bt2020nc","ColorTransfer":"smpte2084","ColorPrimaries":"bt2020","DvVersionMajor":1,"DvVersionMinor":0,"DvProfile":8,"DvLevel":7,"RpuPresentFlag":1,"ElPresentFlag":0,"BlPresentFlag":1,"DvBlSignalCompatibilityId":1,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":true,"VideoRange":2,"VideoRangeType":9,"VideoDoViTitle":"Dolby Vision Profile 8.1 (HDR10)","AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"4K HEVC Dolby Vision Profile 8.1 (HDR10)","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":9780546,"BitDepth":10,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":2072,"Width":3840,"AverageFrameRate":30,"RealFrameRate":30,"ReferenceFrameRate":30,"Profile":"Main 10","Type":1,"AspectRatio":"1.85:1","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p10le","Level":153,"IsAnamorphic":false},{"Codec":"eac3","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Latino DDP 5.1","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"Latino DDP 5.1 - Spanish - Dolby Digital\u002B - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":640000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"eac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Ingl\u00E9s DDP 5.1","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"Ingl\u00E9s DDP 5.1 - English - Dolby Digital\u002B","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":640000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"Spanish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":4,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":11060546,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -ss 00:03:20.500 -noaccurate_seek -fflags +genpts  -i file:"/movies/Project Hail Mary [2026] WEBrip YG/Project.Hail.Mary.2026.2160p.WEBrip.h265.Dual YG.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:2 -map -0:s -codec:v:0 copy -tag:v:0 hvc1 -bsf:v hevc_mp4toannexb -start_at_zero -codec:a:0 libfdk_aac -ac 2 -ab 256000 -af "volume=2" -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type fmp4 -hls_fmp4_init_filename "bc444637f6a2b3528350cf354eb022b5-1.mp4" -start_number 20 -hls_segment_filename "/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b5%d.mp4" -hls_playlist_type vod -hls_list_size 0 -hls_segment_options movflags=+frag_discont -y "/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b5.m3u8"
+
+
+ffmpeg version 7.1.3-Jellyfin Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.3.0-6ubuntu2~24.04.1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=arm64 --cross-prefix=/usr/bin/aarch64-linux-gnu- --toolchain=hardened --enable-cross-compile --enable-rkmpp --enable-rkrga --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from 'file:/movies/Project Hail Mary [2026] WEBrip YG/Project.Hail.Mary.2026.2160p.WEBrip.h265.Dual YG.mkv':
+  Metadata:
+    title           : Project.Hail.Mary.2026.2160p.WEBrip.h265.Dual YG
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+    creation_time   : 2026-04-11T17:07:48.000000Z
+  Duration: 02:36:31.80, start: 0.000000, bitrate: 9780 kb/s
+  Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2072 [SAR 1:1 DAR 480:259], 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 8497803
+        DURATION        : 02:36:31.800000000
+        NUMBER_OF_FRAMES: 281754
+        NUMBER_OF_BYTES : 9976208859
+        _STATISTICS_WRITING_APP: mkvmerge v76.0 ('Celebration') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-04-11 17:07:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 8, level: 7, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 1, compression: 0
+  Stream #0:1(spa): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : Latino DDP 5.1
+        BPS             : 640000
+        DURATION        : 02:36:31.744000000
+        NUMBER_OF_FRAMES: 293492
+        NUMBER_OF_BYTES : 751339520
+        _STATISTICS_WRITING_APP: mkvmerge v76.0 ('Celebration') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-04-11 17:07:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+      Metadata:
+        title           : Inglés DDP 5.1
+        BPS             : 640000
+        DURATION        : 02:36:31.712000000
+        NUMBER_OF_FRAMES: 293491
+        NUMBER_OF_BYTES : 751336960
+        _STATISTICS_WRITING_APP: mkvmerge v76.0 ('Celebration') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-04-11 17:07:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(spa): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 45
+        DURATION        : 02:29:40.060000000
+        NUMBER_OF_FRAMES: 1639
+        NUMBER_OF_BYTES : 51362
+        _STATISTICS_WRITING_APP: mkvmerge v76.0 ('Celebration') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-04-11 17:07:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 40
+        DURATION        : 02:29:39.880000000
+        NUMBER_OF_FRAMES: 1617
+        NUMBER_OF_BYTES : 44914
+        _STATISTICS_WRITING_APP: mkvmerge v76.0 ('Celebration') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-04-11 17:07:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:2 -> #0:1 (eac3 (native) -> aac (libfdk_aac))
+Press [q] to stop, [?] for help
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b5-1.mp4' for writing
+Output #0, hls, to '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b5.m3u8':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2072 [SAR 1:1 DAR 480:259], q=2-31, 30 fps, 30 tbr, 16k tbn (default)
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 8, level: 7, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 1, compression: 0
+  Stream #0:1: Audio: aac, 48000 Hz, stereo, s16, 256 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 libfdk_aac
+      Side data:
+        cpb: bitrate max/min/avg: 256000/256000/256000 buffer size: 0 vbv_delay: N/A
+[mp4 @ 0xffff94069ad0] Not writing 'dvcC'/'dvvC' box. Requires -strict unofficial.
+    Last message repeated 1 times
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b520.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b521.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b522.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b523.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b524.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b525.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b526.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b527.mp4' for writing
+frame= 2453 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b528.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b529.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b530.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b531.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b532.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b533.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b534.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b535.mp4' for writing
+frame= 4805 fps=4795 q=-1.0 size=N/A time=00:01:18.48 bitrate=N/A speed=78.3x    
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b536.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b537.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b538.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b539.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b540.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b541.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b542.mp4' for writing
+frame= 7205 fps=4794 q=-1.0 size=N/A time=00:02:38.46 bitrate=N/A speed= 105x    
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b543.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b544.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b545.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b546.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b547.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b548.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b549.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b550.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b551.mp4' for writing
+frame= 9741 fps=4861 q=-1.0 size=N/A time=00:04:02.81 bitrate=N/A speed= 121x    
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b552.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b553.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b554.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b555.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b556.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b557.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b558.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b559.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b560.mp4' for writing
+frame=12309 fps=4914 q=-1.0 size=N/A time=00:05:28.49 bitrate=N/A speed= 131x    
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b561.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b562.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b563.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b564.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b565.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b566.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b567.mp4' for writing
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b568.mp4' for writing
+
+
+[q] command received. Exiting.
+
+[hls @ 0xaaaacccc6a70] Opening '/config/cache/transcodes/bc444637f6a2b3528350cf354eb022b569.mp4' for writing
+[out#0/hls @ 0xaaaaccd06050] video:512687KiB audio:15549KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=14921 fps=4947 q=-1.0 Lsize=N/A time=00:06:55.73 bitrate=N/A speed= 138x    

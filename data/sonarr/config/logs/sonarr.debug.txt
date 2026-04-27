@@ -4219,3 +4219,84 @@
 2026-04-27 13:49:24.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2026-04-27 13:49:24.6|Debug|Api|[GET] /api/v3/episode?seriesId=9&includeEpisodeFile=true&apikey=(removed) 200.OK (11 ms)
 2026-04-27 13:52:19.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 13:56:49.7|Info|RssSyncService|Starting RSS Sync
+2026-04-27 13:56:49.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 13:56:49.7|Info|DownloadDecisionMaker|No results found
+2026-04-27 13:56:49.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 13:56:49.7|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 13:57:19.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:02:19.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:07:19.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:11:49.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:11:49.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:11:49.8|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:11:49.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:11:49.9|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 14:12:19.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:17:19.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:22:20.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:26:50.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:26:50.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:26:50.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:26:50.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:26:50.1|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 14:26:50.1|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 14:26:50.1|Debug|XemProxy|Fetching alternate names
+2026-04-27 14:27:20.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:32:20.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:37:20.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:41:50.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:41:50.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:41:50.3|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:41:50.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:41:50.3|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 14:42:20.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:47:20.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.5|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (1 ms)
+2026-04-27 14:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.5|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (1 ms)
+2026-04-27 14:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.5|Debug|RootFolderService|Generating list of unmapped folders
+2026-04-27 14:49:24.5|Debug|RootFolderService|1 unmapped folders detected.
+2026-04-27 14:49:24.5|Debug|Api|[GET] /api/v3/rootfolder?apikey=(removed) 200.OK (8 ms)
+2026-04-27 14:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.5|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (0 ms)
+2026-04-27 14:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.5|Debug|Api|[GET] /api/v3/series/?apikey=(removed) 200.OK (8 ms)
+2026-04-27 14:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.6|Debug|Api|[GET] /api/v3/episode?seriesId=1&includeEpisodeFile=true&apikey=(removed) 200.OK (4 ms)
+2026-04-27 14:49:24.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.6|Debug|Api|[GET] /api/v3/episode?seriesId=2&includeEpisodeFile=true&apikey=(removed) 200.OK (4 ms)
+2026-04-27 14:49:24.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.6|Debug|Api|[GET] /api/v3/episode?seriesId=4&includeEpisodeFile=true&apikey=(removed) 200.OK (3 ms)
+2026-04-27 14:49:24.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.6|Debug|Api|[GET] /api/v3/episode?seriesId=5&includeEpisodeFile=true&apikey=(removed) 200.OK (3 ms)
+2026-04-27 14:49:24.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.7|Debug|Api|[GET] /api/v3/episode?seriesId=8&includeEpisodeFile=true&apikey=(removed) 200.OK (3 ms)
+2026-04-27 14:49:24.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 14:49:24.7|Debug|Api|[GET] /api/v3/episode?seriesId=9&includeEpisodeFile=true&apikey=(removed) 200.OK (8 ms)
+2026-04-27 14:52:20.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 14:56:50.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:56:50.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:56:50.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:56:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:56:50.6|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 14:57:20.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:02:20.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:07:20.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:11:50.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:11:50.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:11:50.8|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:11:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:11:50.8|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 15:12:20.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:17:20.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:22:20.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:26:51.0|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:26:51.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:26:51.0|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:26:51.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:26:51.0|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 15:27:21.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:32:21.1|Debug|ImportListSyncService|No import lists with automatic add enabled
