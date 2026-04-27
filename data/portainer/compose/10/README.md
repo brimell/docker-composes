@@ -21,6 +21,7 @@ Each stack is self-contained in:
 - `stacks/monica/docker-compose.yml` (includes `monica` + `monica-db`)
 - `stacks/vaultwarden/docker-compose.yml`
 - `stacks/photoprism/docker-compose.yml`
+- `stacks/homebox/docker-compose.yml`
 
 Actual Budget:
 
@@ -89,6 +90,7 @@ Container config/data is stored under `CONFIG_ROOT`, with one folder per app:
 - `data/monica/storage`
 - `data/vaultwarden`
 - `data/photoprism/storage`
+- `data/homebox`
 
 The `data/` folder is intentionally ignored by git because it can contain databases, passwords, API keys, sessions, and other private runtime state. Back it up separately if you want to recreate the machine exactly.
 

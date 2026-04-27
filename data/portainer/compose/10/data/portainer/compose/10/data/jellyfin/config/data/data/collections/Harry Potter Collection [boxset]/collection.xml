@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG</ContentRating>
+  <Added>04/22/2026 03:24:39</Added>
+  <LockData>false</LockData>
+  <Overview>The Harry Potter films are a fantasy series based on the series of seven Harry Potter novels by British writer J. K. Rowling.</Overview>
+  <LocalTitle>Harry Potter Collection</LocalTitle>
+  <PremiereDate>2001-11-16</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2001</ProductionYear>
+  <TmdbId>1241</TmdbId>
+  <Genres>
+    <Genre>Adventure</Genre>
+    <Genre>Fantasy</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Studio>Heyday Films</Studio>
+    <Studio>1492 Pictures</Studio>
+    <Studio>MIRACLE Productions</Studio>
+    <Studio />
+    <Studio>Patalex IV Productions</Studio>
+    <Studio>P of A Productions</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/movies/Harry.Potter.and.the.Chamber.of.Secrets.2002.THEATRICAL.2160p.UHD.BluRay.x265-DEPTH/Harry.Potter.and.the.Chamber.of.Secrets.2002.THEATRICAL.2160p.UHD.BluRay.x265-DEPTH.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.2160p.MAX.WEB-DL.DDP.5.1.DV.HDR.H.265-PiRaTeS[TGx]/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.2160p.MAX.WEB-DL.DDP.5.1.DV.HDR.H.265-PiRaTeS.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.2160p.MAX.WEB-DL.DDP.5.1.DV.HDR.H.265-PiRaTeS[TGx]/Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.2160p.MAX.WEB-DL.DDP.5.1.DV.HDR.H.265-PiRaTeS.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Harry.Potter.and.the.Goblet.of.Fire.2005.2160p.UHD.BluRay.x265-DEPTH/Harry.Potter.and.the.Goblet.of.Fire.2005.2160p.UHD.BluRay.x265-DEPTH.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Harry.Potter.and.the.Half-Blood.Prince.2009.2160p.MAX.WEB-DL.DDP.5.1.DV.HDR.H.265-PiRaTeS[TGx]/Harry.Potter.and.the.Half-Blood.Prince.2009.2160p.MAX.WEB-DL.DDP.5.1.DV.HDR.H.265-PiRaTeS.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Harry.Potter.and.the.Order.of.the.Phoenix.2007.2160p.UHD.BluRay.x265-DEPTH/Harry.Potter.and.the.Order.of.the.Phoenix.2007.2160p.UHD.BluRay.x265-DEPTH.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Harry.Potter.and.the.Sorcerers.Stone.2001.2160p.UHD.BluRay.x265-TERMiNAL/harry.potter.and.the.sorcerers.stone.2001.2160p.uhd.bluray.x265-terminal.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Harry Potter And The Prisoner Of Azkaban (2004) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Harry.Potter.And.The.Prisoner.Of.Azkaban.2004.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>
