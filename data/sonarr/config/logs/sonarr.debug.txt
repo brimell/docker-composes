@@ -4185,3 +4185,37 @@
 2026-04-27 13:26:49.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
 2026-04-27 13:26:49.4|Debug|PendingReleaseService|Removing failed releases from pending
 2026-04-27 13:27:19.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 13:32:19.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 13:37:19.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 13:41:49.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 13:41:49.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 13:41:49.5|Info|DownloadDecisionMaker|No results found
+2026-04-27 13:41:49.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 13:41:49.5|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 13:42:19.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 13:47:19.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 13:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.4|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (1 ms)
+2026-04-27 13:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.4|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (1 ms)
+2026-04-27 13:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.4|Debug|RootFolderService|Generating list of unmapped folders
+2026-04-27 13:49:24.4|Debug|RootFolderService|1 unmapped folders detected.
+2026-04-27 13:49:24.4|Debug|Api|[GET] /api/v3/rootfolder?apikey=(removed) 200.OK (9 ms)
+2026-04-27 13:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.4|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (1 ms)
+2026-04-27 13:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.4|Debug|Api|[GET] /api/v3/series/?apikey=(removed) 200.OK (8 ms)
+2026-04-27 13:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.4|Debug|Api|[GET] /api/v3/episode?seriesId=1&includeEpisodeFile=true&apikey=(removed) 200.OK (5 ms)
+2026-04-27 13:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.5|Debug|Api|[GET] /api/v3/episode?seriesId=2&includeEpisodeFile=true&apikey=(removed) 200.OK (4 ms)
+2026-04-27 13:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.5|Debug|Api|[GET] /api/v3/episode?seriesId=4&includeEpisodeFile=true&apikey=(removed) 200.OK (3 ms)
+2026-04-27 13:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.5|Debug|Api|[GET] /api/v3/episode?seriesId=5&includeEpisodeFile=true&apikey=(removed) 200.OK (4 ms)
+2026-04-27 13:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.5|Debug|Api|[GET] /api/v3/episode?seriesId=8&includeEpisodeFile=true&apikey=(removed) 200.OK (3 ms)
+2026-04-27 13:49:24.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 13:49:24.6|Debug|Api|[GET] /api/v3/episode?seriesId=9&includeEpisodeFile=true&apikey=(removed) 200.OK (11 ms)
+2026-04-27 13:52:19.7|Debug|ImportListSyncService|No import lists with automatic add enabled
