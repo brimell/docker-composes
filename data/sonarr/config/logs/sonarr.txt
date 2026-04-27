@@ -5263,3 +5263,1727 @@
 2026-04-26 23:26:30.2|Info|Database|Log database compressed
 2026-04-26 23:26:30.2|Info|Database|Vacuuming Main database
 2026-04-26 23:26:30.2|Info|Database|Main database compressed
+2026-04-26 23:39:32.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-04-26 23:39:33.0|Info|ConsoleApp|Exiting main.
+2026-04-26 23:39:36.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.17.2952
+2026-04-26 23:39:36.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-26 23:39:36.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-26 23:39:36.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-26 23:39:36.7|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-04-26 23:39:36.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-04-26 23:39:36.7|Info|DatabaseEngineVersionCheck|SQLite 3.51.2
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0237996s
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0253814s
+2026-04-26 23:39:36.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-04-26 23:39:36.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-04-26 23:39:36.7|Info|DatabaseEngineVersionCheck|SQLite 3.51.2
+2026-04-26 23:39:36.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0037435s
+2026-04-26 23:39:36.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-04-26 23:39:36.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0047764s
+2026-04-26 23:39:36.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2026-04-26 23:39:37.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-04-26 23:39:37.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-04-26 23:39:37.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2026-04-26 23:39:37.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-04-26 23:41:37.1|Info|RssSyncService|Starting RSS Sync
+2026-04-26 23:41:37.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-26 23:41:37.1|Info|DownloadDecisionMaker|No results found
+2026-04-26 23:41:37.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-26 23:56:37.3|Info|RssSyncService|Starting RSS Sync
+2026-04-26 23:56:37.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-26 23:56:37.3|Info|DownloadDecisionMaker|No results found
+2026-04-26 23:56:37.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 00:11:37.4|Info|RssSyncService|Starting RSS Sync
+2026-04-27 00:11:37.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 00:11:37.4|Info|DownloadDecisionMaker|No results found
+2026-04-27 00:11:37.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 00:26:37.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 00:26:37.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 00:26:37.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 00:26:37.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 00:41:37.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 00:41:37.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 00:41:37.8|Info|DownloadDecisionMaker|No results found
+2026-04-27 00:41:37.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 00:54:50.5|Info|AddSeriesService|Adding Series [317220][Goblin] Path: [/shows/Guardian The Lonely and Great God (2016)]
+2026-04-27 00:54:50.6|Info|AddSeriesService|Adding Series [432989][Lovely Runner] Path: [/shows/Lovely Runner (2024)]
+2026-04-27 00:54:50.8|Info|AddSeriesService|Adding Series [366924][Reacher] Path: [/shows/Reacher (2022)]
+2026-04-27 00:54:50.9|Info|AddSeriesService|Adding Series [176941][Sherlock] Path: [/shows/Sherlock (2010)]
+2026-04-27 00:54:51.0|Info|AddSeriesService|Adding Series [392573][Shōgun] Path: [/shows/Shōgun (2024)]
+2026-04-27 00:54:51.1|Info|AddSeriesService|Adding Series [75897][South Park] Path: [/shows/South Park (1997)]
+2026-04-27 00:54:51.2|Info|AddSeriesService|Adding Series [77526][Star Trek] Path: [/shows/Star Trek (1966)]
+2026-04-27 00:54:51.3|Info|AddSeriesService|Adding Series [428247][Twinkling Watermelon] Path: [/shows/Twinkling Watermelon (2023)]
+2026-04-27 00:54:52.5|Info|AddSeriesService|Adding Series [428338][When Life Gives You Tangerines] Path: [/shows/When Life Gives You Tangerines (2025)]
+2026-04-27 00:54:52.6|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 00:54:52.6|Info|RefreshSeriesService|Updating Reacher
+2026-04-27 00:54:52.6|Info|RefreshSeriesService|Updating Goblin
+2026-04-27 00:54:52.6|Info|RefreshSeriesService|Updating Lovely Runner
+2026-04-27 00:54:52.7|Info|RefreshEpisodeService|Starting episode info refresh for: [366924][Reacher]
+2026-04-27 00:54:52.7|Info|RefreshEpisodeService|Starting episode info refresh for: [317220][Goblin]
+2026-04-27 00:54:52.7|Info|RefreshEpisodeService|Starting episode info refresh for: [432989][Lovely Runner]
+2026-04-27 00:54:52.7|Info|RefreshEpisodeService|Finished episode refresh for series: [432989][Lovely Runner].
+2026-04-27 00:54:52.7|Info|RefreshEpisodeService|Finished episode refresh for series: [366924][Reacher].
+2026-04-27 00:54:52.7|Info|RefreshEpisodeService|Finished episode refresh for series: [317220][Goblin].
+2026-04-27 00:54:53.1|Info|MediaCoverService|Downloading Banner for [432989][Lovely Runner] https://artworks.thetvdb.com/banners/v4/series/432989/banners/66184aab0b730.jpg
+2026-04-27 00:54:53.1|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:54:53.1|Info|MediaCoverService|Downloading Banner for [366924][Reacher] https://artworks.thetvdb.com/banners/v4/series/366924/banners/61acf46489189.jpg
+2026-04-27 00:54:53.1|Info|DiskScanService|Scanning Reacher
+2026-04-27 00:54:53.1|Info|MediaCoverService|Downloading Banner for [317220][Goblin] https://artworks.thetvdb.com/banners/graphical/317220-g6.jpg
+2026-04-27 00:54:53.1|Info|DiskScanService|Scanning Goblin
+2026-04-27 00:54:53.4|Info|MediaCoverService|Downloading Poster for [317220][Goblin] https://artworks.thetvdb.com/banners/posters/317220-18.jpg
+2026-04-27 00:54:53.3|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x18f3380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x18f3380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 68
+
+2026-04-27 00:54:53.5|Info|MediaCoverService|Downloading Poster for [366924][Reacher] https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg
+2026-04-27 00:54:53.5|Info|MediaCoverService|Downloading Poster for [432989][Lovely Runner] https://artworks.thetvdb.com/banners/v4/series/432989/posters/665b280e3dfd9.jpg
+2026-04-27 00:54:53.5|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x10f2e380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x10f2e380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 68
+
+2026-04-27 00:54:53.6|Info|MediaCoverService|Downloading Fanart for [317220][Goblin] https://artworks.thetvdb.com/banners/fanart/original/317220-9.jpg
+2026-04-27 00:54:53.7|Info|MediaCoverService|Downloading Fanart for [366924][Reacher] https://artworks.thetvdb.com/banners/v4/series/366924/backgrounds/61f5af4b75b57.jpg
+2026-04-27 00:54:53.8|Info|MediaCoverService|Downloading Fanart for [432989][Lovely Runner] https://artworks.thetvdb.com/banners/v4/series/432989/backgrounds/661475e3a0e63.jpg
+2026-04-27 00:54:53.9|Info|MediaCoverService|Downloading Clearlogo for [317220][Goblin] https://artworks.thetvdb.com/banners/v4/series/317220/clearlogo/611d09f27d1c9.png
+2026-04-27 00:54:54.0|Info|MediaCoverService|Downloading Clearlogo for [366924][Reacher] https://artworks.thetvdb.com/banners/v4/series/366924/clearlogo/65d99aebeb7a5.png
+2026-04-27 00:54:54.1|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x17830380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x17830380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 68
+
+2026-04-27 00:54:54.6|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 00:54:54.6|Info|SeriesScannedHandler|[Reacher] was recently added, performing post-add actions
+2026-04-27 00:54:54.7|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x51e6380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x51e6380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 68
+
+2026-04-27 00:54:54.7|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x254ba380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x254ba380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 68
+
+2026-04-27 00:54:54.8|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:54:54.8|Info|SeriesScannedHandler|[Lovely Runner] was recently added, performing post-add actions
+2026-04-27 00:54:54.8|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0xe97a380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0xe97a380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 68
+
+2026-04-27 00:54:54.8|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 00:54:54.8|Info|SeriesScannedHandler|[Goblin] was recently added, performing post-add actions
+2026-04-27 00:54:55.4|Info|ExistingMetadataImporter|Found 21 existing metadata files
+2026-04-27 00:54:55.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:54:55.4|Info|ExistingOtherExtraImporter|Found 8 existing other extra files
+2026-04-27 00:54:55.4|Info|ExistingExtraFileService|Found 31 possible extra files, imported 29 files.
+2026-04-27 00:54:55.5|Info|RefreshSeriesService|Updating Sherlock
+2026-04-27 00:54:55.5|Info|ExistingMetadataImporter|Found 37 existing metadata files
+2026-04-27 00:54:55.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:54:55.5|Info|ExistingMetadataImporter|Found 37 existing metadata files
+2026-04-27 00:54:55.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:54:55.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:54:55.5|Info|ExistingExtraFileService|Found 37 possible extra files, imported 37 files.
+2026-04-27 00:54:55.5|Info|RefreshSeriesService|Updating Shōgun
+2026-04-27 00:54:55.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:54:55.5|Info|ExistingExtraFileService|Found 38 possible extra files, imported 37 files.
+2026-04-27 00:54:55.5|Info|RefreshSeriesService|Updating South Park
+2026-04-27 00:54:55.5|Info|RefreshEpisodeService|Starting episode info refresh for: [176941][Sherlock]
+2026-04-27 00:54:55.5|Info|RefreshEpisodeService|Finished episode refresh for series: [176941][Sherlock].
+2026-04-27 00:54:55.5|Info|MediaCoverService|Downloading Banner for [176941][Sherlock] https://artworks.thetvdb.com/banners/graphical/176941-g.jpg
+2026-04-27 00:54:55.5|Info|DiskScanService|Scanning Sherlock
+2026-04-27 00:54:55.6|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-27 00:54:55.6|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-27 00:54:55.6|Info|MediaCoverService|Downloading Banner for [392573][Shōgun] https://artworks.thetvdb.com/banners/v4/series/392573/banners/64bdaf5238aad.jpg
+2026-04-27 00:54:55.6|Info|DiskScanService|Scanning Shōgun
+2026-04-27 00:54:55.6|Info|MediaCoverService|Downloading Poster for [176941][Sherlock] https://artworks.thetvdb.com/banners/posters/176941-17.jpg
+2026-04-27 00:54:55.6|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+2026-04-27 00:54:55.6|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+2026-04-27 00:54:55.6|Info|MediaCoverService|Downloading Banner for [75897][South Park] https://artworks.thetvdb.com/banners/graphical/75897-g7.jpg
+2026-04-27 00:54:55.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:54:55.7|Info|MediaCoverService|Downloading Poster for [392573][Shōgun] https://artworks.thetvdb.com/banners/v4/series/392573/posters/65cf707706d1a.jpg
+2026-04-27 00:54:55.7|Info|MediaCoverService|Downloading Poster for [75897][South Park] https://artworks.thetvdb.com/banners/posters/75897-5.jpg
+2026-04-27 00:54:55.8|Info|MediaCoverService|Downloading Fanart for [176941][Sherlock] https://artworks.thetvdb.com/banners/fanart/original/176941-41.jpg
+2026-04-27 00:54:55.8|Info|MediaCoverService|Downloading Fanart for [392573][Shōgun] https://artworks.thetvdb.com/banners/v4/series/392573/backgrounds/65de5a4927427.jpg
+2026-04-27 00:54:55.8|Info|MediaCoverService|Downloading Fanart for [75897][South Park] https://artworks.thetvdb.com/banners/fanart/original/75897-43.jpg
+2026-04-27 00:54:56.0|Info|MediaCoverService|Downloading Clearlogo for [176941][Sherlock] https://artworks.thetvdb.com/banners/v4/series/176941/clearlogo/611b5c26c7950.png
+2026-04-27 00:54:56.0|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-27 00:54:56.0|Info|SeriesScannedHandler|[Sherlock] was recently added, performing post-add actions
+2026-04-27 00:54:56.1|Info|MediaCoverService|Downloading Clearlogo for [392573][Shōgun] https://artworks.thetvdb.com/banners/v4/series/392573/clearlogo/662dde0fbfa92.png
+2026-04-27 00:54:56.2|Info|MediaCoverService|Downloading Clearlogo for [75897][South Park] https://artworks.thetvdb.com/banners/v4/series/75897/clearlogo/688f0949ebc1e.png
+2026-04-27 00:54:56.6|Info|ExistingMetadataImporter|Found 32 existing metadata files
+2026-04-27 00:54:56.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:54:56.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:54:56.6|Info|ExistingExtraFileService|Found 33 possible extra files, imported 32 files.
+2026-04-27 00:54:56.6|Info|RefreshSeriesService|Updating Star Trek
+2026-04-27 00:54:56.7|Info|RefreshEpisodeService|Starting episode info refresh for: [77526][Star Trek]
+2026-04-27 00:54:56.7|Info|RefreshEpisodeService|Finished episode refresh for series: [77526][Star Trek].
+2026-04-27 00:54:56.7|Info|MediaCoverService|Downloading Banner for [77526][Star Trek] https://artworks.thetvdb.com/banners/graphical/77526-g4.jpg
+2026-04-27 00:54:56.7|Info|DiskScanService|Scanning Star Trek
+2026-04-27 00:54:56.8|Info|MediaCoverService|Downloading Poster for [77526][Star Trek] https://artworks.thetvdb.com/banners/posters/77526-3.jpg
+2026-04-27 00:54:57.0|Info|MediaCoverService|Downloading Fanart for [77526][Star Trek] https://artworks.thetvdb.com/banners/fanart/original/77526-7.jpg
+2026-04-27 00:54:57.2|Info|MediaCoverService|Downloading Clearlogo for [77526][Star Trek] https://artworks.thetvdb.com/banners/v4/series/77526/clearlogo/611b6b221042e.png
+2026-04-27 00:54:58.1|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-27 00:54:58.1|Info|SeriesScannedHandler|[Shōgun] was recently added, performing post-add actions
+2026-04-27 00:54:58.7|Info|ExistingMetadataImporter|Found 25 existing metadata files
+2026-04-27 00:54:58.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:54:58.8|Info|ExistingOtherExtraImporter|Found 10 existing other extra files
+2026-04-27 00:54:58.8|Info|ExistingExtraFileService|Found 37 possible extra files, imported 35 files.
+2026-04-27 00:54:58.8|Info|RefreshSeriesService|Updating Twinkling Watermelon
+2026-04-27 00:54:58.9|Info|RefreshEpisodeService|Starting episode info refresh for: [428247][Twinkling Watermelon]
+2026-04-27 00:54:58.9|Info|RefreshEpisodeService|Finished episode refresh for series: [428247][Twinkling Watermelon].
+2026-04-27 00:54:58.9|Info|MediaCoverService|Downloading Banner for [428247][Twinkling Watermelon] https://artworks.thetvdb.com/banners/v4/series/428247/banners/64f81b4dc9f09.jpg
+2026-04-27 00:54:58.9|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 00:54:59.0|Info|MediaCoverService|Downloading Poster for [428247][Twinkling Watermelon] https://artworks.thetvdb.com/banners/v4/series/428247/posters/64f8153ced75f.jpg
+2026-04-27 00:54:59.2|Info|MediaCoverService|Downloading Fanart for [428247][Twinkling Watermelon] https://artworks.thetvdb.com/banners/v4/series/428247/backgrounds/65529897e5699.jpg
+2026-04-27 00:54:59.4|Info|MediaCoverService|Downloading Clearlogo for [428247][Twinkling Watermelon] https://artworks.thetvdb.com/banners/v4/series/428247/clearlogo/652108a830819.png
+2026-04-27 00:54:59.9|Info|DiskScanService|Completed scanning disk for Star Trek
+2026-04-27 00:54:59.9|Info|SeriesScannedHandler|[Star Trek] was recently added, performing post-add actions
+2026-04-27 00:55:00.1|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 00:55:00.2|Info|SeriesScannedHandler|[Twinkling Watermelon] was recently added, performing post-add actions
+2026-04-27 00:55:00.9|Info|ExistingMetadataImporter|Found 37 existing metadata files
+2026-04-27 00:55:00.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:55:00.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:55:00.9|Info|ExistingExtraFileService|Found 37 possible extra files, imported 37 files.
+2026-04-27 00:55:00.9|Info|RefreshSeriesService|Updating When Life Gives You Tangerines
+2026-04-27 00:55:01.0|Info|RefreshEpisodeService|Starting episode info refresh for: [428338][When Life Gives You Tangerines]
+2026-04-27 00:55:01.0|Info|RefreshEpisodeService|Finished episode refresh for series: [428338][When Life Gives You Tangerines].
+2026-04-27 00:55:01.0|Info|MediaCoverService|Downloading Banner for [428338][When Life Gives You Tangerines] https://artworks.thetvdb.com/banners/v4/series/428338/banners/67cb234d63b64.jpg
+2026-04-27 00:55:01.0|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 00:55:01.1|Info|MediaCoverService|Downloading Poster for [428338][When Life Gives You Tangerines] https://artworks.thetvdb.com/banners/v4/series/428338/posters/67d722fa1d612.jpg
+2026-04-27 00:55:01.6|Info|MediaCoverService|Downloading Fanart for [428338][When Life Gives You Tangerines] https://artworks.thetvdb.com/banners/v4/series/428338/backgrounds/67f093f32dcd3.jpg
+2026-04-27 00:55:01.8|Info|MediaCoverService|Downloading Clearlogo for [428338][When Life Gives You Tangerines] https://artworks.thetvdb.com/banners/v4/series/428338/clearlogo/67cb22c0ab933.png
+2026-04-27 00:55:02.3|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 00:55:02.3|Info|SeriesScannedHandler|[When Life Gives You Tangerines] was recently added, performing post-add actions
+2026-04-27 00:55:03.1|Info|ExistingMetadataImporter|Found 37 existing metadata files
+2026-04-27 00:55:03.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:55:03.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:55:03.1|Info|ExistingExtraFileService|Found 37 possible extra files, imported 37 files.
+2026-04-27 00:55:03.1|Info|ExistingMetadataImporter|Found 174 existing metadata files
+2026-04-27 00:55:03.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:55:03.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:55:03.2|Info|ExistingExtraFileService|Found 184 possible extra files, imported 174 files.
+2026-04-27 00:55:10.0|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:55:10.0|Info|SeriesScannedHandler|[South Park] was recently added, performing post-add actions
+2026-04-27 00:55:13.8|Info|ExistingMetadataImporter|Found 674 existing metadata files
+2026-04-27 00:55:13.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:55:13.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:55:13.8|Info|ExistingExtraFileService|Found 675 possible extra files, imported 674 files.
+2026-04-27 00:56:37.9|Info|RssSyncService|Starting RSS Sync
+2026-04-27 00:56:37.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 00:56:37.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 00:56:37.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 00:56:42.9|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 00:56:43.8|Info|RefreshSeriesService|Updating Goblin
+2026-04-27 00:56:43.9|Info|RefreshEpisodeService|Starting episode info refresh for: [317220][Goblin]
+2026-04-27 00:56:44.0|Info|RefreshEpisodeService|Finished episode refresh for series: [317220][Goblin].
+2026-04-27 00:56:44.0|Info|DiskScanService|Scanning Goblin
+2026-04-27 00:56:44.0|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 00:56:44.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:44.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:44.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:44.0|Info|ExistingExtraFileService|Found 38 possible extra files, imported 36 files.
+2026-04-27 00:56:44.1|Info|RefreshSeriesService|Updating Lovely Runner
+2026-04-27 00:56:44.2|Info|RefreshEpisodeService|Starting episode info refresh for: [432989][Lovely Runner]
+2026-04-27 00:56:44.2|Info|RefreshEpisodeService|Finished episode refresh for series: [432989][Lovely Runner].
+2026-04-27 00:56:44.2|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:56:44.2|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:56:44.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:44.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:44.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:44.2|Info|ExistingExtraFileService|Found 37 possible extra files, imported 36 files.
+2026-04-27 00:56:44.3|Info|RefreshSeriesService|Updating Reacher
+2026-04-27 00:56:44.3|Info|RefreshEpisodeService|Starting episode info refresh for: [366924][Reacher]
+2026-04-27 00:56:44.3|Info|RefreshEpisodeService|Finished episode refresh for series: [366924][Reacher].
+2026-04-27 00:56:44.3|Info|DiskScanService|Scanning Reacher
+2026-04-27 00:56:44.4|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 00:56:44.4|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x25e7f380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x25e7f380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:56:44.4|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x1e907380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x1e907380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:56:44.5|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x370f6380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x370f6380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:56:44.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:44.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:44.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:44.5|Info|ExistingExtraFileService|Found 31 possible extra files, imported 28 files.
+2026-04-27 00:56:45.0|Info|RefreshSeriesService|Updating Sherlock
+2026-04-27 00:56:45.1|Info|RefreshEpisodeService|Starting episode info refresh for: [176941][Sherlock]
+2026-04-27 00:56:45.1|Info|RefreshEpisodeService|Finished episode refresh for series: [176941][Sherlock].
+2026-04-27 00:56:45.1|Info|DiskScanService|Scanning Sherlock
+2026-04-27 00:56:45.1|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-27 00:56:45.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:45.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:45.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:45.1|Info|ExistingExtraFileService|Found 33 possible extra files, imported 31 files.
+2026-04-27 00:56:46.0|Info|RefreshSeriesService|Updating Shōgun
+2026-04-27 00:56:46.1|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-27 00:56:46.1|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-27 00:56:46.1|Info|DiskScanService|Scanning Shōgun
+2026-04-27 00:56:47.2|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-27 00:56:47.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:47.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:47.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:47.3|Info|ExistingExtraFileService|Found 37 possible extra files, imported 34 files.
+2026-04-27 00:56:48.1|Info|RefreshSeriesService|Updating South Park
+2026-04-27 00:56:48.2|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+2026-04-27 00:56:48.3|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+2026-04-27 00:56:48.3|Info|DiskScanService|Scanning South Park
+2026-04-27 00:56:48.7|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:56:48.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:48.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:48.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:48.8|Info|ExistingExtraFileService|Found 675 possible extra files, imported 673 files.
+2026-04-27 00:56:52.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo
+2026-04-27 00:56:52.8|Info|RefreshSeriesService|Updating Star Trek
+2026-04-27 00:56:52.8|Info|RefreshEpisodeService|Starting episode info refresh for: [77526][Star Trek]
+2026-04-27 00:56:52.9|Info|RefreshEpisodeService|Finished episode refresh for series: [77526][Star Trek].
+2026-04-27 00:56:52.9|Info|DiskScanService|Scanning Star Trek
+2026-04-27 00:56:53.0|Info|DiskScanService|Completed scanning disk for Star Trek
+2026-04-27 00:56:53.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:53.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:53.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:53.0|Info|ExistingExtraFileService|Found 184 possible extra files, imported 173 files.
+2026-04-27 00:56:53.7|Info|RefreshSeriesService|Updating Twinkling Watermelon
+2026-04-27 00:56:53.8|Info|RefreshEpisodeService|Starting episode info refresh for: [428247][Twinkling Watermelon]
+2026-04-27 00:56:53.8|Info|RefreshEpisodeService|Finished episode refresh for series: [428247][Twinkling Watermelon].
+2026-04-27 00:56:53.8|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 00:56:53.8|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 00:56:53.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:53.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:53.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:53.8|Info|ExistingExtraFileService|Found 37 possible extra files, imported 36 files.
+2026-04-27 00:56:53.9|Info|RefreshSeriesService|Updating When Life Gives You Tangerines
+2026-04-27 00:56:53.9|Info|RefreshEpisodeService|Starting episode info refresh for: [428338][When Life Gives You Tangerines]
+2026-04-27 00:56:53.9|Info|RefreshEpisodeService|Finished episode refresh for series: [428338][When Life Gives You Tangerines].
+2026-04-27 00:56:53.9|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 00:56:54.0|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 00:56:54.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:56:54.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:56:54.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:56:54.0|Info|ExistingExtraFileService|Found 37 possible extra files, imported 36 files.
+2026-04-27 00:57:25.5|Info|RefreshSeriesService|Updating Goblin
+2026-04-27 00:57:25.6|Info|RefreshEpisodeService|Starting episode info refresh for: [317220][Goblin]
+2026-04-27 00:57:25.6|Info|RefreshEpisodeService|Finished episode refresh for series: [317220][Goblin].
+2026-04-27 00:57:25.6|Info|DiskScanService|Scanning Goblin
+2026-04-27 00:57:25.6|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 00:57:25.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:57:25.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:25.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:57:25.7|Info|ExistingExtraFileService|Found 39 possible extra files, imported 37 files.
+2026-04-27 00:57:25.7|Info|RefreshSeriesService|Updating Lovely Runner
+2026-04-27 00:57:25.8|Info|RefreshEpisodeService|Starting episode info refresh for: [432989][Lovely Runner]
+2026-04-27 00:57:25.8|Info|RefreshEpisodeService|Finished episode refresh for series: [432989][Lovely Runner].
+2026-04-27 00:57:25.8|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:57:25.8|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:57:25.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:57:25.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:25.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:57:25.8|Info|ExistingExtraFileService|Found 38 possible extra files, imported 37 files.
+2026-04-27 00:57:25.8|Info|RefreshSeriesService|Updating Reacher
+2026-04-27 00:57:25.9|Info|RefreshEpisodeService|Starting episode info refresh for: [366924][Reacher]
+2026-04-27 00:57:26.0|Info|RefreshEpisodeService|Finished episode refresh for series: [366924][Reacher].
+2026-04-27 00:57:26.0|Info|DiskScanService|Scanning Reacher
+2026-04-27 00:57:26.0|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 00:57:26.0|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x28c83380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x28c83380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:57:26.1|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x1f4ac380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x1f4ac380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:57:26.1|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x37658380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x37658380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:57:26.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:57:26.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:26.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:57:26.2|Info|ExistingExtraFileService|Found 34 possible extra files, imported 31 files.
+2026-04-27 00:57:26.2|Info|RefreshSeriesService|Updating Sherlock
+2026-04-27 00:57:26.3|Info|RefreshEpisodeService|Starting episode info refresh for: [176941][Sherlock]
+2026-04-27 00:57:26.3|Info|RefreshEpisodeService|Finished episode refresh for series: [176941][Sherlock].
+2026-04-27 00:57:26.3|Info|DiskScanService|Scanning Sherlock
+2026-04-27 00:57:26.3|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-27 00:57:26.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:57:26.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:26.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:57:26.4|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-27 00:57:26.4|Info|RefreshSeriesService|Updating Shōgun
+2026-04-27 00:57:26.5|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-27 00:57:26.5|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-27 00:57:26.5|Info|DiskScanService|Scanning Shōgun
+2026-04-27 00:57:27.0|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-27 00:57:27.1|Info|ExistingMetadataImporter|Found 5 existing metadata files
+2026-04-27 00:57:27.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:27.2|Info|ExistingOtherExtraImporter|Found 10 existing other extra files
+2026-04-27 00:57:27.2|Info|ExistingExtraFileService|Found 49 possible extra files, imported 46 files.
+2026-04-27 00:57:27.3|Info|RefreshSeriesService|Updating South Park
+2026-04-27 00:57:27.4|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+2026-04-27 00:57:27.6|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+2026-04-27 00:57:27.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:57:28.3|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:57:28.4|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:57:28.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:28.4|Info|ExistingOtherExtraImporter|Found 7 existing other extra files
+2026-04-27 00:57:28.4|Info|ExistingExtraFileService|Found 702 possible extra files, imported 700 files.
+2026-04-27 00:57:29.0|Info|RefreshSeriesService|Updating Star Trek
+2026-04-27 00:57:29.1|Info|RefreshEpisodeService|Starting episode info refresh for: [77526][Star Trek]
+2026-04-27 00:57:29.1|Info|RefreshEpisodeService|Finished episode refresh for series: [77526][Star Trek].
+2026-04-27 00:57:29.1|Info|DiskScanService|Scanning Star Trek
+2026-04-27 00:57:29.2|Info|DiskScanService|Completed scanning disk for Star Trek
+2026-04-27 00:57:29.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:57:29.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:29.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:57:29.3|Info|ExistingExtraFileService|Found 188 possible extra files, imported 177 files.
+2026-04-27 00:57:29.4|Info|RefreshSeriesService|Updating Twinkling Watermelon
+2026-04-27 00:57:29.5|Info|RefreshEpisodeService|Starting episode info refresh for: [428247][Twinkling Watermelon]
+2026-04-27 00:57:29.5|Info|RefreshEpisodeService|Finished episode refresh for series: [428247][Twinkling Watermelon].
+2026-04-27 00:57:29.5|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 00:57:29.5|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 00:57:29.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:57:29.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:29.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:57:29.5|Info|ExistingExtraFileService|Found 38 possible extra files, imported 37 files.
+2026-04-27 00:57:29.6|Info|RefreshSeriesService|Updating When Life Gives You Tangerines
+2026-04-27 00:57:29.6|Info|RefreshEpisodeService|Starting episode info refresh for: [428338][When Life Gives You Tangerines]
+2026-04-27 00:57:29.7|Info|RefreshEpisodeService|Finished episode refresh for series: [428338][When Life Gives You Tangerines].
+2026-04-27 00:57:29.7|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 00:57:29.7|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 00:57:29.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:57:29.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 00:57:29.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:57:29.7|Info|ExistingExtraFileService|Found 38 possible extra files, imported 37 files.
+2026-04-27 00:58:45.6|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:45.6|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:45.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:45.6|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:45.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:45.6|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-27 00:58:46.1|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:46.1|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:46.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:46.1|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:46.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:46.1|Info|ExistingExtraFileService|Found 40 possible extra files, imported 39 files.
+2026-04-27 00:58:47.7|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:47.7|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:47.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:47.7|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:47.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:47.7|Info|ExistingExtraFileService|Found 41 possible extra files, imported 40 files.
+2026-04-27 00:58:48.2|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:48.2|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:48.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:48.2|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:48.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:48.2|Info|ExistingExtraFileService|Found 42 possible extra files, imported 41 files.
+2026-04-27 00:58:48.7|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:48.7|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:48.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:48.7|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:48.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:48.7|Info|ExistingExtraFileService|Found 43 possible extra files, imported 42 files.
+2026-04-27 00:58:49.3|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:49.3|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:49.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:49.3|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:49.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:49.3|Info|ExistingExtraFileService|Found 44 possible extra files, imported 43 files.
+2026-04-27 00:58:49.8|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:49.8|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:49.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:49.8|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:49.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:49.8|Info|ExistingExtraFileService|Found 45 possible extra files, imported 44 files.
+2026-04-27 00:58:51.0|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:51.0|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:51.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:51.1|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:51.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:51.1|Info|ExistingExtraFileService|Found 46 possible extra files, imported 45 files.
+2026-04-27 00:58:51.9|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:51.9|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:51.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:51.9|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:51.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:51.9|Info|ExistingExtraFileService|Found 47 possible extra files, imported 46 files.
+2026-04-27 00:58:52.8|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:52.8|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:52.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:52.9|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:52.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:52.9|Info|ExistingExtraFileService|Found 48 possible extra files, imported 47 files.
+2026-04-27 00:58:53.5|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 00:58:53.5|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 00:58:53.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:53.5|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:53.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:53.5|Info|ExistingExtraFileService|Found 49 possible extra files, imported 48 files.
+2026-04-27 00:58:54.2|Info|DiskScanService|Scanning Reacher
+2026-04-27 00:58:54.2|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 00:58:54.3|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x36e37380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x36e37380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:54.4|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x3f276380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x3f276380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:54.4|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x40d62380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x40d62380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:54.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:54.4|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:54.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:54.5|Info|ExistingExtraFileService|Found 35 possible extra files, imported 32 files.
+2026-04-27 00:58:55.1|Info|DiskScanService|Scanning Reacher
+2026-04-27 00:58:55.1|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 00:58:55.1|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x1b3c7380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x1b3c7380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:55.1|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x29655380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x29655380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:55.2|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x36c35380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x36c35380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:55.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:55.2|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:55.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:55.3|Info|ExistingExtraFileService|Found 36 possible extra files, imported 33 files.
+2026-04-27 00:58:56.3|Info|DiskScanService|Scanning Reacher
+2026-04-27 00:58:56.3|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 00:58:56.3|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x1599c380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x1599c380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:56.4|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x3370a380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x3370a380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:56.4|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x16568380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x16568380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 00:58:56.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:56.5|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:56.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:56.5|Info|ExistingExtraFileService|Found 37 possible extra files, imported 34 files.
+2026-04-27 00:58:57.0|Info|DiskScanService|Scanning Goblin
+2026-04-27 00:58:57.0|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 00:58:57.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:58:57.0|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:58:57.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 00:58:57.0|Info|ExistingExtraFileService|Found 40 possible extra files, imported 38 files.
+2026-04-27 00:59:00.7|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:01.2|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:01.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 00:59:01.3|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:01.3|Info|ExistingOtherExtraImporter|Found 7 existing other extra files
+2026-04-27 00:59:01.3|Info|ExistingExtraFileService|Found 710 possible extra files, imported 708 files.
+2026-04-27 00:59:03.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:03.9|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:04.1|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:04.1|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:04.1|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:04.1|Info|ExistingExtraFileService|Found 724 possible extra files, imported 722 files.
+2026-04-27 00:59:04.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:04.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:04.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:04.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:06.2|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:06.6|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:06.7|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:06.7|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:06.8|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:06.8|Info|ExistingExtraFileService|Found 725 possible extra files, imported 723 files.
+2026-04-27 00:59:07.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:07.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:07.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:07.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:07.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:07.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:07.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:07.5|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:07.9|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:08.0|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:08.1|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:08.1|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:08.1|Info|ExistingExtraFileService|Found 727 possible extra files, imported 725 files.
+2026-04-27 00:59:08.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:08.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:08.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:08.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:08.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:08.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:08.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:09.2|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:09.6|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:09.7|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:09.7|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:09.7|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:09.7|Info|ExistingExtraFileService|Found 729 possible extra files, imported 727 files.
+2026-04-27 00:59:10.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:10.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:10.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:10.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:10.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:10.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:10.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:11.4|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:11.8|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:11.9|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:12.0|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:12.0|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:12.0|Info|ExistingExtraFileService|Found 730 possible extra files, imported 728 files.
+2026-04-27 00:59:12.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:12.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:12.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:12.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:12.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:12.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:12.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:12.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:13.0|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:13.2|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:13.2|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:13.2|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:13.2|Info|ExistingExtraFileService|Found 732 possible extra files, imported 730 files.
+2026-04-27 00:59:13.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:13.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:13.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:13.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:13.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:13.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:13.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:15.0|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:15.4|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:15.6|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:15.6|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:15.6|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:15.6|Info|ExistingExtraFileService|Found 733 possible extra files, imported 731 files.
+2026-04-27 00:59:15.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:15.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:15.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:15.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:15.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:15.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:15.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:16.1|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:16.5|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:16.6|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:16.6|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:16.7|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:16.7|Info|ExistingExtraFileService|Found 734 possible extra files, imported 732 files.
+2026-04-27 00:59:17.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:17.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:17.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:17.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:17.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:17.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:17.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:17.7|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:18.1|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:18.2|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:18.2|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:18.3|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:18.3|Info|ExistingExtraFileService|Found 735 possible extra files, imported 733 files.
+2026-04-27 00:59:18.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:18.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:18.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:18.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:18.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:18.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:18.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:19.1|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:19.5|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:19.7|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:19.7|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:19.7|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:19.7|Info|ExistingExtraFileService|Found 736 possible extra files, imported 734 files.
+2026-04-27 00:59:20.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:20.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:20.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:20.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:20.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:20.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:20.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:20.2|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:20.7|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:20.8|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:20.8|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:20.9|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:20.9|Info|ExistingExtraFileService|Found 738 possible extra files, imported 736 files.
+2026-04-27 00:59:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:21.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:22.0|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:22.2|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:22.2|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:22.2|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:22.2|Info|ExistingExtraFileService|Found 740 possible extra files, imported 738 files.
+2026-04-27 00:59:22.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:22.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:22.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:22.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:22.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:22.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:22.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:22.7|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:23.2|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:23.3|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:23.3|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:23.4|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:23.4|Info|ExistingExtraFileService|Found 741 possible extra files, imported 739 files.
+2026-04-27 00:59:23.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:23.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:23.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:23.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:23.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:23.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:23.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:24.4|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:24.8|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:25.0|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:25.0|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:25.1|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:25.1|Info|ExistingExtraFileService|Found 743 possible extra files, imported 741 files.
+2026-04-27 00:59:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:25.7|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:26.1|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:26.2|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:26.2|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:26.3|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:26.3|Info|ExistingExtraFileService|Found 745 possible extra files, imported 743 files.
+2026-04-27 00:59:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:26.8|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:27.2|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:27.3|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:27.3|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:27.4|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:27.4|Info|ExistingExtraFileService|Found 747 possible extra files, imported 745 files.
+2026-04-27 00:59:27.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:27.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:27.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:27.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:27.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:27.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:27.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:27.8|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:28.3|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:28.4|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:28.5|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:28.5|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:28.5|Info|ExistingExtraFileService|Found 749 possible extra files, imported 747 files.
+2026-04-27 00:59:28.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:28.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:28.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:28.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:28.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:28.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:28.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:29.5|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:29.9|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:30.0|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:30.1|Info|ExistingSubtitleImporter|Found 3 existing subtitle files
+2026-04-27 00:59:30.1|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:30.1|Info|ExistingExtraFileService|Found 752 possible extra files, imported 750 files.
+2026-04-27 00:59:30.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:30.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:30.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:30.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:30.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:30.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:30.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:30.8|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:31.2|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:31.3|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:31.3|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:31.4|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:31.4|Info|ExistingExtraFileService|Found 753 possible extra files, imported 751 files.
+2026-04-27 00:59:31.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:31.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:31.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:31.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:31.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:31.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:31.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:32.4|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:32.8|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:32.9|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:32.9|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:33.0|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:33.0|Info|ExistingExtraFileService|Found 754 possible extra files, imported 752 files.
+2026-04-27 00:59:33.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:33.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:33.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:33.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:33.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:33.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:33.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:33.8|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:34.2|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:34.3|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:34.3|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:34.4|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:34.4|Info|ExistingExtraFileService|Found 755 possible extra files, imported 753 files.
+2026-04-27 00:59:34.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:34.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:34.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:34.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:34.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:34.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:34.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:35.2|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:35.6|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:35.8|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:35.8|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:35.8|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:35.8|Info|ExistingExtraFileService|Found 757 possible extra files, imported 755 files.
+2026-04-27 00:59:36.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:36.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:36.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:36.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:36.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:36.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:36.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:36.2|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:36.6|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:36.7|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:36.7|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:36.8|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:36.8|Info|ExistingExtraFileService|Found 759 possible extra files, imported 757 files.
+2026-04-27 00:59:37.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:37.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:37.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:37.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:37.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:37.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:37.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:37.3|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:37.7|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:37.9|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:37.9|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:37.9|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:37.9|Info|ExistingExtraFileService|Found 761 possible extra files, imported 759 files.
+2026-04-27 00:59:38.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:38.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:38.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:38.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:38.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:38.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:38.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:39.4|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:39.8|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:40.0|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:40.0|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:40.0|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:40.0|Info|ExistingExtraFileService|Found 763 possible extra files, imported 761 files.
+2026-04-27 00:59:40.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:40.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:40.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:40.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:40.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:40.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:40.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:40.9|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:41.3|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:41.4|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:41.4|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:41.5|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:41.5|Info|ExistingExtraFileService|Found 765 possible extra files, imported 763 files.
+2026-04-27 00:59:41.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:41.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:41.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:41.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:41.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:41.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:41.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:42.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:43.0|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:43.2|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:43.2|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:43.2|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:43.2|Info|ExistingExtraFileService|Found 766 possible extra files, imported 764 files.
+2026-04-27 00:59:43.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:43.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:43.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:43.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:43.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:43.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:43.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:44.1|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:44.5|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:44.6|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:44.6|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:44.7|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:44.7|Info|ExistingExtraFileService|Found 767 possible extra files, imported 765 files.
+2026-04-27 00:59:44.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:44.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:45.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:45.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:45.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:45.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:45.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:45.1|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:45.6|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:45.7|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:45.7|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:45.7|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:45.7|Info|ExistingExtraFileService|Found 768 possible extra files, imported 766 files.
+2026-04-27 00:59:46.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:46.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:46.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:46.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:46.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:46.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:46.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:46.4|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:46.8|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:46.9|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:46.9|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:46.9|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:46.9|Info|ExistingExtraFileService|Found 770 possible extra files, imported 768 files.
+2026-04-27 00:59:47.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:47.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:47.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:47.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:47.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:47.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:47.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:47.7|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:48.1|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:48.3|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:48.3|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:48.3|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:48.3|Info|ExistingExtraFileService|Found 772 possible extra files, imported 770 files.
+2026-04-27 00:59:48.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:48.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:48.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:48.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:48.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:48.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:48.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:48.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:49.0|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:49.2|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:49.2|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 00:59:49.2|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:49.2|Info|ExistingExtraFileService|Found 773 possible extra files, imported 771 files.
+2026-04-27 00:59:49.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:49.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:49.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:49.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:49.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:49.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:49.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:49.7|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:50.2|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:50.3|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:50.3|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:50.3|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:50.3|Info|ExistingExtraFileService|Found 775 possible extra files, imported 773 files.
+2026-04-27 00:59:50.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:50.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:50.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:50.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:50.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:50.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:50.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:51.2|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:51.7|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:51.8|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:51.8|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:51.9|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:51.9|Info|ExistingExtraFileService|Found 777 possible extra files, imported 775 files.
+2026-04-27 00:59:52.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:52.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:52.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:52.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:52.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:52.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:52.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:52.6|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:53.0|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:53.1|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:53.2|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:53.2|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:53.2|Info|ExistingExtraFileService|Found 779 possible extra files, imported 777 files.
+2026-04-27 00:59:53.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:53.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:53.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:53.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:53.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:53.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:53.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:54.0|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:54.5|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:54.6|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:54.6|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:54.6|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:54.6|Info|ExistingExtraFileService|Found 781 possible extra files, imported 779 files.
+2026-04-27 00:59:54.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:54.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:54.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:54.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:54.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:54.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:54.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:55.3|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:55.7|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:55.8|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:55.8|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:55.9|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:55.9|Info|ExistingExtraFileService|Found 783 possible extra files, imported 781 files.
+2026-04-27 00:59:56.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:56.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:56.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:56.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:56.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:56.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:56.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:56.3|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:56.7|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:56.8|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:56.8|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:56.9|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:56.9|Info|ExistingExtraFileService|Found 785 possible extra files, imported 783 files.
+2026-04-27 00:59:57.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:57.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:57.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:57.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:57.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:57.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:57.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:57.5|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:57.9|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:58.0|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 00:59:58.0|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:58.1|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:58.1|Info|ExistingExtraFileService|Found 787 possible extra files, imported 785 files.
+2026-04-27 00:59:58.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 00:59:58.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 00:59:58.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 00:59:58.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 00:59:58.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 00:59:58.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 00:59:58.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 00:59:58.8|Info|DiskScanService|Scanning South Park
+2026-04-27 00:59:59.2|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 00:59:59.3|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 00:59:59.3|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 00:59:59.4|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 00:59:59.4|Info|ExistingExtraFileService|Found 789 possible extra files, imported 787 files.
+2026-04-27 00:59:59.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:59.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:59.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:59.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:59.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:59.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:59.7|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 00:59:59.9|Info|DiskScanService|Scanning South Park
+2026-04-27 01:00:00.4|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 01:00:00.5|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 01:00:00.6|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 01:00:00.6|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 01:00:00.6|Info|ExistingExtraFileService|Found 791 possible extra files, imported 789 files.
+2026-04-27 01:00:00.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 01:00:00.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 01:00:00.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 01:00:00.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 01:00:00.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 01:00:00.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 01:00:00.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 01:00:01.0|Info|DiskScanService|Scanning South Park
+2026-04-27 01:00:01.4|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 01:00:01.5|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 01:00:01.5|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 01:00:01.6|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 01:00:01.6|Info|ExistingExtraFileService|Found 793 possible extra files, imported 791 files.
+2026-04-27 01:00:01.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:01.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:01.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:01.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:01.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:01.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:01.9|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:02.1|Info|DiskScanService|Scanning South Park
+2026-04-27 01:00:02.5|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 01:00:02.7|Info|ExistingMetadataImporter|Found 8 existing metadata files
+2026-04-27 01:00:02.7|Info|ExistingSubtitleImporter|Found 2 existing subtitle files
+2026-04-27 01:00:02.8|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 01:00:02.8|Info|ExistingExtraFileService|Found 795 possible extra files, imported 793 files.
+2026-04-27 01:00:03.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X1 South Park Post Covid.nfo-orig
+2026-04-27 01:00:03.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/X2 South Park Post Covid The Return Of Covid.nfo-orig
+2026-04-27 01:00:03.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 03/XM South Park Movie Bigger Longer And Uncut.nfo-orig
+2026-04-27 01:00:03.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X3 South Park The Streaming Wars.nfo-orig
+2026-04-27 01:00:03.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/X4 South Park The Streaming Wars Part 2.nfo-orig
+2026-04-27 01:00:03.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X5 South Park Joining The Panderverse.nfo-orig
+2026-04-27 01:00:03.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/X6 South Park Not Suitable For Children.nfo-orig
+2026-04-27 01:00:04.0|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:04.1|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:04.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:04.1|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:04.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:04.1|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-27 01:00:04.8|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:04.8|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:04.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:04.8|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:04.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:04.8|Info|ExistingExtraFileService|Found 40 possible extra files, imported 39 files.
+2026-04-27 01:00:05.5|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:05.5|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:05.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:05.5|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:05.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:05.5|Info|ExistingExtraFileService|Found 41 possible extra files, imported 40 files.
+2026-04-27 01:00:06.1|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:06.2|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:06.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:06.2|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:06.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:06.2|Info|ExistingExtraFileService|Found 42 possible extra files, imported 41 files.
+2026-04-27 01:00:06.8|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:06.8|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:06.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:06.8|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:06.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:06.8|Info|ExistingExtraFileService|Found 43 possible extra files, imported 42 files.
+2026-04-27 01:00:07.4|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:07.4|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:07.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:07.4|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:07.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:07.4|Info|ExistingExtraFileService|Found 44 possible extra files, imported 43 files.
+2026-04-27 01:00:07.9|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:07.9|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:08.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:08.0|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:08.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:08.0|Info|ExistingExtraFileService|Found 45 possible extra files, imported 44 files.
+2026-04-27 01:00:08.5|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:08.5|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:08.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:08.5|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:08.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:08.5|Info|ExistingExtraFileService|Found 46 possible extra files, imported 45 files.
+2026-04-27 01:00:09.0|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:09.0|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:09.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:09.0|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:09.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:09.1|Info|ExistingExtraFileService|Found 47 possible extra files, imported 46 files.
+2026-04-27 01:00:09.5|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:09.5|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:09.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:09.5|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:09.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:09.5|Info|ExistingExtraFileService|Found 48 possible extra files, imported 47 files.
+2026-04-27 01:00:10.0|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:10.0|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:10.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:10.0|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:10.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:10.0|Info|ExistingExtraFileService|Found 49 possible extra files, imported 48 files.
+2026-04-27 01:00:10.4|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:10.4|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:10.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:10.4|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:10.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:10.5|Info|ExistingExtraFileService|Found 50 possible extra files, imported 49 files.
+2026-04-27 01:00:10.9|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:10.9|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:10.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:10.9|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:10.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:10.9|Info|ExistingExtraFileService|Found 51 possible extra files, imported 50 files.
+2026-04-27 01:00:11.5|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:11.5|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:11.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:11.5|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:11.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:11.5|Info|ExistingExtraFileService|Found 52 possible extra files, imported 51 files.
+2026-04-27 01:00:11.9|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:12.0|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:12.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:12.0|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:12.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:12.0|Info|ExistingExtraFileService|Found 53 possible extra files, imported 52 files.
+2026-04-27 01:00:12.6|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 01:00:12.6|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 01:00:12.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:12.6|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:12.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:12.6|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-27 01:00:44.8|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 01:00:45.8|Info|RefreshSeriesService|Updating Goblin
+2026-04-27 01:00:46.0|Info|RefreshEpisodeService|Starting episode info refresh for: [317220][Goblin]
+2026-04-27 01:00:46.0|Info|RefreshEpisodeService|Finished episode refresh for series: [317220][Goblin].
+2026-04-27 01:00:46.1|Info|DiskScanService|Scanning Goblin
+2026-04-27 01:00:46.1|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 01:00:46.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:46.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:46.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:46.1|Info|ExistingExtraFileService|Found 40 possible extra files, imported 38 files.
+2026-04-27 01:00:46.1|Info|RefreshSeriesService|Updating Lovely Runner
+2026-04-27 01:00:46.2|Info|RefreshEpisodeService|Starting episode info refresh for: [432989][Lovely Runner]
+2026-04-27 01:00:46.2|Info|RefreshEpisodeService|Finished episode refresh for series: [432989][Lovely Runner].
+2026-04-27 01:00:46.2|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 01:00:46.3|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 01:00:46.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:46.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:46.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:46.3|Info|ExistingExtraFileService|Found 49 possible extra files, imported 48 files.
+2026-04-27 01:00:46.3|Info|RefreshSeriesService|Updating Reacher
+2026-04-27 01:00:46.4|Info|RefreshEpisodeService|Starting episode info refresh for: [366924][Reacher]
+2026-04-27 01:00:46.4|Info|RefreshEpisodeService|Finished episode refresh for series: [366924][Reacher].
+2026-04-27 01:00:46.4|Info|DiskScanService|Scanning Reacher
+2026-04-27 01:00:46.4|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 01:00:46.4|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x3c8a9380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x3c8a9380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E01 - Persuader -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 01:00:46.5|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x21df2380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x21df2380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E02 - Truckin' -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 01:00:46.5|Error|VideoFileInfoReader|Unable to parse media info from file: /shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv
+
+[v4.0.17.2952] FFMpegCore.Exceptions.FFMpegException: ffprobe exited with non-zero exit-code (1 - [matroska,webm @ 0x25f6a380] 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+[matroska,webm @ 0x25f6a380] EBML header parsing failed
+/shows/Reacher (2022)/Season 3/Reacher - S03E03 - Number 2 with a Bullet -- 0.0 Mbps Web-DL.mkv: Invalid data found when processing input)
+   at FFMpegCore.FFProbe.GetStreamJson(String filePath, Int32 outputCapacity, FFOptions ffOptions)
+   at NzbDrone.Core.MediaFiles.MediaInfo.VideoFileInfoReader.GetMediaInfo(String filename) in ./Sonarr.Core/MediaFiles/MediaInfo/VideoFileInfoReader.cs:line 140
+
+2026-04-27 01:00:46.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:46.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:46.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:46.6|Info|ExistingExtraFileService|Found 37 possible extra files, imported 34 files.
+2026-04-27 01:00:46.6|Info|RefreshSeriesService|Updating Sherlock
+2026-04-27 01:00:46.6|Info|RefreshEpisodeService|Starting episode info refresh for: [176941][Sherlock]
+2026-04-27 01:00:46.7|Info|RefreshEpisodeService|Finished episode refresh for series: [176941][Sherlock].
+2026-04-27 01:00:46.7|Info|DiskScanService|Scanning Sherlock
+2026-04-27 01:00:46.7|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-27 01:00:46.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:46.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:46.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:46.7|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-27 01:00:46.7|Info|RefreshSeriesService|Updating Shōgun
+2026-04-27 01:00:46.8|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-27 01:00:46.8|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-27 01:00:46.8|Info|DiskScanService|Scanning Shōgun
+2026-04-27 01:00:47.9|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-27 01:00:48.1|Info|ExistingMetadataImporter|Found 5 existing metadata files
+2026-04-27 01:00:48.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:48.1|Info|ExistingOtherExtraImporter|Found 5 existing other extra files
+2026-04-27 01:00:48.1|Info|ExistingExtraFileService|Found 54 possible extra files, imported 51 files.
+2026-04-27 01:00:48.1|Info|RefreshSeriesService|Updating South Park
+2026-04-27 01:00:48.2|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+2026-04-27 01:00:48.4|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+2026-04-27 01:00:48.4|Info|DiskScanService|Scanning South Park
+2026-04-27 01:00:48.8|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 01:00:48.9|Info|ExistingMetadataImporter|Found 6 existing metadata files
+2026-04-27 01:00:48.9|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2026-04-27 01:00:49.0|Info|ExistingOtherExtraImporter|Found 14 existing other extra files
+2026-04-27 01:00:49.0|Info|ExistingExtraFileService|Found 796 possible extra files, imported 794 files.
+2026-04-27 01:00:49.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E01 - The Pandemic Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:49.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 24/South Park - S24E02 - South ParQ Vaccination Special -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:49.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 1/South Park - S01E03 - Weight Gain 4000 -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:49.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E03 - City People -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:49.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 25/South Park - S25E04 - Back to the Cold War -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:49.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E05 - DikinBaus Hot Dogs -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:49.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/South Park (1997)/Season 26/South Park - S26E06 - Spring Break -- 1080p AC3 2.0 Mbps 8 5.1 eng.nfo-orig
+2026-04-27 01:00:49.4|Info|RefreshSeriesService|Updating Star Trek
+2026-04-27 01:00:49.5|Info|RefreshEpisodeService|Starting episode info refresh for: [77526][Star Trek]
+2026-04-27 01:00:49.5|Info|RefreshEpisodeService|Finished episode refresh for series: [77526][Star Trek].
+2026-04-27 01:00:49.5|Info|DiskScanService|Scanning Star Trek
+2026-04-27 01:00:49.6|Info|DiskScanService|Completed scanning disk for Star Trek
+2026-04-27 01:00:49.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:49.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:49.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:49.7|Info|ExistingExtraFileService|Found 188 possible extra files, imported 177 files.
+2026-04-27 01:00:49.8|Info|RefreshSeriesService|Updating Twinkling Watermelon
+2026-04-27 01:00:49.9|Info|RefreshEpisodeService|Starting episode info refresh for: [428247][Twinkling Watermelon]
+2026-04-27 01:00:49.9|Info|RefreshEpisodeService|Finished episode refresh for series: [428247][Twinkling Watermelon].
+2026-04-27 01:00:49.9|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:00:49.9|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:00:49.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:49.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:49.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:49.9|Info|ExistingExtraFileService|Found 53 possible extra files, imported 52 files.
+2026-04-27 01:00:49.9|Info|RefreshSeriesService|Updating When Life Gives You Tangerines
+2026-04-27 01:00:50.0|Info|RefreshEpisodeService|Starting episode info refresh for: [428338][When Life Gives You Tangerines]
+2026-04-27 01:00:50.0|Info|RefreshEpisodeService|Finished episode refresh for series: [428338][When Life Gives You Tangerines].
+2026-04-27 01:00:50.0|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 01:00:50.0|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 01:00:50.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:00:50.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:00:50.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:00:50.0|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-27 01:00:55.1|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2026-04-27 01:11:38.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 01:11:38.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 01:11:38.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 01:11:38.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 01:15:01.5|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 01:15:02.3|Info|RefreshSeriesService|Updating Goblin
+2026-04-27 01:15:02.6|Info|RefreshEpisodeService|Starting episode info refresh for: [317220][Goblin]
+2026-04-27 01:15:02.6|Info|RefreshEpisodeService|Finished episode refresh for series: [317220][Goblin].
+2026-04-27 01:15:02.6|Info|DiskScanService|Scanning Goblin
+2026-04-27 01:15:02.7|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 01:15:02.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:02.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:02.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:02.7|Info|ExistingExtraFileService|Found 40 possible extra files, imported 38 files.
+2026-04-27 01:15:02.7|Info|RefreshSeriesService|Updating Lovely Runner
+2026-04-27 01:15:03.3|Info|RefreshEpisodeService|Starting episode info refresh for: [432989][Lovely Runner]
+2026-04-27 01:15:03.3|Info|RefreshEpisodeService|Finished episode refresh for series: [432989][Lovely Runner].
+2026-04-27 01:15:03.4|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 01:15:03.4|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 01:15:03.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:03.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:03.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:03.4|Info|ExistingExtraFileService|Found 49 possible extra files, imported 48 files.
+2026-04-27 01:15:03.4|Info|RefreshSeriesService|Updating Reacher
+2026-04-27 01:15:03.5|Info|RefreshEpisodeService|Starting episode info refresh for: [366924][Reacher]
+2026-04-27 01:15:03.5|Info|RefreshEpisodeService|Finished episode refresh for series: [366924][Reacher].
+2026-04-27 01:15:03.5|Info|DiskScanService|Scanning Reacher
+2026-04-27 01:15:03.7|Info|DiskScanService|Completed scanning disk for Reacher
+2026-04-27 01:15:03.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:03.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:03.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:03.7|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-27 01:15:03.7|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-27 01:15:03.7|Info|RefreshSeriesService|Updating Sherlock
+2026-04-27 01:15:03.8|Info|RefreshEpisodeService|Starting episode info refresh for: [176941][Sherlock]
+2026-04-27 01:15:03.8|Info|RefreshEpisodeService|Finished episode refresh for series: [176941][Sherlock].
+2026-04-27 01:15:03.8|Info|DiskScanService|Scanning Sherlock
+2026-04-27 01:15:03.8|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-27 01:15:03.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:03.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:03.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:03.8|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-27 01:15:03.9|Info|RefreshSeriesService|Updating Shōgun
+2026-04-27 01:15:04.0|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-27 01:15:04.0|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-27 01:15:04.0|Info|DiskScanService|Scanning Shōgun
+2026-04-27 01:15:04.3|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-27 01:15:04.4|Info|ExistingMetadataImporter|Found 5 existing metadata files
+2026-04-27 01:15:04.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:04.5|Info|ExistingOtherExtraImporter|Found 15 existing other extra files
+2026-04-27 01:15:04.5|Info|ExistingExtraFileService|Found 59 possible extra files, imported 56 files.
+2026-04-27 01:15:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E03 - Tomorrow Is Tomorrow -- 2160p EAC3 15.2 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 01:15:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E04 - The Eightfold Fence -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 01:15:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E06 - Ladies of the Willow World -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 01:15:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E07 - A Stick of Time -- 2160p EAC3 15.2 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 01:15:04.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E10 - A Dream of a Dream -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 01:15:04.5|Info|RefreshSeriesService|Updating South Park
+2026-04-27 01:15:04.6|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+2026-04-27 01:15:04.8|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+2026-04-27 01:15:04.8|Info|DiskScanService|Scanning South Park
+2026-04-27 01:15:08.9|Info|DiskScanService|Completed scanning disk for South Park
+2026-04-27 01:15:08.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:08.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:08.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:08.9|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-27 01:15:08.9|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-27 01:15:08.9|Info|RefreshSeriesService|Updating Star Trek
+2026-04-27 01:15:09.0|Info|RefreshEpisodeService|Starting episode info refresh for: [77526][Star Trek]
+2026-04-27 01:15:09.1|Info|RefreshEpisodeService|Finished episode refresh for series: [77526][Star Trek].
+2026-04-27 01:15:09.1|Info|DiskScanService|Scanning Star Trek
+2026-04-27 01:15:10.0|Info|DiskScanService|Completed scanning disk for Star Trek
+2026-04-27 01:15:10.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:10.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:10.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:10.0|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-27 01:15:10.0|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-27 01:15:10.0|Info|RefreshSeriesService|Updating Twinkling Watermelon
+2026-04-27 01:15:10.1|Info|RefreshEpisodeService|Starting episode info refresh for: [428247][Twinkling Watermelon]
+2026-04-27 01:15:10.1|Info|RefreshEpisodeService|Finished episode refresh for series: [428247][Twinkling Watermelon].
+2026-04-27 01:15:10.1|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:15:10.1|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:15:10.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:10.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:10.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:10.2|Info|ExistingExtraFileService|Found 53 possible extra files, imported 52 files.
+2026-04-27 01:15:10.2|Info|RefreshSeriesService|Updating When Life Gives You Tangerines
+2026-04-27 01:15:10.2|Info|RefreshEpisodeService|Starting episode info refresh for: [428338][When Life Gives You Tangerines]
+2026-04-27 01:15:10.2|Info|RefreshEpisodeService|Finished episode refresh for series: [428338][When Life Gives You Tangerines].
+2026-04-27 01:15:10.2|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 01:15:10.3|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 01:15:10.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:10.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:10.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:10.3|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-27 01:15:34.6|Info|RefreshSeriesService|Updating Goblin
+2026-04-27 01:15:34.7|Info|RefreshEpisodeService|Starting episode info refresh for: [317220][Goblin]
+2026-04-27 01:15:34.7|Info|RefreshEpisodeService|Finished episode refresh for series: [317220][Goblin].
+2026-04-27 01:15:34.7|Info|DiskScanService|Scanning Goblin
+2026-04-27 01:15:34.7|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 01:15:34.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:34.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:34.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:34.8|Info|ExistingExtraFileService|Found 40 possible extra files, imported 38 files.
+2026-04-27 01:15:34.8|Info|RefreshSeriesService|Updating Lovely Runner
+2026-04-27 01:15:34.9|Info|RefreshEpisodeService|Starting episode info refresh for: [432989][Lovely Runner]
+2026-04-27 01:15:34.9|Info|RefreshEpisodeService|Finished episode refresh for series: [432989][Lovely Runner].
+2026-04-27 01:15:34.9|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 01:15:34.9|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 01:15:34.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:34.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:34.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:34.9|Info|ExistingExtraFileService|Found 49 possible extra files, imported 48 files.
+2026-04-27 01:15:34.9|Info|RefreshSeriesService|Updating Sherlock
+2026-04-27 01:15:35.0|Info|RefreshEpisodeService|Starting episode info refresh for: [176941][Sherlock]
+2026-04-27 01:15:35.0|Info|RefreshEpisodeService|Finished episode refresh for series: [176941][Sherlock].
+2026-04-27 01:15:35.0|Info|DiskScanService|Scanning Sherlock
+2026-04-27 01:15:35.0|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-27 01:15:35.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:35.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:35.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:35.0|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-27 01:15:35.1|Info|RefreshSeriesService|Updating Shōgun
+2026-04-27 01:15:35.1|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-27 01:15:35.2|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-27 01:15:35.2|Info|DiskScanService|Scanning Shōgun
+2026-04-27 01:15:36.3|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-27 01:15:36.4|Info|ExistingMetadataImporter|Found 5 existing metadata files
+2026-04-27 01:15:36.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:36.4|Info|ExistingOtherExtraImporter|Found 10 existing other extra files
+2026-04-27 01:15:36.4|Info|ExistingExtraFileService|Found 59 possible extra files, imported 56 files.
+2026-04-27 01:15:36.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E03 - Tomorrow Is Tomorrow -- 2160p EAC3 15.2 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng-sample.nfo-orig
+2026-04-27 01:15:36.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E04 - The Eightfold Fence -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng-sample.nfo-orig
+2026-04-27 01:15:36.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E06 - Ladies of the Willow World -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng-sample.nfo-orig
+2026-04-27 01:15:36.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E07 - A Stick of Time -- 2160p EAC3 15.2 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng-sample.nfo-orig
+2026-04-27 01:15:36.5|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E10 - A Dream of a Dream -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng-sample.nfo-orig
+2026-04-27 01:15:36.5|Info|RefreshSeriesService|Updating Twinkling Watermelon
+2026-04-27 01:15:36.6|Info|RefreshEpisodeService|Starting episode info refresh for: [428247][Twinkling Watermelon]
+2026-04-27 01:15:36.6|Info|RefreshEpisodeService|Finished episode refresh for series: [428247][Twinkling Watermelon].
+2026-04-27 01:15:36.6|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 01:15:36.6|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 01:15:36.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:36.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:36.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:36.6|Info|ExistingExtraFileService|Found 53 possible extra files, imported 52 files.
+2026-04-27 01:15:36.6|Info|RefreshSeriesService|Updating When Life Gives You Tangerines
+2026-04-27 01:15:36.7|Info|RefreshEpisodeService|Starting episode info refresh for: [428338][When Life Gives You Tangerines]
+2026-04-27 01:15:36.7|Info|RefreshEpisodeService|Finished episode refresh for series: [428338][When Life Gives You Tangerines].
+2026-04-27 01:15:36.7|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 01:15:36.8|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 01:15:36.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 01:15:36.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 01:15:36.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 01:15:36.8|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-27 01:26:38.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 01:26:38.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 01:26:38.3|Info|DownloadDecisionMaker|No results found
+2026-04-27 01:26:38.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 01:41:38.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 01:41:38.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 01:41:38.5|Info|DownloadDecisionMaker|No results found
+2026-04-27 01:41:38.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 01:56:38.7|Info|RssSyncService|Starting RSS Sync
+2026-04-27 01:56:38.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 01:56:38.7|Info|DownloadDecisionMaker|No results found
+2026-04-27 01:56:38.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 02:11:39.0|Info|RssSyncService|Starting RSS Sync
+2026-04-27 02:11:39.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 02:11:39.0|Info|DownloadDecisionMaker|No results found
+2026-04-27 02:11:39.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 02:26:39.2|Info|RssSyncService|Starting RSS Sync
+2026-04-27 02:26:39.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 02:26:39.2|Info|DownloadDecisionMaker|No results found
+2026-04-27 02:26:39.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 02:26:39.2|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 02:41:39.4|Info|RssSyncService|Starting RSS Sync
+2026-04-27 02:41:39.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 02:41:39.4|Info|DownloadDecisionMaker|No results found
+2026-04-27 02:41:39.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 02:56:39.7|Info|RssSyncService|Starting RSS Sync
+2026-04-27 02:56:39.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 02:56:39.7|Info|DownloadDecisionMaker|No results found
+2026-04-27 02:56:39.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 03:11:39.9|Info|RssSyncService|Starting RSS Sync
+2026-04-27 03:11:39.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 03:11:39.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 03:11:39.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 03:26:40.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 03:26:40.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 03:26:40.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 03:26:40.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 03:41:40.4|Info|RssSyncService|Starting RSS Sync
+2026-04-27 03:41:40.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 03:41:40.4|Info|DownloadDecisionMaker|No results found
+2026-04-27 03:41:40.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 03:56:40.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 03:56:40.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 03:56:40.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 03:56:40.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 04:11:40.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 04:11:40.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 04:11:40.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 04:11:40.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 04:26:41.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 04:26:41.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 04:26:41.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 04:26:41.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 04:41:41.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 04:41:41.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 04:41:41.3|Info|DownloadDecisionMaker|No results found
+2026-04-27 04:41:41.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 04:56:41.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 04:56:41.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 04:56:41.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 04:56:41.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 05:11:41.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 05:11:41.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 05:11:41.8|Info|DownloadDecisionMaker|No results found
+2026-04-27 05:11:41.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 05:26:42.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 05:26:42.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 05:26:42.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 05:26:42.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 05:26:42.1|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 05:41:42.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 05:41:42.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 05:41:42.3|Info|DownloadDecisionMaker|No results found
+2026-04-27 05:41:42.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 05:56:42.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 05:56:42.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 05:56:42.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 05:56:42.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 06:11:42.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 06:11:42.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 06:11:42.8|Info|DownloadDecisionMaker|No results found
+2026-04-27 06:11:42.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 06:26:43.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 06:26:43.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 06:26:43.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 06:26:43.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 06:41:43.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 06:41:43.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 06:41:43.3|Info|DownloadDecisionMaker|No results found
+2026-04-27 06:41:43.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 06:56:43.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 06:56:43.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 06:56:43.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 06:56:43.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 07:11:43.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 07:11:43.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 07:11:43.8|Info|DownloadDecisionMaker|No results found
+2026-04-27 07:11:43.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 07:26:43.9|Info|RssSyncService|Starting RSS Sync
+2026-04-27 07:26:43.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 07:26:43.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 07:26:43.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 07:41:44.2|Info|RssSyncService|Starting RSS Sync
+2026-04-27 07:41:44.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 07:41:44.2|Info|DownloadDecisionMaker|No results found
+2026-04-27 07:41:44.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 07:56:44.4|Info|RssSyncService|Starting RSS Sync
+2026-04-27 07:56:44.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 07:56:44.4|Info|DownloadDecisionMaker|No results found
+2026-04-27 07:56:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 08:11:44.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 08:11:44.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 08:11:44.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 08:11:44.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 08:26:44.9|Info|RssSyncService|Starting RSS Sync
+2026-04-27 08:26:44.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 08:26:44.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 08:26:44.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 08:26:44.9|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 08:41:45.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 08:41:45.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 08:41:45.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 08:41:45.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 08:56:45.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 08:56:45.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 08:56:45.3|Info|DownloadDecisionMaker|No results found
+2026-04-27 08:56:45.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 09:11:45.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 09:11:45.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 09:11:45.5|Info|DownloadDecisionMaker|No results found
+2026-04-27 09:11:45.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 09:26:45.8|Info|RssSyncService|Starting RSS Sync
+2026-04-27 09:26:45.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 09:26:45.8|Info|DownloadDecisionMaker|No results found
+2026-04-27 09:26:45.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 09:41:46.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 09:41:46.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 09:41:46.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 09:41:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 09:56:46.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 09:56:46.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 09:56:46.3|Info|DownloadDecisionMaker|No results found
+2026-04-27 09:56:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 10:11:46.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 10:11:46.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 10:11:46.5|Info|DownloadDecisionMaker|No results found
+2026-04-27 10:11:46.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 10:26:46.7|Info|RssSyncService|Starting RSS Sync
+2026-04-27 10:26:46.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 10:26:46.7|Info|DownloadDecisionMaker|No results found
+2026-04-27 10:26:46.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 10:41:47.0|Info|RssSyncService|Starting RSS Sync
+2026-04-27 10:41:47.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 10:41:47.0|Info|DownloadDecisionMaker|No results found
+2026-04-27 10:41:47.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 10:56:47.2|Info|RssSyncService|Starting RSS Sync
+2026-04-27 10:56:47.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 10:56:47.2|Info|DownloadDecisionMaker|No results found
+2026-04-27 10:56:47.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 11:11:47.4|Info|RssSyncService|Starting RSS Sync
+2026-04-27 11:11:47.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 11:11:47.4|Info|DownloadDecisionMaker|No results found
+2026-04-27 11:11:47.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 11:26:47.7|Info|RssSyncService|Starting RSS Sync
+2026-04-27 11:26:47.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 11:26:47.7|Info|DownloadDecisionMaker|No results found
+2026-04-27 11:26:47.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 11:26:47.7|Info|SceneMappingService|Updating Scene mappings
+2026-04-27 11:41:47.9|Info|RssSyncService|Starting RSS Sync
+2026-04-27 11:41:47.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 11:41:47.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 11:41:47.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 11:56:48.2|Info|RssSyncService|Starting RSS Sync
+2026-04-27 11:56:48.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 11:56:48.2|Info|DownloadDecisionMaker|No results found
+2026-04-27 11:56:48.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 12:11:48.4|Info|RssSyncService|Starting RSS Sync
+2026-04-27 12:11:48.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 12:11:48.4|Info|DownloadDecisionMaker|No results found
+2026-04-27 12:11:48.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 12:26:48.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 12:26:48.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 12:26:48.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 12:26:48.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 12:41:48.9|Info|RssSyncService|Starting RSS Sync
+2026-04-27 12:41:48.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 12:41:48.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 12:41:48.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0

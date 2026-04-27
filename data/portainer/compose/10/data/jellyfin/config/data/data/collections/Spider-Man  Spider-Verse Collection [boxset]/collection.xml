@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG</ContentRating>
+  <Added>04/22/2026 03:24:40</Added>
+  <LockData>false</LockData>
+  <Overview>An animated trilogy of Spider-Man films helmed by writers Phil Lord and Christopher Miller. The films follow Miles Morales and Gwen Stacy as they deal with various iterations of Spider-Man throughout the vast and infinite multiverse.</Overview>
+  <LocalTitle>Spider-Man: Spider-Verse Collection</LocalTitle>
+  <PremiereDate>2018-12-06</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2018</ProductionYear>
+  <TmdbId>573436</TmdbId>
+  <Genres>
+    <Genre>Animation</Genre>
+    <Genre>Action</Genre>
+    <Genre>Adventure</Genre>
+    <Genre>Science Fiction</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Columbia Pictures</Studio>
+    <Studio>Sony Pictures Animation</Studio>
+    <Studio>Lord Miller</Studio>
+    <Studio>Pascal Pictures</Studio>
+    <Studio>Arad Productions</Studio>
+    <Studio>Marvel Entertainment</Studio>
+    <Studio />
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/movies/Spider-Man Across The Spider-Verse (2023) [2160p] [4K] [WEB] [5.1] [YTS.MX]/Spider-Man.Across.The.Spider-Verse.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Spider-Man Into The Spider-Verse (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Spider-Man.Into.The.Spider-Verse.2018.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>
