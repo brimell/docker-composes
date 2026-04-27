@@ -2804,3 +2804,8 @@ subprocess.CalledProcessError: Command '['/usr/bin/ffprobe', '-v', 'quiet', '-pr
 2026-04-27 12:22:40|INFO    |root                            |Using subdl again after 10 minutes, (disabled because: KeyError)|
 2026-04-27 12:22:40|INFO    |root                            |Throttling podnapisi for 10 minutes, until 26/04/27 12:32, because of: ConnectionError. Exception info: "'HTTPSConnectionPool(host='podnapisi.net', port=443): Max retries exceeded with ' ~ podnapisi.py@207"|
 2026-04-27 12:22:41|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-04-27 13:58:44|INFO    |root                            |Using podnapisi again after 10 minutes, (disabled because: ConnectionError)|
+2026-04-27 13:58:44|INFO    |root                            |Throttling podnapisi for 10 minutes, until 26/04/27 14:08, because of: ConnectionError. Exception info: "'HTTPSConnectionPool(host='podnapisi.net', port=443): Max retries exceeded with ' ~ podnapisi.py@207"|
+2026-04-27 13:58:46|INFO    |root                            |Using opensubtitlescom again after 6 hours, (disabled because: DownloadLimitExceeded)|
+2026-04-27 13:58:50|INFO    |root                            |Throttling opensubtitlescom for 6 hours, until 26/04/27 19:58, because of: DownloadLimitExceeded. Exception info: "'Daily download limit reached. 21 subtitles have been downloaded and -1 r' ~ opensubtitlescom.py@568"|
+2026-04-27 13:59:38|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|

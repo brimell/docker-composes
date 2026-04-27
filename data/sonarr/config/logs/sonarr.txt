@@ -6987,3 +6987,56 @@
 2026-04-27 12:41:48.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2026-04-27 12:41:48.9|Info|DownloadDecisionMaker|No results found
 2026-04-27 12:41:48.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 12:56:49.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 12:56:49.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 12:56:49.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 12:56:49.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 13:01:19.1|Info|RefreshSeriesService|Skipping refresh of series: Goblin
+2026-04-27 13:01:19.1|Info|DiskScanService|Scanning Goblin
+2026-04-27 13:01:19.1|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-27 13:01:19.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 13:01:19.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 13:01:19.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 13:01:19.2|Info|ExistingExtraFileService|Found 40 possible extra files, imported 38 files.
+2026-04-27 13:01:19.2|Info|RefreshSeriesService|Skipping refresh of series: Lovely Runner
+2026-04-27 13:01:19.2|Info|DiskScanService|Scanning Lovely Runner
+2026-04-27 13:01:19.2|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-27 13:01:19.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 13:01:19.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 13:01:19.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 13:01:19.2|Info|ExistingExtraFileService|Found 49 possible extra files, imported 48 files.
+2026-04-27 13:01:19.3|Info|RefreshSeriesService|Skipping refresh of series: Sherlock
+2026-04-27 13:01:19.3|Info|DiskScanService|Scanning Sherlock
+2026-04-27 13:01:19.3|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-27 13:01:19.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 13:01:19.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 13:01:19.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 13:01:19.3|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-27 13:01:19.4|Info|RefreshSeriesService|Updating Shōgun
+2026-04-27 13:01:20.0|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-27 13:01:20.0|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-27 13:01:20.3|Info|DiskScanService|Scanning Shōgun
+2026-04-27 13:01:20.8|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-27 13:01:21.0|Info|ExistingMetadataImporter|Found 5 existing metadata files
+2026-04-27 13:01:21.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 13:01:21.1|Info|ExistingOtherExtraImporter|Found 15 existing other extra files
+2026-04-27 13:01:21.1|Info|ExistingExtraFileService|Found 59 possible extra files, imported 56 files.
+2026-04-27 13:01:21.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E03 - Tomorrow Is Tomorrow -- 2160p EAC3 15.2 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 13:01:21.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E04 - The Eightfold Fence -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 13:01:21.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E06 - Ladies of the Willow World -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 13:01:21.1|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E07 - A Stick of Time -- 2160p EAC3 15.2 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 13:01:21.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /shows/Shōgun (2024)/Season 1/Shōgun - S01E10 - A Dream of a Dream -- 2160p EAC3 15.3 Mbps Dolby Vision, HDR10+ Web-DL 10 5.1 eng.nfo-orig
+2026-04-27 13:01:21.2|Info|RefreshSeriesService|Skipping refresh of series: Twinkling Watermelon
+2026-04-27 13:01:21.2|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-27 13:01:21.2|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-27 13:01:21.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 13:01:21.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 13:01:21.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 13:01:21.2|Info|ExistingExtraFileService|Found 53 possible extra files, imported 52 files.
+2026-04-27 13:01:21.2|Info|RefreshSeriesService|Skipping refresh of series: When Life Gives You Tangerines
+2026-04-27 13:01:21.3|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-27 13:01:21.3|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-27 13:01:21.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-27 13:01:21.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-27 13:01:21.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-27 13:01:21.3|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
