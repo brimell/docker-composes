@@ -7123,3 +7123,13 @@ disk I/O error
 2026-04-27 15:43:28.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
 2026-04-27 15:43:28.1|Debug|PendingReleaseService|Removing failed releases from pending
 2026-04-27 15:43:58.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:48:58.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:49:29.9|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (0 ms)
+2026-04-27 15:49:29.9|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (1 ms)
+2026-04-27 15:49:29.9|Debug|RootFolderService|Generating list of unmapped folders
+2026-04-27 15:49:30.0|Debug|RootFolderService|0 unmapped folders detected.
+2026-04-27 15:49:30.0|Debug|Api|[GET] /api/v3/rootfolder?apikey=(removed) 200.OK (20 ms)
+2026-04-27 15:49:30.0|Debug|Api|[GET] /api/v3/qualityprofile?apikey=(removed) 200.OK (1 ms)
+2026-04-27 15:49:30.0|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (0 ms)
+2026-04-27 15:49:30.4|Debug|Api|[GET] /api/v3/movie?apikey=(removed) 200.OK (440 ms)
+2026-04-27 15:53:58.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning

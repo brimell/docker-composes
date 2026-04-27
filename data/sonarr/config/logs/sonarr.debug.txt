@@ -4308,3 +4308,28 @@
 2026-04-27 15:41:51.1|Debug|PendingReleaseService|Removing failed releases from pending
 2026-04-27 15:42:21.2|Debug|ImportListSyncService|No import lists with automatic add enabled
 2026-04-27 15:47:21.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.4|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (1 ms)
+2026-04-27 15:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.4|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (1 ms)
+2026-04-27 15:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.4|Debug|RootFolderService|Generating list of unmapped folders
+2026-04-27 15:49:24.4|Debug|RootFolderService|1 unmapped folders detected.
+2026-04-27 15:49:24.4|Debug|Api|[GET] /api/v3/rootfolder?apikey=(removed) 200.OK (9 ms)
+2026-04-27 15:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.4|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (0 ms)
+2026-04-27 15:49:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.4|Debug|Api|[GET] /api/v3/series/?apikey=(removed) 200.OK (12 ms)
+2026-04-27 15:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.5|Debug|Api|[GET] /api/v3/episode?seriesId=1&includeEpisodeFile=true&apikey=(removed) 200.OK (5 ms)
+2026-04-27 15:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.5|Debug|Api|[GET] /api/v3/episode?seriesId=2&includeEpisodeFile=true&apikey=(removed) 200.OK (4 ms)
+2026-04-27 15:49:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.5|Debug|Api|[GET] /api/v3/episode?seriesId=4&includeEpisodeFile=true&apikey=(removed) 200.OK (3 ms)
+2026-04-27 15:49:24.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.6|Debug|Api|[GET] /api/v3/episode?seriesId=5&includeEpisodeFile=true&apikey=(removed) 200.OK (4 ms)
+2026-04-27 15:49:24.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.7|Debug|Api|[GET] /api/v3/episode?seriesId=8&includeEpisodeFile=true&apikey=(removed) 200.OK (4 ms)
+2026-04-27 15:49:24.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-27 15:49:24.7|Debug|Api|[GET] /api/v3/episode?seriesId=9&includeEpisodeFile=true&apikey=(removed) 200.OK (10 ms)
+2026-04-27 15:52:21.2|Debug|ImportListSyncService|No import lists with automatic add enabled
