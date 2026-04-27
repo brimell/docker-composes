@@ -1,0 +1,12 @@
+services:
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    ports:
+      - "7878:7878"
+    volumes:
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/radarr/config:/config
+      - ${MEDIA_MOVIES_PATH:-/Volumes/Stuff/media/movies}:/movies

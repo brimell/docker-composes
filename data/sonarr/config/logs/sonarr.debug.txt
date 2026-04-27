@@ -4300,3 +4300,10 @@
 2026-04-27 15:26:51.0|Debug|PendingReleaseService|Removing failed releases from pending
 2026-04-27 15:27:21.0|Debug|ImportListSyncService|No import lists with automatic add enabled
 2026-04-27 15:32:21.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:37:21.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-27 15:41:51.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:41:51.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:41:51.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:41:51.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:41:51.1|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 15:42:21.2|Debug|ImportListSyncService|No import lists with automatic add enabled
