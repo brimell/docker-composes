@@ -1,5 +1,0 @@
-.env
-*/cache/*
-*/logs/*
-*/tmp/*
-.DS_Store

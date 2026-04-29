@@ -2,4 +2,12 @@
 */cache/*
 */logs/*
 */tmp/*
-.DS_Store
+.DS_Storedata/
+*.db
+*.sqlite
+*.sqlite3
+*.key
+*.pem
+.env
+portainer-backup_*.tar.gz
+data/*
