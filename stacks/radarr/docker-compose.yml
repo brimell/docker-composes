@@ -8,5 +8,5 @@ services:
     ports:
       - "7878:7878"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/radarr/config:/config
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/radarr/config:/config
       - ${MEDIA_MOVIES_PATH:-/Volumes/Stuff/media/movies}:/movies

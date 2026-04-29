@@ -14,4 +14,4 @@ services:
     ports:
       - "3100:7745"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/homebox:/data
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/homebox:/data

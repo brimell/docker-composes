@@ -8,6 +8,6 @@ services:
     ports:
       - "13378:80"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/audiobookshelf/config:/config
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/audiobookshelf/metadata:/metadata
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/audiobookshelf/config:/config
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/audiobookshelf/metadata:/metadata
       - ${MEDIA_AUDIOBOOKS_PATH:-/Volumes/Stuff/media/audiobooks}:/audiobooks

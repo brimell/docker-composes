@@ -12,6 +12,6 @@ services:
     ports:
       - "6767:6767"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/bazarr/config:/config
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/bazarr/config:/config
       - ${MEDIA_MOVIES_PATH:-/Volumes/Stuff/media/movies}:/movies
       - ${MEDIA_SHOWS_PATH:-/Volumes/Stuff/media/shows}:/shows

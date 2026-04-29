@@ -6,5 +6,5 @@ services:
     ports:
       - "9090:8080"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/fastenhealth/db:/opt/fasten/db
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/fastenhealth/certs:/opt/fasten/certs/shared
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/fastenhealth/db:/opt/fasten/db
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/fastenhealth/certs:/opt/fasten/certs/shared

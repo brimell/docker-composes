@@ -10,8 +10,8 @@ services:
       - "443:443"
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/actualbudget/caddy/data:/data
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/actualbudget/caddy/config:/config
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/actualbudget/caddy/data:/data
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/actualbudget/caddy/config:/config
     depends_on:
       - actual-server
 
@@ -22,4 +22,4 @@ services:
     security_opt:
       - no-new-privileges:true
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/actualbudget/actual-data:/data
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/actualbudget/actual-data:/data

@@ -8,4 +8,4 @@ services:
     ports:
       - "3001:3001"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/uptime-kuma:/app/data
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/uptime-kuma:/app/data

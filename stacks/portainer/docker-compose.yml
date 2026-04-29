@@ -11,4 +11,4 @@ services:
       - "8000:8000"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/portainer:/data
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/portainer:/data

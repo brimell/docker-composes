@@ -8,5 +8,5 @@ services:
     ports:
       - "8989:8989"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/sonarr/config:/config
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/sonarr/config:/config
       - ${MEDIA_SHOWS_PATH:-/Volumes/Stuff/media/shows}:/shows

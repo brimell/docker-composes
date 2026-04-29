@@ -11,4 +11,4 @@ services:
       - "8222:80"
       - "3012:3012"
     volumes:
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/vaultwarden:/data
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/vaultwarden:/data

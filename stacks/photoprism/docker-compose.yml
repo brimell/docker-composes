@@ -21,4 +21,4 @@ services:
       - "2342:2342"
     volumes:
       - ${MEDIA_PHOTOS_PATH:-/Volumes/Stuff/media/photos}:/photoprism/originals:ro
-      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/photoprism/storage:/photoprism/storage
+      - ${CONFIG_ROOT:-/Users/bill/selfhosted-data}/photoprism/storage:/photoprism/storage
