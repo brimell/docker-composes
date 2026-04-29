@@ -1,0 +1,16 @@
+{
+  "category": "MoviesAndShows",
+  "changelog": "- Jellyfin 10.11 support (#101) @crobibero\n- Update wiki link (#105) @thornbill\n- fix: require admin privileges to refresh metadata (#95) @Theta-Dev\n- Add analyzers and fix issues (#86) @Shadowghost\n\n### Bug Fixes ###\n- Fix for collections with \u003C entries than requested (#74) @tommargar",
+  "description": "Automatically create movie box sets based on TMDb collections",
+  "guid": "bc4aad2e-d3d0-4725-a5e2-fd07949e5b42",
+  "name": "TMDb Box Sets",
+  "overview": "Automatically create movie box sets based on TMDb collections",
+  "owner": "jellyfin",
+  "targetAbi": "10.11.0.0",
+  "timestamp": "2025-10-20T01:27:54.0000000Z",
+  "version": "12.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "",
+  "assemblies": []
+}

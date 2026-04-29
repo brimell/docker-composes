@@ -20,15 +20,4 @@
     <Studio>DreamWorks Animation</Studio>
     <Studio />
   </Studios>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/How To Train Your Dragon (2010) [1080p]/How.To.Train.Your.Dragon.2010.1080p.BrRip.x264.YIFY.mp4</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/How to Train Your Dragon 2 (2014) [1080p]/How.to.Train.Your.Dragon.2.2014.1080p.BluRay.x264.YIFY.mp4</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/How To Train Your Dragon The Hidden World (2019) [BluRay] [1080p] [YTS.AM]/How.To.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264-[YTS.AM].mp4</Path>
-    </CollectionItem>
-  </CollectionItems>
 </Item>

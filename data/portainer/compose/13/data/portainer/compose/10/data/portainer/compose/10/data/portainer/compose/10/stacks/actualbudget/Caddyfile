@@ -1,0 +1,6 @@
+# Replace example.com with your real domain.
+# Caddy will automatically provision TLS certificates for public domains.
+
+example.com {
+  reverse_proxy actual-server:5006
+}

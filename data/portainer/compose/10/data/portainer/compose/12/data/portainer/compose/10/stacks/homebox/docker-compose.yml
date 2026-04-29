@@ -1,0 +1,17 @@
+services:
+  homebox:
+    image: ghcr.io/sysadminsmedia/homebox:latest
+    container_name: homebox
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    environment:
+      - HBOX_LOG_LEVEL=info
+      - HBOX_LOG_FORMAT=text
+      - HBOX_WEB_MAX_UPLOAD_SIZE=10
+      # Please consider allowing analytics to help us improve Homebox (basic computer information, no personal data)
+      - HBOX_OPTIONS_ALLOW_ANALYTICS=false
+    ports:
+      - "3100:7745"
+    volumes:
+      - ${CONFIG_ROOT:-/Users/bill/Documents/GitHub/docker-composes/data}/homebox:/data

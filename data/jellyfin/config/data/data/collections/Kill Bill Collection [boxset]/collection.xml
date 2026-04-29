@@ -20,12 +20,4 @@
     <Studio>Super Cool ManChu</Studio>
     <Studio />
   </Studios>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/Kill Bill Vol 1 (2003) [1080p]/Kill.Bill.Vol.1.2003.1080p.BrRIp.x264.YIFY.mp4</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/Kill Bill Vol 2 (2004) [1080p]/Kill.Bill.Vol.2.2004.1080p.BrRIp.x264.YIFY.mp4</Path>
-    </CollectionItem>
-  </CollectionItems>
 </Item>

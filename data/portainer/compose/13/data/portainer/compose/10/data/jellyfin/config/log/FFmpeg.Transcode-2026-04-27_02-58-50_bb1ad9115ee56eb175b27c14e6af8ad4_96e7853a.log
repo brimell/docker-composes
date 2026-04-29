@@ -1,0 +1,19 @@
+{"Protocol":0,"Id":"bb1ad9115ee56eb175b27c14e6af8ad4","Path":"/shows/reacher season 3/www.Torrenting.com - Reacher S03E01 Persuader 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-APEX/Reacher S03E01 Persuader 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-APEX.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":5394251776,"Name":"Reacher S03E01 Persuader 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-APEX","IsRemote":false,"ETag":"8ba4bd0d4f26b4161994fd6ddf0c8210","RunTimeTicks":null,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[],"MediaAttachments":[],"Formats":[],"Bitrate":null,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G  -i file:"/shows/reacher season 3/www.Torrenting.com - Reacher S03E01 Persuader 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-APEX/Reacher S03E01 Persuader 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-APEX.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -sn   -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type fmp4 -hls_fmp4_init_filename "baec6a98b7c122ee866e5e96f47ae866-1.mp4" -start_number 0 -hls_base_url "hls/baec6a98b7c122ee866e5e96f47ae866/" -hls_segment_filename "/config/cache/transcodes/baec6a98b7c122ee866e5e96f47ae866%d.mp4" -hls_playlist_type event -hls_list_size 0 -y "/config/cache/transcodes/baec6a98b7c122ee866e5e96f47ae866.m3u8"
+
+
+ffmpeg version 7.1.3-Jellyfin Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.3.0-6ubuntu2~24.04.1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=arm64 --cross-prefix=/usr/bin/aarch64-linux-gnu- --toolchain=hardened --enable-cross-compile --enable-rkmpp --enable-rkrga --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[in#0 @ 0xaaaaeae80250] Error opening input: No such file or directory
+Error opening input file file:/shows/reacher season 3/www.Torrenting.com - Reacher S03E01 Persuader 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-APEX/Reacher S03E01 Persuader 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-APEX.mkv.
+Error opening input files: No such file or directory

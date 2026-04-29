@@ -23,15 +23,4 @@
     <Studio>Filmhaus Films</Studio>
     <Studio>Warner Independent Pictures</Studio>
   </Studios>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/Before Midnight (2013) [1080p]/Before.Midnight.2013.1080p.BluRay.x264.YIFY.mp4</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/Before.Sunrise.1995.1080p.WEB-DL.H264-fiend [PublicHD]/Before.Sunrise.1995.1080p.WEB-DL.AAC2.0.h.264-fiend.mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/Before.Sunset.2004.1080p.BluRay.x264-DEPTH[rarbg]/Before.Sunset.2004.1080p.BluRay.x264-DEPTH.mkv</Path>
-    </CollectionItem>
-  </CollectionItems>
 </Item>

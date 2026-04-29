@@ -1,0 +1,703 @@
+[2026-04-25 01:53:32.610 +01:00] [INF] [37] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "::ffff:192.168.65.1" request
+[2026-04-25 01:57:20.617 +01:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2026-04-25 02:01:56.617 +01:00] [INF] [67] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2026-04-25 02:05:44.616 +01:00] [INF] [10] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2026-04-25 02:09:32.615 +01:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2026-04-25 02:10:59.310 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Passion Is Born" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.312 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Eun-gyeol Quits Music" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.316 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Seoul 1995" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.324 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Se-gyeong Leaves the Country" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.325 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Se-gyeong Returns" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.329 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Where Are You Eun-gyeol?" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.329 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "I Found Ha Eun-gyeol" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.333 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Friendship or Love?" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.335 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Let Yourself Twinkle" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.337 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Dangerous Rehearsal" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.339 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "The Day of Decision" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.341 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "The Final Festival" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.345 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "The Hints" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.454 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "The Pandemic Special" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.455 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "South ParQ Vaccination Special" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.470 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Drawing Closer" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.479 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Joker" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.483 +01:00] [INF] [58] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "Mary Poppins" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2026-04-25 02:10:59.499 +01:00] [INF] [58] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2026-04-25 02:11:00.235 +01:00] [INF] [58] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2026-04-26 02:00:00.000 +01:00, which is 23:48:59.7645218 from now.
+[2026-04-25 02:13:20.617 +01:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2026-04-25 02:17:56.616 +01:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2026-04-25 02:21:44.617 +01:00] [INF] [7] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2026-04-25 02:24:24.570 +01:00] [WRN] [9] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.65.1" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2026-04-25 02:24:24.582 +01:00] [INF] [9] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "::ffff:192.168.65.1" closed
+[2026-04-25 02:56:44.941 +01:00] [INF] [96] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2026-04-25 02:56:49.117 +01:00] [INF] [96] Jellyfin.Database.Providers.Sqlite.SqliteDatabaseProvider: jellyfin.db optimized successfully!
+[2026-04-25 02:56:49.117 +01:00] [INF] [96] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 4 seconds
+[2026-04-25 02:57:30.265 +01:00] [INF] [94] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 02:57:30.265 +01:00] [INF] [94] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 02:57:30.266 +01:00] [INF] [94] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 03:21:46.189 +01:00] [INF] [128] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2026-04-25 03:21:46.757 +01:00] [INF] [128] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2026-04-26 03:00:00.000 +01:00, which is 23:38:13.2425927 from now.
+[2026-04-25 03:30:34.600 +01:00] [INF] [15] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 09:01:08.608 +01:00] [INF] [173] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 12:23:31.551 +01:00] [INF] [157] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 12:23:31.552 +01:00] [INF] [157] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 12:23:31.553 +01:00] [INF] [157] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:08:38.514 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:20:31.080 +01:00] [INF] [141] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:21:12.024 +01:00] [INF] [137] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:21:12.024 +01:00] [INF] [137] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:21:12.025 +01:00] [INF] [137] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:21:32.085 +01:00] [INF] [137] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:22:33.024 +01:00] [INF] [131] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:23:12.016 +01:00] [INF] [59] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:23:12.017 +01:00] [INF] [59] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:23:12.017 +01:00] [INF] [59] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:23:34.017 +01:00] [INF] [59] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:24:35.033 +01:00] [INF] [99] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:25:12.017 +01:00] [INF] [99] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:25:12.018 +01:00] [INF] [99] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:25:12.018 +01:00] [INF] [99] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:25:36.028 +01:00] [INF] [99] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:26:37.055 +01:00] [INF] [103] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:27:12.013 +01:00] [INF] [104] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:27:12.014 +01:00] [INF] [104] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:27:12.014 +01:00] [INF] [104] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:27:38.012 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:28:39.062 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:29:12.022 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:29:12.022 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:29:12.023 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:29:40.008 +01:00] [INF] [110] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:30:41.018 +01:00] [INF] [114] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:31:12.008 +01:00] [INF] [114] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:31:12.008 +01:00] [INF] [114] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:31:12.008 +01:00] [INF] [114] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:31:42.024 +01:00] [INF] [114] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:32:43.023 +01:00] [INF] [90] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:33:12.017 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:33:12.018 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:33:12.018 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:33:44.018 +01:00] [INF] [87] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:34:45.028 +01:00] [INF] [84] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:35:12.068 +01:00] [INF] [84] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:35:12.068 +01:00] [INF] [84] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:35:12.069 +01:00] [INF] [84] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:35:46.025 +01:00] [INF] [79] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:36:47.014 +01:00] [INF] [21] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:37:12.022 +01:00] [INF] [37] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:37:12.023 +01:00] [INF] [37] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:37:12.023 +01:00] [INF] [37] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:37:48.015 +01:00] [INF] [54] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:38:49.028 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:39:12.091 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:39:12.091 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:39:12.091 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:39:50.013 +01:00] [INF] [65] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:40:51.017 +01:00] [INF] [35] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:41:12.021 +01:00] [INF] [30] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:41:12.021 +01:00] [INF] [30] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:41:12.021 +01:00] [INF] [30] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:41:52.021 +01:00] [INF] [17] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:42:53.022 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:43:12.025 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:43:12.025 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:43:12.025 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:43:54.017 +01:00] [INF] [61] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:44:55.036 +01:00] [INF] [31] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:45:12.118 +01:00] [INF] [31] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:45:12.121 +01:00] [INF] [31] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:45:12.121 +01:00] [INF] [31] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:45:56.045 +01:00] [INF] [43] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:46:57.030 +01:00] [INF] [56] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:47:12.121 +01:00] [INF] [117] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:47:12.122 +01:00] [INF] [117] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:47:12.124 +01:00] [INF] [117] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:47:58.022 +01:00] [INF] [118] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:48:59.027 +01:00] [INF] [123] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:49:12.028 +01:00] [INF] [96] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:49:12.028 +01:00] [INF] [96] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:49:12.028 +01:00] [INF] [96] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:50:00.018 +01:00] [INF] [95] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:51:01.023 +01:00] [INF] [151] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:51:12.050 +01:00] [INF] [153] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:51:12.051 +01:00] [INF] [153] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:51:12.052 +01:00] [INF] [153] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:52:02.149 +01:00] [INF] [154] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:53:03.026 +01:00] [INF] [160] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:53:12.063 +01:00] [INF] [160] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:53:12.063 +01:00] [INF] [160] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:53:12.063 +01:00] [INF] [160] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:54:04.017 +01:00] [INF] [162] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:55:05.030 +01:00] [INF] [168] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:55:12.073 +01:00] [INF] [55] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:55:12.073 +01:00] [INF] [55] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:55:12.074 +01:00] [INF] [55] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:56:06.037 +01:00] [INF] [40] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:57:07.057 +01:00] [INF] [165] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:57:12.017 +01:00] [INF] [164] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:57:12.017 +01:00] [INF] [164] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:57:12.017 +01:00] [INF] [164] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 14:58:08.102 +01:00] [INF] [163] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:59:09.071 +01:00] [INF] [159] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:59:12.024 +01:00] [INF] [159] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:59:12.024 +01:00] [INF] [159] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 14:59:12.025 +01:00] [INF] [159] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:00:10.026 +01:00] [INF] [155] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:01:11.024 +01:00] [INF] [153] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:01:12.052 +01:00] [INF] [151] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:01:12.052 +01:00] [INF] [151] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:01:12.053 +01:00] [INF] [151] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:02:12.033 +01:00] [INF] [149] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:03:12.134 +01:00] [INF] [95] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:03:12.134 +01:00] [INF] [95] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:03:12.135 +01:00] [INF] [95] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:03:13.028 +01:00] [INF] [93] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:04:14.029 +01:00] [INF] [123] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:05:12.042 +01:00] [INF] [120] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:05:12.043 +01:00] [INF] [120] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:05:12.044 +01:00] [INF] [120] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:05:15.030 +01:00] [INF] [120] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:06:16.040 +01:00] [INF] [117] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:07:12.030 +01:00] [INF] [32] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:07:12.031 +01:00] [INF] [32] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:07:12.032 +01:00] [INF] [32] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:07:17.071 +01:00] [INF] [32] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:08:18.030 +01:00] [INF] [44] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:09:12.021 +01:00] [INF] [39] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:09:12.021 +01:00] [INF] [39] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:09:12.021 +01:00] [INF] [39] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:09:19.036 +01:00] [INF] [39] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:10:20.032 +01:00] [INF] [63] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:11:12.034 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:11:12.034 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:11:12.038 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:11:21.030 +01:00] [INF] [14] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:12:22.112 +01:00] [INF] [18] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:13:12.035 +01:00] [INF] [30] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:13:12.035 +01:00] [INF] [30] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:13:12.038 +01:00] [INF] [30] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:13:23.034 +01:00] [INF] [71] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:14:24.036 +01:00] [INF] [65] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:15:12.057 +01:00] [INF] [70] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:15:12.058 +01:00] [INF] [70] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:15:12.059 +01:00] [INF] [70] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:15:25.028 +01:00] [INF] [70] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:16:26.035 +01:00] [INF] [49] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:17:12.034 +01:00] [INF] [72] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:17:12.034 +01:00] [INF] [72] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:17:12.034 +01:00] [INF] [72] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:17:27.035 +01:00] [INF] [72] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:18:28.032 +01:00] [INF] [76] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:19:12.037 +01:00] [INF] [81] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:19:12.038 +01:00] [INF] [81] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:19:12.038 +01:00] [INF] [81] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:19:29.033 +01:00] [INF] [82] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:20:30.026 +01:00] [INF] [85] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:21:12.038 +01:00] [INF] [88] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:21:12.039 +01:00] [INF] [88] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:21:12.039 +01:00] [INF] [88] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:21:31.033 +01:00] [INF] [88] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:22:32.119 +01:00] [INF] [115] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:23:12.036 +01:00] [INF] [111] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:23:12.037 +01:00] [INF] [111] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:23:12.037 +01:00] [INF] [111] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:23:33.041 +01:00] [INF] [111] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:24:34.035 +01:00] [INF] [104] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:25:12.041 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:25:12.042 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:25:12.042 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:25:35.040 +01:00] [INF] [100] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:26:36.028 +01:00] [INF] [97] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:27:12.034 +01:00] [INF] [97] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:27:12.035 +01:00] [INF] [97] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:27:12.035 +01:00] [INF] [97] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:27:37.034 +01:00] [INF] [57] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:28:38.087 +01:00] [INF] [132] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:29:12.042 +01:00] [INF] [132] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:29:12.043 +01:00] [INF] [132] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:29:12.043 +01:00] [INF] [132] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:29:39.037 +01:00] [INF] [131] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:30:40.042 +01:00] [INF] [135] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:31:12.045 +01:00] [INF] [135] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:31:12.045 +01:00] [INF] [135] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:31:12.045 +01:00] [INF] [135] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:31:41.039 +01:00] [INF] [135] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:32:42.057 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:33:12.038 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:33:12.038 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:33:12.039 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:33:43.047 +01:00] [INF] [143] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:34:44.044 +01:00] [INF] [139] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:35:12.045 +01:00] [INF] [136] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:35:12.046 +01:00] [INF] [136] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:35:12.046 +01:00] [INF] [136] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:35:45.044 +01:00] [INF] [131] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:36:46.059 +01:00] [INF] [59] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:36:58.879 +01:00] [INF] [60] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media_local/movies"
+[2026-04-25 15:36:58.885 +01:00] [INF] [60] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media_local/shows"
+[2026-04-25 15:36:58.885 +01:00] [INF] [60] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/movies"
+[2026-04-25 15:36:58.891 +01:00] [INF] [60] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/audiobooks"
+[2026-04-25 15:36:58.900 +01:00] [INF] [60] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/shows"
+[2026-04-25 15:36:58.907 +01:00] [INF] [60] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2026-04-25 15:36:58.983 +01:00] [ERR] [60] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileSystemInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntries(String path, Boolean recursive)
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-25 15:36:59.013 +01:00] [ERR] [60] Emby.Server.Implementations.Library.LibraryManager: Error in "PlaylistResolver" resolving "/audiobooks"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.Library.Resolvers.PlaylistResolver.Resolve(ItemResolveArgs args)
+   at MediaBrowser.Controller.Resolvers.ItemResolver`1.ResolvePath(ItemResolveArgs args)
+   at Emby.Server.Implementations.Library.LibraryManager.Resolve(ItemResolveArgs args, IItemResolver resolver)
+[2026-04-25 15:36:59.022 +01:00] [ERR] [60] Emby.Server.Implementations.IO.ManagedFileSystem: Failed to enumerate path "/audiobooks"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntryPaths(String path, Boolean recursive)
+[2026-04-25 15:36:59.022 +01:00] [WRN] [60] MediaBrowser.Controller.Entities.BaseItem: Library folder "/audiobooks" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.025 +01:00] [ERR] [60] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileSystemInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntries(String path, Boolean recursive)
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-25 15:36:59.025 +01:00] [ERR] [60] Emby.Server.Implementations.Library.LibraryManager: Error in "PlaylistResolver" resolving "/shows"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.Library.Resolvers.PlaylistResolver.Resolve(ItemResolveArgs args)
+   at MediaBrowser.Controller.Resolvers.ItemResolver`1.ResolvePath(ItemResolveArgs args)
+   at Emby.Server.Implementations.Library.LibraryManager.Resolve(ItemResolveArgs args, IItemResolver resolver)
+[2026-04-25 15:36:59.026 +01:00] [ERR] [60] Emby.Server.Implementations.IO.ManagedFileSystem: Failed to enumerate path "/shows"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntryPaths(String path, Boolean recursive)
+[2026-04-25 15:36:59.026 +01:00] [WRN] [60] MediaBrowser.Controller.Entities.BaseItem: Library folder "/shows" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.036 +01:00] [ERR] [60] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileSystemInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntries(String path, Boolean recursive)
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-25 15:36:59.036 +01:00] [ERR] [60] Emby.Server.Implementations.Library.LibraryManager: Error in "PlaylistResolver" resolving "/movies"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.Library.Resolvers.PlaylistResolver.Resolve(ItemResolveArgs args)
+   at MediaBrowser.Controller.Resolvers.ItemResolver`1.ResolvePath(ItemResolveArgs args)
+   at Emby.Server.Implementations.Library.LibraryManager.Resolve(ItemResolveArgs args, IItemResolver resolver)
+[2026-04-25 15:36:59.036 +01:00] [ERR] [60] Emby.Server.Implementations.IO.ManagedFileSystem: Failed to enumerate path "/movies"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntryPaths(String path, Boolean recursive)
+[2026-04-25 15:36:59.036 +01:00] [WRN] [60] MediaBrowser.Controller.Entities.BaseItem: Library folder "/movies" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.039 +01:00] [WRN] [60] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.079 +01:00] [ERR] [100] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Movies (external)"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.EnumerateFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFiles(String path, String searchPattern, IReadOnlyList`1 extensions, Boolean enableCaseSensitiveExtensions, Boolean recursive)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.<GetImages>b__15_0(String i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-25 15:36:59.079 +01:00] [ERR] [58] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Shows (external)"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.EnumerateFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFiles(String path, String searchPattern, IReadOnlyList`1 extensions, Boolean enableCaseSensitiveExtensions, Boolean recursive)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.<GetImages>b__15_0(String i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-25 15:36:59.079 +01:00] [ERR] [102] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Books (external)"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.EnumerateFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFiles(String path, String searchPattern, IReadOnlyList`1 extensions, Boolean enableCaseSensitiveExtensions, Boolean recursive)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.<GetImages>b__15_0(String i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-25 15:36:59.085 +01:00] [ERR] [100] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Books (external)"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.EnumerateFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFiles(String path, String searchPattern, IReadOnlyList`1 extensions, Boolean enableCaseSensitiveExtensions, Boolean recursive)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.<GetImages>b__15_0(String i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-25 15:36:59.087 +01:00] [ERR] [100] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Movies (external)"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.EnumerateFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFiles(String path, String searchPattern, IReadOnlyList`1 extensions, Boolean enableCaseSensitiveExtensions, Boolean recursive)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.<GetImages>b__15_0(String i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-25 15:36:59.089 +01:00] [ERR] [100] MediaBrowser.Providers.Folders.CollectionFolderMetadataService: Error validating images for "/config/data/root/default/Shows (external)"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.EnumerateFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFiles(String path, String searchPattern, IReadOnlyList`1 extensions, Boolean enableCaseSensitiveExtensions, Boolean recursive)
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.<GetImages>b__15_0(String i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToArray()
+   at System.Linq.Enumerable.OrderedIterator`1.ToList()
+   at MediaBrowser.LocalMetadata.Images.LocalImageProvider.GetImages(BaseItem item, IEnumerable`1 paths, IDirectoryService directoryService)
+   at MediaBrowser.LocalMetadata.Images.CollectionFolderLocalImageProvider.GetImages(BaseItem item, IDirectoryService directoryService)
+   at MediaBrowser.Providers.Manager.ItemImageProvider.<>c__DisplayClass7_0.<ValidateImages>b__0(ILocalImageProvider i)
+   at System.Linq.Enumerable.SelectManySingleSelectorIterator`2.ToList()
+   at MediaBrowser.Providers.Manager.ItemImageProvider.ValidateImages(BaseItem item, IEnumerable`1 providers, ImageRefreshOptions refreshOptions)
+   at MediaBrowser.Providers.Manager.MetadataService`2.RefreshMetadata(BaseItem item, MetadataRefreshOptions refreshOptions, CancellationToken cancellationToken)
+[2026-04-25 15:36:59.097 +01:00] [ERR] [100] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileSystemInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntries(String path, Boolean recursive)
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-25 15:36:59.097 +01:00] [ERR] [100] Emby.Server.Implementations.Library.LibraryManager: Error in "PlaylistResolver" resolving "/audiobooks"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.Library.Resolvers.PlaylistResolver.Resolve(ItemResolveArgs args)
+   at MediaBrowser.Controller.Resolvers.ItemResolver`1.ResolvePath(ItemResolveArgs args)
+   at Emby.Server.Implementations.Library.LibraryManager.Resolve(ItemResolveArgs args, IItemResolver resolver)
+[2026-04-25 15:36:59.098 +01:00] [ERR] [100] Emby.Server.Implementations.IO.ManagedFileSystem: Failed to enumerate path "/audiobooks"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/audiobooks'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntryPaths(String path, Boolean recursive)
+[2026-04-25 15:36:59.098 +01:00] [WRN] [100] MediaBrowser.Controller.Entities.BaseItem: Library folder "/audiobooks" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.098 +01:00] [ERR] [100] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileSystemInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntries(String path, Boolean recursive)
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-25 15:36:59.099 +01:00] [ERR] [100] Emby.Server.Implementations.Library.LibraryManager: Error in "PlaylistResolver" resolving "/shows"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.Library.Resolvers.PlaylistResolver.Resolve(ItemResolveArgs args)
+   at MediaBrowser.Controller.Resolvers.ItemResolver`1.ResolvePath(ItemResolveArgs args)
+   at Emby.Server.Implementations.Library.LibraryManager.Resolve(ItemResolveArgs args, IItemResolver resolver)
+[2026-04-25 15:36:59.099 +01:00] [ERR] [100] Emby.Server.Implementations.IO.ManagedFileSystem: Failed to enumerate path "/shows"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/shows'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntryPaths(String path, Boolean recursive)
+[2026-04-25 15:36:59.099 +01:00] [WRN] [100] MediaBrowser.Controller.Entities.BaseItem: Library folder "/shows" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.103 +01:00] [ERR] [100] Emby.Server.Implementations.Library.LibraryManager: Error in GetFilteredFileSystemEntries isPhysicalRoot: False IsVf: False
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileSystemInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntries(String path, Boolean recursive)
+   at MediaBrowser.Controller.Providers.DirectoryService.<>c.<GetFileSystemEntries>b__5_0(String p, IFileSystem fileSystem)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+   at MediaBrowser.Controller.IO.FileData.GetFilteredFileSystemEntries(IDirectoryService directoryService, String path, IFileSystem fileSystem, IServerApplicationHost appHost, ILogger logger, ItemResolveArgs args, Int32 flattenFolderDepth, Boolean resolveShortcuts)
+   at Emby.Server.Implementations.Library.LibraryManager.ResolvePath(FileSystemMetadata fileInfo, IDirectoryService directoryService, IItemResolver[] resolvers, Folder parent, Nullable`1 collectionType, LibraryOptions libraryOptions)
+[2026-04-25 15:36:59.103 +01:00] [ERR] [100] Emby.Server.Implementations.Library.LibraryManager: Error in "PlaylistResolver" resolving "/movies"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFiles(String path, String searchPattern, EnumerationOptions enumerationOptions)
+   at Emby.Server.Implementations.Library.Resolvers.PlaylistResolver.Resolve(ItemResolveArgs args)
+   at MediaBrowser.Controller.Resolvers.ItemResolver`1.ResolvePath(ItemResolveArgs args)
+   at Emby.Server.Implementations.Library.LibraryManager.Resolve(ItemResolveArgs args, IItemResolver resolver)
+[2026-04-25 15:36:59.104 +01:00] [ERR] [100] Emby.Server.Implementations.IO.ManagedFileSystem: Failed to enumerate path "/movies"
+System.IO.DirectoryNotFoundException: Could not find a part of the path '/movies'.
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserEntries(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntryPaths(String path, Boolean recursive)
+[2026-04-25 15:36:59.104 +01:00] [WRN] [100] MediaBrowser.Controller.Entities.BaseItem: Library folder "/movies" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.106 +01:00] [WRN] [100] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2026-04-25 15:36:59.112 +01:00] [INF] [101] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Series", Name: "Sherlock", Path: "/media_local/shows/Sherlock.Season.1-4.S01-S04.1080p.10bit.BluRay.5.1.x265.HEVC-MZABI", Id: 6b7e73f9-5e73-2173-a84e-3fa8aa579f65
+[2026-04-25 15:36:59.380 +01:00] [INF] [101] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Series", Name: "When Life Gives You Tangerines", Path: "/media_local/shows/When life gives you tangerines", Id: 79803f15-3c50-942a-eb3e-f1f5df369595
+[2026-04-25 15:36:59.755 +01:00] [WRN] [58] Microsoft.EntityFrameworkCore.Query: Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2026-04-25 15:37:02.904 +01:00] [INF] [58] Emby.Server.Implementations.Library.Validators.StudiosValidator: Deleting dead "Studio" "ac9ba50c7fa028bcc73924876e4fe780" "Artisan Entertainment"
+[2026-04-25 15:37:02.904 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Studio", Name: "Artisan Entertainment", Path: "/config/data/metadata/Studio/Artisan Entertainment", Id: ac9ba50c-7fa0-28bc-c739-24876e4fe780
+[2026-04-25 15:37:02.905 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Deleting item path, Type: "Studio", Name: "Artisan Entertainment", Path: "/config/data/metadata/Studio/Artisan Entertainment", Id: ac9ba50c-7fa0-28bc-c739-24876e4fe780
+[2026-04-25 15:37:02.957 +01:00] [INF] [58] Emby.Server.Implementations.Library.Validators.StudiosValidator: Deleting dead "Studio" "7e8dc3af2acff873554511e0d82cace6" "Bandeira Entertainment"
+[2026-04-25 15:37:02.957 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Studio", Name: "Bandeira Entertainment", Path: "/config/data/metadata/Studio/Bandeira Entertainment", Id: 7e8dc3af-2acf-f873-5545-11e0d82cace6
+[2026-04-25 15:37:02.957 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Deleting item path, Type: "Studio", Name: "Bandeira Entertainment", Path: "/config/data/metadata/Studio/Bandeira Entertainment", Id: 7e8dc3af-2acf-f873-5545-11e0d82cace6
+[2026-04-25 15:37:02.979 +01:00] [INF] [58] Emby.Server.Implementations.Library.Validators.StudiosValidator: Deleting dead "Studio" "12866fd30af0d5dba7a35a18d1477510" "BBC One"
+[2026-04-25 15:37:02.980 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Studio", Name: "BBC One", Path: "/config/data/metadata/Studio/BBC One", Id: 12866fd3-0af0-d5db-a7a3-5a18d1477510
+[2026-04-25 15:37:02.980 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Deleting item path, Type: "Studio", Name: "BBC One", Path: "/config/data/metadata/Studio/BBC One", Id: 12866fd3-0af0-d5db-a7a3-5a18d1477510
+[2026-04-25 15:37:03.000 +01:00] [INF] [58] Emby.Server.Implementations.Library.Validators.StudiosValidator: Deleting dead "Studio" "34667e8b25fce9ca515c1f8ab1e8f3e6" "Industry Entertainment Partners"
+[2026-04-25 15:37:03.000 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Studio", Name: "Industry Entertainment Partners", Path: "/config/data/metadata/Studio/Industry Entertainment Partners", Id: 34667e8b-25fc-e9ca-515c-1f8ab1e8f3e6
+[2026-04-25 15:37:03.001 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Deleting item path, Type: "Studio", Name: "Industry Entertainment Partners", Path: "/config/data/metadata/Studio/Industry Entertainment Partners", Id: 34667e8b-25fc-e9ca-515c-1f8ab1e8f3e6
+[2026-04-25 15:37:03.018 +01:00] [INF] [58] Emby.Server.Implementations.Library.Validators.StudiosValidator: Deleting dead "Studio" "ca000135061cfd9eb32c76c515a34b5b" "Thousand Words"
+[2026-04-25 15:37:03.018 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: "Studio", Name: "Thousand Words", Path: "/config/data/metadata/Studio/Thousand Words", Id: ca000135-061c-fd9e-b32c-76c515a34b5b
+[2026-04-25 15:37:03.019 +01:00] [INF] [58] Emby.Server.Implementations.Library.LibraryManager: Deleting item path, Type: "Studio", Name: "Thousand Words", Path: "/config/data/metadata/Studio/Thousand Words", Id: ca000135-061c-fd9e-b32c-76c515a34b5b
+[2026-04-25 15:37:03.074 +01:00] [INF] [58] Emby.Server.Implementations.IO.LibraryMonitor: Skipping realtime monitor for "/audiobooks" because the path does not exist
+[2026-04-25 15:37:03.074 +01:00] [INF] [58] Emby.Server.Implementations.IO.LibraryMonitor: Skipping realtime monitor for "/movies" because the path does not exist
+[2026-04-25 15:37:03.074 +01:00] [INF] [58] Emby.Server.Implementations.IO.LibraryMonitor: Skipping realtime monitor for "/shows" because the path does not exist
+[2026-04-25 15:37:03.074 +01:00] [INF] [58] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 4 seconds
+[2026-04-25 15:37:03.075 +01:00] [INF] [94] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media_local/shows"
+[2026-04-25 15:37:03.119 +01:00] [INF] [101] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media_local/movies"
+[2026-04-25 15:37:03.169 +01:00] [INF] [74] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 4 seconds
+[2026-04-25 15:37:12.150 +01:00] [INF] [94] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:37:12.150 +01:00] [INF] [94] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:37:12.151 +01:00] [INF] [94] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:37:47.065 +01:00] [INF] [94] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:37:59.875 +01:00] [INF] [57] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2026-04-25 15:38:04.646 +01:00] [INF] [57] Jellyfin.Database.Providers.Sqlite.SqliteDatabaseProvider: jellyfin.db optimized successfully!
+[2026-04-25 15:38:04.647 +01:00] [INF] [57] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 4 seconds
+[2026-04-25 15:40:50.693 +01:00] [INF] [129] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:45:49.939 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:45:49.939 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:45:49.939 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:51:30.383 +01:00] [INF] [80] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:53:39.559 +01:00] [INF] [72] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:54:01.534 +01:00] [INF] [48] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:54:01.534 +01:00] [INF] [48] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 15:54:01.534 +01:00] [INF] [48] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 15:59:42.236 +01:00] [INF] [17] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:16:16.183 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:16:36.106 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:16:36.106 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:16:36.106 +01:00] [INF] [10] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:17:17.224 +01:00] [INF] [17] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:18:18.153 +01:00] [INF] [71] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:18:36.117 +01:00] [INF] [71] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:18:36.117 +01:00] [INF] [71] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:18:36.117 +01:00] [INF] [71] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:19:19.184 +01:00] [INF] [66] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:20:20.111 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:20:36.186 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:20:36.186 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:20:36.186 +01:00] [INF] [73] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:21:21.115 +01:00] [INF] [49] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:22:22.172 +01:00] [INF] [37] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:22:36.202 +01:00] [INF] [37] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:22:36.202 +01:00] [INF] [37] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:22:36.202 +01:00] [INF] [37] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:23:23.112 +01:00] [INF] [76] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:24:24.124 +01:00] [INF] [79] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:24:36.209 +01:00] [INF] [79] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:24:36.210 +01:00] [INF] [79] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:24:36.210 +01:00] [INF] [79] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:25:25.121 +01:00] [INF] [81] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:26:26.120 +01:00] [INF] [87] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:26:36.122 +01:00] [INF] [87] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:26:36.122 +01:00] [INF] [87] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:26:36.122 +01:00] [INF] [87] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:27:27.128 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:28:28.147 +01:00] [INF] [114] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:28:36.134 +01:00] [INF] [113] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:28:36.134 +01:00] [INF] [113] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:28:36.135 +01:00] [INF] [113] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:29:29.132 +01:00] [INF] [110] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:32:28.934 +01:00] [INF] [141] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:32:34.934 +01:00] [INF] [141] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:32:34.934 +01:00] [INF] [141] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:32:34.934 +01:00] [INF] [141] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:38:35.444 +01:00] [INF] [100] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:56:39.608 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:56:43.548 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:56:43.548 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 16:56:43.549 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 16:57:40.626 +01:00] [INF] [98] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:03:42.658 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:03:44.575 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:03:44.575 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:03:44.576 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 17:17:43.055 +01:00] [INF] [18] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:23:43.175 +01:00] [INF] [56] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:23:43.175 +01:00] [INF] [56] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:23:43.175 +01:00] [INF] [56] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 17:23:43.178 +01:00] [INF] [116] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:29:43.236 +01:00] [INF] [119] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:46:03.294 +01:00] [INF] [85] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:46:03.294 +01:00] [INF] [85] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:46:03.294 +01:00] [INF] [85] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 17:46:05.220 +01:00] [INF] [86] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:47:06.220 +01:00] [INF] [87] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:48:03.219 +01:00] [INF] [90] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:48:03.219 +01:00] [INF] [90] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:48:03.220 +01:00] [INF] [90] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 17:48:07.220 +01:00] [INF] [92] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:49:08.223 +01:00] [INF] [113] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:50:03.221 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:50:03.221 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:50:03.222 +01:00] [INF] [109] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 17:50:09.220 +01:00] [INF] [108] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:51:10.225 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:52:03.227 +01:00] [INF] [103] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:52:03.227 +01:00] [INF] [103] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:52:03.228 +01:00] [INF] [103] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 17:52:11.284 +01:00] [INF] [140] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:53:12.284 +01:00] [INF] [143] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:59:03.929 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:59:03.929 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 17:59:03.930 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 17:59:13.991 +01:00] [INF] [102] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:16:51.988 +01:00] [INF] [101] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:22:46.480 +01:00] [INF] [142] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:22:46.480 +01:00] [INF] [142] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:22:46.480 +01:00] [INF] [142] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 18:22:58.411 +01:00] [INF] [143] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:23:59.416 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:28:08.599 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:28:08.599 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:28:08.600 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 18:28:22.476 +01:00] [INF] [89] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:34:24.358 +01:00] [INF] [64] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:35:09.302 +01:00] [INF] [66] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:35:09.303 +01:00] [INF] [66] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 18:35:09.303 +01:00] [INF] [66] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 18:35:25.298 +01:00] [INF] [69] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:06:06.220 +01:00] [INF] [113] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:23:03.158 +01:00] [INF] [148] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:23:03.158 +01:00] [INF] [148] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:23:03.158 +01:00] [INF] [148] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 19:23:21.094 +01:00] [INF] [52] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:24:22.168 +01:00] [INF] [169] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:25:03.088 +01:00] [INF] [53] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:25:03.088 +01:00] [INF] [53] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:25:03.088 +01:00] [INF] [53] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 19:25:23.152 +01:00] [INF] [52] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:26:24.797 +01:00] [INF] [146] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:32:10.664 +01:00] [INF] [152] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:32:10.664 +01:00] [INF] [152] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:32:10.664 +01:00] [INF] [152] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 19:32:32.723 +01:00] [INF] [152] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:48:55.899 +01:00] [INF] [75] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:49:32.937 +01:00] [INF] [68] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:49:32.938 +01:00] [INF] [68] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:49:32.938 +01:00] [INF] [68] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 19:49:56.844 +01:00] [INF] [54] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:50:57.903 +01:00] [INF] [51] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:51:32.947 +01:00] [INF] [70] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:51:32.947 +01:00] [INF] [70] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:51:32.947 +01:00] [INF] [70] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 19:51:58.959 +01:00] [INF] [66] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:58:02.225 +01:00] [INF] [31] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:58:35.244 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:58:35.245 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 19:58:35.245 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 19:59:03.159 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:05:17.137 +01:00] [INF] [122] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:05:39.387 +01:00] [INF] [122] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:05:39.387 +01:00] [INF] [122] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:05:39.387 +01:00] [INF] [122] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 20:06:17.483 +01:00] [INF] [117] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:22:52.408 +01:00] [INF] [115] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:23:13.344 +01:00] [INF] [115] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:23:13.344 +01:00] [INF] [115] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 20:23:13.345 +01:00] [INF] [115] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 20:52:58.585 +01:00] [INF] [28] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 21:25:15.604 +01:00] [INF] [41] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 21:25:34.554 +01:00] [INF] [38] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 21:25:34.554 +01:00] [INF] [38] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 21:25:34.554 +01:00] [INF] [38] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 21:39:00.865 +01:00] [INF] [113] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2026-04-25 21:39:04.762 +01:00] [INF] [113] Jellyfin.Database.Providers.Sqlite.SqliteDatabaseProvider: jellyfin.db optimized successfully!
+[2026-04-25 21:39:04.762 +01:00] [INF] [113] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 3 seconds
+[2026-04-25 21:43:57.520 +01:00] [INF] [81] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:01:09.462 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:01:26.508 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:01:26.508 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:01:26.508 +01:00] [INF] [106] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 22:02:10.450 +01:00] [INF] [142] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:21:27.352 +01:00] [INF] [119] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:21:42.320 +01:00] [INF] [119] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:21:42.320 +01:00] [INF] [119] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 22:21:42.321 +01:00] [INF] [119] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 22:37:57.337 +01:00] [INF] [92] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:09:45.258 +01:00] [INF] [41] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:09:58.298 +01:00] [INF] [41] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:09:58.298 +01:00] [INF] [41] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:09:58.298 +01:00] [INF] [41] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2026-04-25 23:34:04.161 +01:00] [INF] [103] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:40:06.737 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:40:17.571 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:40:17.572 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: "CustomAuthentication" was not authenticated. Failure message: "Invalid token."
+[2026-04-25 23:40:17.572 +01:00] [INF] [42] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.

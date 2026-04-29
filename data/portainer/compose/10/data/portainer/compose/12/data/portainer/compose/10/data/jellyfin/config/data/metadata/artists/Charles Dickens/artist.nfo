@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2026-04-22 01:02:29</dateadded>
+  <title>Charles Dickens</title>
+  <runtime>0</runtime>
+  <musicbrainzartistid>fac5c33f-4339-445a-88d7-f69da327f07b</musicbrainzartistid>
+  <art>
+    <poster>/config/data/metadata/artists/Charles Dickens/folder.jpg</poster>
+    <fanart>/config/data/metadata/artists/Charles Dickens/backdrop.jpg</fanart>
+  </art>
+</artist>

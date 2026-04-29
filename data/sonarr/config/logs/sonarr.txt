@@ -7085,3 +7085,602 @@
 2026-04-27 15:41:51.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2026-04-27 15:41:51.1|Info|DownloadDecisionMaker|No results found
 2026-04-27 15:41:51.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:56:51.2|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:56:51.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:56:51.2|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:56:51.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 16:11:51.3|Info|RssSyncService|Starting RSS Sync
+2026-04-27 16:11:51.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 16:11:51.4|Info|DownloadDecisionMaker|No results found
+2026-04-27 16:11:51.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 16:26:51.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 16:26:51.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 16:26:51.5|Info|DownloadDecisionMaker|No results found
+2026-04-27 16:26:51.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 16:41:51.7|Info|RssSyncService|Starting RSS Sync
+2026-04-27 16:41:51.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 16:41:51.7|Info|DownloadDecisionMaker|No results found
+2026-04-27 16:41:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 16:56:51.9|Info|RssSyncService|Starting RSS Sync
+2026-04-27 16:56:51.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 16:56:51.9|Info|DownloadDecisionMaker|No results found
+2026-04-27 16:56:51.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 17:11:52.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 17:11:52.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 17:11:52.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 17:11:52.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 17:26:52.2|Info|RssSyncService|Starting RSS Sync
+2026-04-27 17:26:52.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 17:26:52.2|Info|DownloadDecisionMaker|No results found
+2026-04-27 17:26:52.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 17:26:52.2|Info|SceneMappingService|Updating Scene mappings
+2026-04-28 16:37:25.6|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.17.2952
+2026-04-28 16:37:25.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-28 16:37:25.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-28 16:37:25.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-28 16:37:26.1|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-04-28 16:37:26.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-04-28 16:37:26.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-04-28 16:37:26.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-04-28 16:37:26.2|Info|DatabaseEngineVersionCheck|SQLite 3.51.2
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0504511s
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0533492s
+2026-04-28 16:37:26.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-04-28 16:37:26.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-04-28 16:37:26.2|Info|DatabaseEngineVersionCheck|SQLite 3.51.2
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0094522s
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-04-28 16:37:26.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0138998s
+2026-04-28 16:37:26.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2026-04-28 16:37:26.8|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-04-28 16:37:26.8|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-04-28 16:37:26.8|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2026-04-28 16:37:26.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-04-28 16:37:56.8|Info|SceneMappingService|Updating Scene mappings
+2026-04-28 16:37:56.9|Info|RefreshSeriesService|Skipping refresh of series: Goblin
+2026-04-28 16:37:56.9|Info|DiskScanService|Scanning Goblin
+2026-04-28 16:37:57.0|Info|HousekeepingService|Running housecleaning tasks
+2026-04-28 16:37:57.1|Info|Database|Vacuuming Log database
+2026-04-28 16:37:57.1|Info|Database|Log database compressed
+2026-04-28 16:37:57.1|Info|Database|Vacuuming Main database
+2026-04-28 16:37:57.3|Info|Database|Main database compressed
+2026-04-28 16:37:57.4|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2026-04-28 16:37:57.4|Info|RssSyncService|Starting RSS Sync
+2026-04-28 16:37:57.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 16:37:57.4|Info|DownloadDecisionMaker|No results found
+2026-04-28 16:37:57.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 16:37:57.5|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-28 16:37:57.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-28 16:37:57.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-28 16:37:57.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-28 16:37:57.5|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-28 16:37:57.5|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-28 16:37:57.5|Info|RefreshSeriesService|Skipping refresh of series: Lovely Runner
+2026-04-28 16:37:57.5|Info|DiskScanService|Scanning Lovely Runner
+2026-04-28 16:37:57.6|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-28 16:37:57.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-28 16:37:57.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-28 16:37:57.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-28 16:37:57.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-28 16:37:57.6|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-28 16:37:57.6|Info|RefreshSeriesService|Skipping refresh of series: Sherlock
+2026-04-28 16:37:57.6|Info|DiskScanService|Scanning Sherlock
+2026-04-28 16:37:57.7|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-28 16:37:58.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-28 16:37:58.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-28 16:37:58.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-28 16:37:58.3|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-28 16:37:58.4|Info|RefreshSeriesService|Updating Shōgun
+2026-04-28 16:37:58.7|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-28 16:37:58.7|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-28 16:37:58.7|Info|DiskScanService|Scanning Shōgun
+2026-04-28 16:37:58.9|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-28 16:37:58.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-28 16:37:58.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-28 16:37:58.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-28 16:37:58.9|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-28 16:37:58.9|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-28 16:37:58.9|Info|RefreshSeriesService|Skipping refresh of series: Twinkling Watermelon
+2026-04-28 16:37:58.9|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-28 16:37:59.0|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-28 16:37:59.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-28 16:37:59.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-28 16:37:59.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-28 16:37:59.0|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-28 16:37:59.0|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-28 16:37:59.0|Info|RefreshSeriesService|Skipping refresh of series: When Life Gives You Tangerines
+2026-04-28 16:37:59.0|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-28 16:37:59.1|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-28 16:37:59.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-28 16:37:59.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-28 16:37:59.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-28 16:37:59.1|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-28 16:53:27.0|Info|RssSyncService|Starting RSS Sync
+2026-04-28 16:53:27.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 16:53:27.0|Info|DownloadDecisionMaker|No results found
+2026-04-28 16:53:27.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 17:08:27.1|Info|RssSyncService|Starting RSS Sync
+2026-04-28 17:08:27.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 17:08:27.2|Info|DownloadDecisionMaker|No results found
+2026-04-28 17:08:27.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 22:35:41.0|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.17.2952
+2026-04-28 22:35:41.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-28 22:35:41.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-28 22:35:41.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-04-28 22:35:41.5|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-04-28 22:35:41.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-04-28 22:35:41.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-04-28 22:35:41.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-04-28 22:35:41.6|Info|DatabaseEngineVersionCheck|SQLite 3.51.2
+2026-04-28 22:35:41.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0452137s
+2026-04-28 22:35:41.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-04-28 22:35:41.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0480812s
+2026-04-28 22:35:41.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-04-28 22:35:41.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-04-28 22:35:41.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-04-28 22:35:41.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-04-28 22:35:41.7|Info|DatabaseEngineVersionCheck|SQLite 3.51.2
+2026-04-28 22:35:41.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0067137s
+2026-04-28 22:35:41.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-04-28 22:35:41.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.007942s
+2026-04-28 22:35:42.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2026-04-28 22:35:42.3|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-04-28 22:35:42.3|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-04-28 22:35:42.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2026-04-28 22:35:42.4|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-04-28 22:36:12.3|Info|SceneMappingService|Updating Scene mappings
+2026-04-28 22:36:12.3|Info|RssSyncService|Starting RSS Sync
+2026-04-28 22:36:12.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 22:36:12.5|Info|DownloadDecisionMaker|No results found
+2026-04-28 22:36:12.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 22:51:42.5|Info|RssSyncService|Starting RSS Sync
+2026-04-28 22:51:42.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 22:51:42.5|Info|DownloadDecisionMaker|No results found
+2026-04-28 22:51:42.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 23:06:42.6|Info|RssSyncService|Starting RSS Sync
+2026-04-28 23:06:42.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 23:06:42.6|Info|DownloadDecisionMaker|No results found
+2026-04-28 23:06:42.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 23:21:42.7|Info|RssSyncService|Starting RSS Sync
+2026-04-28 23:21:42.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 23:21:42.7|Info|DownloadDecisionMaker|No results found
+2026-04-28 23:21:42.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 23:36:42.9|Info|RssSyncService|Starting RSS Sync
+2026-04-28 23:36:42.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 23:36:42.9|Info|DownloadDecisionMaker|No results found
+2026-04-28 23:36:42.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-28 23:51:43.0|Info|RssSyncService|Starting RSS Sync
+2026-04-28 23:51:43.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-28 23:51:43.0|Info|DownloadDecisionMaker|No results found
+2026-04-28 23:51:43.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 00:06:43.2|Info|RssSyncService|Starting RSS Sync
+2026-04-29 00:06:43.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 00:06:43.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 00:06:43.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 00:21:43.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 00:21:43.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 00:21:43.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 00:21:43.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 00:27:43.3|Info|BackupService|Starting Backup
+2026-04-29 00:36:43.4|Info|RssSyncService|Starting RSS Sync
+2026-04-29 00:36:43.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 00:36:43.4|Info|DownloadDecisionMaker|No results found
+2026-04-29 00:36:43.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 00:51:43.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 00:51:43.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 00:51:43.6|Info|DownloadDecisionMaker|No results found
+2026-04-29 00:51:43.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 01:06:43.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 01:06:43.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 01:06:43.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 01:06:43.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 01:21:43.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 01:21:43.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 01:21:43.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 01:21:43.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 01:36:44.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 01:36:44.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 01:36:44.1|Info|SceneMappingService|Updating Scene mappings
+2026-04-29 01:36:44.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 01:36:44.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 01:51:44.2|Info|RssSyncService|Starting RSS Sync
+2026-04-29 01:51:44.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 01:51:44.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 01:51:44.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 02:06:44.4|Info|RssSyncService|Starting RSS Sync
+2026-04-29 02:06:44.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 02:06:44.4|Info|DownloadDecisionMaker|No results found
+2026-04-29 02:06:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 02:21:44.5|Info|RssSyncService|Starting RSS Sync
+2026-04-29 02:21:44.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 02:21:44.5|Info|DownloadDecisionMaker|No results found
+2026-04-29 02:21:44.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 02:36:44.7|Info|RssSyncService|Starting RSS Sync
+2026-04-29 02:36:44.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 02:36:44.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 02:36:44.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 02:51:44.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 02:51:44.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 02:51:44.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 02:51:44.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 03:06:45.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 03:06:45.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 03:06:45.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 03:06:45.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 03:21:45.2|Info|RssSyncService|Starting RSS Sync
+2026-04-29 03:21:45.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 03:21:45.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 03:21:45.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 03:36:45.5|Info|RssSyncService|Starting RSS Sync
+2026-04-29 03:36:45.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 03:36:45.5|Info|DownloadDecisionMaker|No results found
+2026-04-29 03:36:45.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 03:51:45.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 03:51:45.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 03:51:45.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 03:51:45.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 04:06:46.0|Info|RssSyncService|Starting RSS Sync
+2026-04-29 04:06:46.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 04:06:46.0|Info|DownloadDecisionMaker|No results found
+2026-04-29 04:06:46.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 04:21:46.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 04:21:46.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 04:21:46.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 04:21:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 04:36:46.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 04:36:46.6|Info|SceneMappingService|Updating Scene mappings
+2026-04-29 04:36:46.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 04:36:46.6|Info|DownloadDecisionMaker|No results found
+2026-04-29 04:36:46.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 04:38:16.6|Info|RefreshSeriesService|Skipping refresh of series: Goblin
+2026-04-29 04:38:16.6|Info|DiskScanService|Scanning Goblin
+2026-04-29 04:38:16.6|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-29 04:38:16.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 04:38:16.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 04:38:16.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 04:38:16.7|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 04:38:16.7|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 04:38:16.7|Info|RefreshSeriesService|Skipping refresh of series: Lovely Runner
+2026-04-29 04:38:16.7|Info|DiskScanService|Scanning Lovely Runner
+2026-04-29 04:38:16.7|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-29 04:38:16.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 04:38:16.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 04:38:16.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 04:38:16.7|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 04:38:16.7|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 04:38:16.7|Info|RefreshSeriesService|Skipping refresh of series: Sherlock
+2026-04-29 04:38:16.7|Info|DiskScanService|Scanning Sherlock
+2026-04-29 04:38:16.7|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-29 04:38:17.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 04:38:17.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 04:38:17.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 04:38:17.2|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-29 04:38:17.3|Info|RefreshSeriesService|Updating Shōgun
+2026-04-29 04:38:17.4|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-29 04:38:17.5|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-29 04:38:17.5|Info|DiskScanService|Scanning Shōgun
+2026-04-29 04:38:17.5|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-29 04:38:17.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 04:38:17.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 04:38:17.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 04:38:17.5|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 04:38:17.5|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 04:38:17.5|Info|RefreshSeriesService|Skipping refresh of series: Twinkling Watermelon
+2026-04-29 04:38:17.5|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-29 04:38:17.5|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-29 04:38:17.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 04:38:17.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 04:38:17.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 04:38:17.5|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 04:38:17.5|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 04:38:17.5|Info|RefreshSeriesService|Skipping refresh of series: When Life Gives You Tangerines
+2026-04-29 04:38:17.5|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-29 04:38:17.6|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-29 04:38:17.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 04:38:17.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 04:38:17.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 04:38:17.6|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-29 04:51:46.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 04:51:46.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 04:51:46.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 04:51:46.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 05:06:47.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 05:06:47.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 05:06:47.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 05:06:47.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 05:21:47.4|Info|RssSyncService|Starting RSS Sync
+2026-04-29 05:21:47.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 05:21:47.4|Info|DownloadDecisionMaker|No results found
+2026-04-29 05:21:47.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 05:36:47.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 05:36:47.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 05:36:47.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 05:36:47.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 05:51:47.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 05:51:47.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 05:51:47.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 05:51:47.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 06:06:48.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 06:06:48.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 06:06:48.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 06:06:48.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 06:21:48.4|Info|RssSyncService|Starting RSS Sync
+2026-04-29 06:21:48.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 06:21:48.4|Info|DownloadDecisionMaker|No results found
+2026-04-29 06:21:48.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 06:36:48.7|Info|RssSyncService|Starting RSS Sync
+2026-04-29 06:36:48.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 06:36:48.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 06:36:48.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 06:51:49.0|Info|RssSyncService|Starting RSS Sync
+2026-04-29 06:51:49.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 06:51:49.0|Info|DownloadDecisionMaker|No results found
+2026-04-29 06:51:49.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 07:06:49.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 07:06:49.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 07:06:49.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 07:06:49.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 07:21:49.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 07:21:49.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 07:21:49.6|Info|DownloadDecisionMaker|No results found
+2026-04-29 07:21:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 07:36:49.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 07:36:49.8|Info|SceneMappingService|Updating Scene mappings
+2026-04-29 07:36:49.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 07:36:49.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 07:36:49.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 07:51:50.0|Info|RssSyncService|Starting RSS Sync
+2026-04-29 07:51:50.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 07:51:50.0|Info|DownloadDecisionMaker|No results found
+2026-04-29 07:51:50.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 08:06:50.2|Info|RssSyncService|Starting RSS Sync
+2026-04-29 08:06:50.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 08:06:50.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 08:06:50.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 08:21:50.5|Info|RssSyncService|Starting RSS Sync
+2026-04-29 08:21:50.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 08:21:50.5|Info|DownloadDecisionMaker|No results found
+2026-04-29 08:21:50.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 08:36:50.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 08:36:50.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 08:36:50.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 08:36:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 09:06:06.7|Info|RssSyncService|Starting RSS Sync
+2026-04-29 09:06:06.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 09:06:06.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 09:06:06.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 09:21:06.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 09:21:06.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 09:21:06.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 09:21:06.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 09:36:07.2|Info|RssSyncService|Starting RSS Sync
+2026-04-29 09:36:07.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 09:36:07.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 09:36:07.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 09:51:07.4|Info|RssSyncService|Starting RSS Sync
+2026-04-29 09:51:07.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 09:51:07.4|Info|DownloadDecisionMaker|No results found
+2026-04-29 09:51:07.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 10:06:07.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 10:06:07.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 10:06:07.6|Info|DownloadDecisionMaker|No results found
+2026-04-29 10:06:07.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 10:21:07.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 10:21:07.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 10:21:07.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 10:21:07.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 10:36:08.0|Info|RssSyncService|Starting RSS Sync
+2026-04-29 10:36:08.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 10:36:08.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 10:36:08.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 10:37:08.1|Info|SceneMappingService|Updating Scene mappings
+2026-04-29 10:51:08.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 10:51:08.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 10:51:08.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 10:51:08.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 11:06:08.5|Info|RssSyncService|Starting RSS Sync
+2026-04-29 11:06:08.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 11:06:08.5|Info|DownloadDecisionMaker|No results found
+2026-04-29 11:06:08.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 11:21:08.7|Info|RssSyncService|Starting RSS Sync
+2026-04-29 11:21:08.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 11:21:08.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 11:21:08.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 11:36:08.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 11:36:08.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 11:36:08.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 11:36:08.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 11:51:09.0|Info|RssSyncService|Starting RSS Sync
+2026-04-29 11:51:09.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 11:51:09.0|Info|DownloadDecisionMaker|No results found
+2026-04-29 11:51:09.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 12:06:09.7|Info|RssSyncService|Starting RSS Sync
+2026-04-29 12:06:09.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 12:06:09.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 12:06:09.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 12:21:09.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 12:21:09.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 12:21:09.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 12:21:09.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 12:41:49.0|Info|RssSyncService|Starting RSS Sync
+2026-04-29 12:41:49.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 12:41:49.0|Info|DownloadDecisionMaker|No results found
+2026-04-29 12:41:49.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 13:35:21.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 13:35:21.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 13:35:21.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 13:35:21.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 14:13:36.5|Info|RssSyncService|Starting RSS Sync
+2026-04-29 14:13:36.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 14:13:36.5|Info|DownloadDecisionMaker|No results found
+2026-04-29 14:13:36.5|Info|SceneMappingService|Updating Scene mappings
+2026-04-29 14:13:36.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 14:51:45.5|Info|RssSyncService|Starting RSS Sync
+2026-04-29 14:51:45.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 14:51:45.5|Info|DownloadDecisionMaker|No results found
+2026-04-29 14:51:45.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 15:26:48.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 15:26:48.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 15:26:48.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 15:26:48.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 16:17:07.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 16:17:07.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 16:17:07.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 16:17:07.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 16:53:00.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 16:53:00.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 16:53:00.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 16:53:00.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 16:53:00.2|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2026-04-29 16:53:00.2|Info|HousekeepingService|Running housecleaning tasks
+2026-04-29 16:53:00.2|Info|Database|Vacuuming Log database
+2026-04-29 16:53:00.2|Info|Database|Log database compressed
+2026-04-29 16:53:00.2|Info|Database|Vacuuming Main database
+2026-04-29 16:53:00.5|Info|Database|Main database compressed
+2026-04-29 16:53:00.5|Info|RefreshSeriesService|Skipping refresh of series: Goblin
+2026-04-29 16:53:00.6|Info|DiskScanService|Scanning Goblin
+2026-04-29 16:53:00.6|Info|DiskScanService|Completed scanning disk for Goblin
+2026-04-29 16:53:00.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 16:53:00.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 16:53:00.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 16:53:00.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 16:53:00.6|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 16:53:00.6|Info|RefreshSeriesService|Skipping refresh of series: Lovely Runner
+2026-04-29 16:53:00.6|Info|DiskScanService|Scanning Lovely Runner
+2026-04-29 16:53:00.6|Info|DiskScanService|Completed scanning disk for Lovely Runner
+2026-04-29 16:53:00.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 16:53:00.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 16:53:00.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 16:53:00.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 16:53:00.6|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 16:53:00.6|Info|RefreshSeriesService|Skipping refresh of series: Sherlock
+2026-04-29 16:53:00.6|Info|DiskScanService|Scanning Sherlock
+2026-04-29 16:53:00.6|Info|DiskScanService|Completed scanning disk for Sherlock
+2026-04-29 16:53:00.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 16:53:00.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 16:53:00.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 16:53:00.6|Info|ExistingExtraFileService|Found 42 possible extra files, imported 40 files.
+2026-04-29 16:53:00.7|Info|RefreshSeriesService|Updating Shōgun
+2026-04-29 16:53:00.9|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2026-04-29 16:53:00.9|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2026-04-29 16:53:01.0|Info|DiskScanService|Scanning Shōgun
+2026-04-29 16:53:01.0|Info|DiskScanService|Completed scanning disk for Shōgun
+2026-04-29 16:53:01.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 16:53:01.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 16:53:01.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 16:53:01.0|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 16:53:01.0|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 16:53:01.0|Info|RefreshSeriesService|Skipping refresh of series: Twinkling Watermelon
+2026-04-29 16:53:01.0|Info|DiskScanService|Scanning Twinkling Watermelon
+2026-04-29 16:53:01.0|Info|DiskScanService|Completed scanning disk for Twinkling Watermelon
+2026-04-29 16:53:01.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 16:53:01.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 16:53:01.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 16:53:01.0|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-29 16:53:01.0|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2026-04-29 16:53:01.0|Info|RefreshSeriesService|Skipping refresh of series: When Life Gives You Tangerines
+2026-04-29 16:53:01.0|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-29 16:53:01.0|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-29 16:53:01.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 16:53:01.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 16:53:01.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 16:53:01.1|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-29 17:20:17.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 17:20:17.7|Info|SceneMappingService|Updating Scene mappings
+2026-04-29 17:20:17.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 17:20:17.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 17:20:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 17:35:32.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 17:35:32.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 17:35:32.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 17:35:32.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 17:50:32.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 17:50:33.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 17:50:33.0|Info|DownloadDecisionMaker|No results found
+2026-04-29 17:50:33.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 18:05:33.2|Info|RssSyncService|Starting RSS Sync
+2026-04-29 18:05:33.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 18:05:33.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 18:05:33.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 18:20:33.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 18:20:33.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 18:20:33.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 18:20:33.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 18:35:33.5|Info|RssSyncService|Starting RSS Sync
+2026-04-29 18:35:33.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 18:35:33.6|Info|DownloadDecisionMaker|No results found
+2026-04-29 18:35:33.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 18:50:33.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 18:50:33.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 18:50:33.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 18:50:33.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 19:05:33.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 19:05:33.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 19:05:33.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 19:05:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 19:20:34.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 19:20:34.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 19:20:34.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 19:20:34.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 19:35:34.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 19:35:34.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 19:35:34.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 19:35:34.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 19:50:34.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 19:50:34.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 19:50:34.6|Info|DownloadDecisionMaker|No results found
+2026-04-29 19:50:34.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 20:05:34.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 20:05:34.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 20:05:34.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 20:05:34.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 20:20:35.0|Info|RssSyncService|Starting RSS Sync
+2026-04-29 20:20:35.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 20:20:35.0|Info|DownloadDecisionMaker|No results found
+2026-04-29 20:20:35.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 20:20:35.0|Info|SceneMappingService|Updating Scene mappings
+2026-04-29 20:35:35.2|Info|RssSyncService|Starting RSS Sync
+2026-04-29 20:35:35.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 20:35:35.2|Info|DownloadDecisionMaker|No results found
+2026-04-29 20:35:35.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 20:50:35.4|Info|RssSyncService|Starting RSS Sync
+2026-04-29 20:50:35.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 20:50:35.4|Info|DownloadDecisionMaker|No results found
+2026-04-29 20:50:35.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 21:05:35.7|Info|RssSyncService|Starting RSS Sync
+2026-04-29 21:05:35.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 21:05:35.7|Info|DownloadDecisionMaker|No results found
+2026-04-29 21:05:35.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 21:20:35.9|Info|RssSyncService|Starting RSS Sync
+2026-04-29 21:20:35.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 21:20:35.9|Info|DownloadDecisionMaker|No results found
+2026-04-29 21:20:35.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 21:35:36.1|Info|RssSyncService|Starting RSS Sync
+2026-04-29 21:35:36.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 21:35:36.1|Info|DownloadDecisionMaker|No results found
+2026-04-29 21:35:36.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 21:50:36.3|Info|RssSyncService|Starting RSS Sync
+2026-04-29 21:50:36.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 21:50:36.3|Info|DownloadDecisionMaker|No results found
+2026-04-29 21:50:36.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 22:05:36.4|Info|RssSyncService|Starting RSS Sync
+2026-04-29 22:05:36.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 22:05:36.4|Info|DownloadDecisionMaker|No results found
+2026-04-29 22:05:36.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 22:12:59.8|Info|DiskScanService|Scanning When Life Gives You Tangerines
+2026-04-29 22:12:59.8|Info|DiskScanService|Completed scanning disk for When Life Gives You Tangerines
+2026-04-29 22:12:59.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-29 22:12:59.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-29 22:12:59.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-29 22:12:59.8|Info|ExistingExtraFileService|Found 39 possible extra files, imported 38 files.
+2026-04-29 22:20:36.6|Info|RssSyncService|Starting RSS Sync
+2026-04-29 22:20:36.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 22:20:36.6|Info|DownloadDecisionMaker|No results found
+2026-04-29 22:20:36.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-29 22:35:36.8|Info|RssSyncService|Starting RSS Sync
+2026-04-29 22:35:36.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-29 22:35:36.8|Info|DownloadDecisionMaker|No results found
+2026-04-29 22:35:36.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0

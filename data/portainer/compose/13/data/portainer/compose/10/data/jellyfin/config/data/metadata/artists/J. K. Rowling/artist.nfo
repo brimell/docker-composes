@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2026-04-22 01:03:18</dateadded>
+  <title>J. K. Rowling</title>
+  <runtime>0</runtime>
+  <musicbrainzartistid>569c0d90-28dd-413b-83e4-aaa7c27e667b</musicbrainzartistid>
+  <art>
+    <poster>/config/data/metadata/artists/J. K. Rowling/folder.jpg</poster>
+    <fanart>/config/data/metadata/artists/J. K. Rowling/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -7073,3 +7073,63 @@ disk I/O error
 2026-04-27 13:49:30.5|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (0 ms)
 2026-04-27 13:49:30.8|Debug|Api|[GET] /api/v3/movie?apikey=(removed) 200.OK (337 ms)
 2026-04-27 13:53:56.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 13:58:56.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:03:56.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:08:56.4|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:13:26.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:13:26.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:13:26.5|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:13:26.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:13:26.5|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 14:13:56.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:18:56.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:23:56.7|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:28:56.8|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:33:56.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:38:57.0|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:43:27.0|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:43:27.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:43:27.0|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:43:27.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:43:27.0|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 14:43:57.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:48:57.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:49:30.1|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (0 ms)
+2026-04-27 14:49:30.1|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (0 ms)
+2026-04-27 14:49:30.1|Debug|RootFolderService|Generating list of unmapped folders
+2026-04-27 14:49:30.1|Debug|RootFolderService|0 unmapped folders detected.
+2026-04-27 14:49:30.1|Debug|Api|[GET] /api/v3/rootfolder?apikey=(removed) 200.OK (13 ms)
+2026-04-27 14:49:30.1|Debug|Api|[GET] /api/v3/qualityprofile?apikey=(removed) 200.OK (1 ms)
+2026-04-27 14:49:30.1|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (0 ms)
+2026-04-27 14:49:30.4|Debug|Api|[GET] /api/v3/movie?apikey=(removed) 200.OK (252 ms)
+2026-04-27 14:53:57.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 14:58:57.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:03:57.4|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:08:57.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:13:27.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:13:27.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:13:27.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:13:27.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:13:27.6|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 15:13:57.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:18:57.7|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:23:57.8|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:28:57.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:33:57.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:38:58.0|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:43:28.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:43:28.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:43:28.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:43:28.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:43:28.1|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-27 15:43:58.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:48:58.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-04-27 15:49:29.9|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (0 ms)
+2026-04-27 15:49:29.9|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (1 ms)
+2026-04-27 15:49:29.9|Debug|RootFolderService|Generating list of unmapped folders
+2026-04-27 15:49:30.0|Debug|RootFolderService|0 unmapped folders detected.
+2026-04-27 15:49:30.0|Debug|Api|[GET] /api/v3/rootfolder?apikey=(removed) 200.OK (20 ms)
+2026-04-27 15:49:30.0|Debug|Api|[GET] /api/v3/qualityprofile?apikey=(removed) 200.OK (1 ms)
+2026-04-27 15:49:30.0|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (0 ms)
+2026-04-27 15:49:30.4|Debug|Api|[GET] /api/v3/movie?apikey=(removed) 200.OK (440 ms)
+2026-04-27 15:53:58.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning

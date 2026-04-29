@@ -18,15 +18,4 @@
     <Studio>Bitter Films</Studio>
     <Studio />
   </Studios>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/World of Tomorrow - The First Three Episodes (2015) (1080p BluRay x265 HEVC 10bit AAC 2.0 afm72)/World of Tomorrow (2015) (1080p BluRay x265 afm72).mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/World of Tomorrow - The First Three Episodes (2015) (1080p BluRay x265 HEVC 10bit AAC 2.0 afm72)/Episode Three - The Absent Destinations of David Prime (2020)  (1080p BluRay x265 afm72).mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/World of Tomorrow - The First Three Episodes (2015) (1080p BluRay x265 HEVC 10bit AAC 2.0 afm72)/Episode Two - The Burden of Other People's Thoughts (2017) (1080p BluRay x265 afm72).mkv</Path>
-    </CollectionItem>
-  </CollectionItems>
 </Item>

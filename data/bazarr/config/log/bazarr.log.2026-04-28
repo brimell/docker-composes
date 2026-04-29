@@ -1,0 +1,16 @@
+2026-04-28 17:37:35|INFO    |root                            |Scheduler will use this timezone: Europe/London|
+2026-04-28 17:37:36|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-04-28 17:37:36|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-04-28 17:37:36|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-04-28 17:37:36|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-04-28 17:37:36|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-04-28 17:37:36|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-04-28 17:37:36|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-04-28 23:35:52|INFO    |root                            |Scheduler will use this timezone: Europe/London|
+2026-04-28 23:35:54|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-04-28 23:35:54|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-04-28 23:35:54|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-04-28 23:35:54|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-04-28 23:35:54|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-04-28 23:35:54|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-04-28 23:35:54|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|

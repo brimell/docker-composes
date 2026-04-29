@@ -22,12 +22,4 @@
     <Studio>DC Films</Studio>
     <Studio />
   </Studios>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/Joker 2019 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB/Joker 2019 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB.mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/Joker 2019 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB/Sample,Screens/Joker 2019 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv</Path>
-    </CollectionItem>
-  </CollectionItems>
 </Item>

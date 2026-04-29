@@ -3514,3 +3514,19 @@ disk I/O error
 2026-04-27 13:43:26.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2026-04-27 13:43:26.1|Info|DownloadDecisionMaker|No results found
 2026-04-27 13:43:26.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:13:26.5|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:13:26.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:13:26.5|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:13:26.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 14:43:27.0|Info|RssSyncService|Starting RSS Sync
+2026-04-27 14:43:27.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 14:43:27.0|Info|DownloadDecisionMaker|No results found
+2026-04-27 14:43:27.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:13:27.6|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:13:27.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:13:27.6|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:13:27.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-04-27 15:43:28.1|Info|RssSyncService|Starting RSS Sync
+2026-04-27 15:43:28.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-04-27 15:43:28.1|Info|DownloadDecisionMaker|No results found
+2026-04-27 15:43:28.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0

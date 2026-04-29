@@ -7,12 +7,7 @@
   <LocalTitle>Dune Collection</LocalTitle>
   <DisplayOrder>PremiereDate</DisplayOrder>
   <TmdbId>726871</TmdbId>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/Dune (2021) [2160p] [4K] [WEB] [HDR] [5.1] [YTS.MX]/Dune.2021.2160p.4K.WEB.x265.10bit.HDR.AAC5.1-[YTS.MX].mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/Dune.Part.Two.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx]/Dune.Part.Two.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv</Path>
-    </CollectionItem>
-  </CollectionItems>
+  <Studios>
+    <Studio />
+  </Studios>
 </Item>

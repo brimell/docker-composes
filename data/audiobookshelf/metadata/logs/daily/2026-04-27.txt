@@ -18,3 +18,8 @@
 {"timestamp":"2026-04-27 15:39:42.123","source":"Watcher.js:58","message":"[Watcher] Initializing watcher for \"Audiobooks\".","levelName":"INFO","level":2}
 {"timestamp":"2026-04-27 15:39:42.127","source":"Server.js:423","message":"Listening on port :80","levelName":"INFO","level":2}
 {"timestamp":"2026-04-27 15:39:49.839","source":"Watcher.js:89","message":"[Watcher] \"Audiobooks\" Ready","levelName":"INFO","level":2}
+{"timestamp":"2026-04-27 16:24:00.766","source":"LocalAuthStrategy.js:88","message":"[LocalAuth] User \"bill\" logged in from ip ::ffff:192.168.65.1","levelName":"INFO","level":2}
+{"timestamp":"2026-04-27 16:24:00.924","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io 50GLDT5flPQnb5KRAAAB","levelName":"INFO","level":2}
+{"timestamp":"2026-04-27 16:24:28.020","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket 50GLDT5flPQnb5KRAAAB disconnected from client \"bill\" after 27097ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2026-04-27 16:35:03.204","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io M5OH24kZFCp8fAgzAAAD","levelName":"INFO","level":2}
+{"timestamp":"2026-04-27 16:35:06.852","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket M5OH24kZFCp8fAgzAAAD disconnected from client \"bill\" after 3649ms (Reason: transport close)","levelName":"INFO","level":2}

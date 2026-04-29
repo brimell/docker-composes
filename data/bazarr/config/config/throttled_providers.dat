@@ -1,1 +1,1 @@
-{'podnapisi': ('ConnectionError', datetime.datetime(2026, 4, 27, 14, 8, 44, 603427), '10 minutes'), 'opensubtitlescom': ('DownloadLimitExceeded', datetime.datetime(2026, 4, 27, 19, 58, 50, 271477), '6 hours')}
+{'podnapisi': ('ConnectionError', datetime.datetime(2026, 4, 29, 23, 22, 59, 32746), '10 minutes')}

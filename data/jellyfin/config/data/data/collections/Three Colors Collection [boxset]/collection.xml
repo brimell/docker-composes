@@ -24,15 +24,4 @@
     <Studio />
     <Studio>TSR</Studio>
   </Studios>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/Three Colors - Blue (1993) Criterion (1080p BluRay x265 HEVC 10bit AAC 2.0 French Tigole)/Three Colors - Blue (1993) Criterion (1080p x265 10bit Tigole).mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/Three Colors Red (1994) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Three.Colors.Red.1994.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/Three Colors White (1994) [BluRay] [1080p] [YTS.AM]/Three.Colors.White.1994.1080p.BluRay.x264-[YTS.AM].mp4</Path>
-    </CollectionItem>
-  </CollectionItems>
 </Item>

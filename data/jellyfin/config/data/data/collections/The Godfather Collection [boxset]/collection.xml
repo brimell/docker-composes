@@ -20,12 +20,4 @@
     <Studio />
     <Studio>The Coppola Company</Studio>
   </Studios>
-  <CollectionItems>
-    <CollectionItem>
-      <Path>/movies/The Godfather (1972) [2160p] [4K] [WEB] [5.1] [YTS.MX]/The.Godfather.1972.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv</Path>
-    </CollectionItem>
-    <CollectionItem>
-      <Path>/movies/The Godfather - Part II (1974) RM4K (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)/The Godfather - Part II (1974) RM4K (1080p BluRay x265 10bit Tigole).mkv</Path>
-    </CollectionItem>
-  </CollectionItems>
 </Item>
