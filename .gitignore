@@ -10,4 +10,4 @@
 *.pem
 .env
 portainer-backup_*.tar.gz
-data/*
+data
