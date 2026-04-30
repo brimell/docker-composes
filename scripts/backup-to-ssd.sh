@@ -43,8 +43,15 @@ count_files() {
   find "$1" -type f 2>/dev/null | wc -l | tr -d ' '
 }
 
+RSYNC_CMD="rsync"
+if [ -x "/opt/homebrew/bin/rsync" ]; then
+  RSYNC_CMD="/opt/homebrew/bin/rsync"
+elif [ -x "/usr/local/bin/rsync" ]; then
+  RSYNC_CMD="/usr/local/bin/rsync"
+fi
+
 rsync_supports_info_progress2() {
-  rsync --help 2>/dev/null | grep -q -- "--info"
+  "$RSYNC_CMD" --help 2>/dev/null | grep -q -- "--info"
 }
 
 run_rsync() {
@@ -69,14 +76,12 @@ run_rsync() {
   fi
 
   if rsync_supports_info_progress2; then
-    rsync "${common_args[@]}" \
+    "$RSYNC_CMD" "${common_args[@]}" \
       --info=progress2,stats2 \
       "$source" "$destination" | tee -a "$LOG_FILE"
   else
-    # macOS built-in rsync is usually old and may not support --info=progress2.
-    # --progress is noisier, but works on the older rsync.
-    rsync "${common_args[@]}" \
-      --progress \
+    # Fallback for older rsync: omit --progress to avoid printing every single file
+    "$RSYNC_CMD" "${common_args[@]}" \
       "$source" "$destination" | tee -a "$LOG_FILE"
   fi
 }
@@ -100,12 +105,12 @@ run_repo_rsync() {
   )
 
   if rsync_supports_info_progress2; then
-    rsync "${common_args[@]}" \
+    "$RSYNC_CMD" "${common_args[@]}" \
       --info=progress2,stats2 \
       "$source" "$destination" | tee -a "$LOG_FILE"
   else
-    rsync "${common_args[@]}" \
-      --progress \
+    # Fallback to silent to avoid printing every single file 
+    "$RSYNC_CMD" "${common_args[@]}" \
       "$source" "$destination" | tee -a "$LOG_FILE"
   fi
 }
@@ -150,6 +155,8 @@ done
 
 # Make sure stopped containers are restarted even if rsync fails
 cleanup() {
+  # Temporarily disable set -u for empty array checks in bash 3.2
+  set +u
   if [ "${#STARTED_CONTAINERS[@]}" -gt 0 ]; then
     log "Stage cleanup: Restarting stopped containers"
   fi
@@ -158,6 +165,7 @@ cleanup() {
     log "Restarting $container"
     docker start "$container" >/dev/null || log "WARNING: failed to restart $container"
   done
+  set -u
 }
 trap cleanup EXIT
 
