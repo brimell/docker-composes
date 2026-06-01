@@ -22,6 +22,7 @@ Each stack is self-contained in:
 - `stacks/vaultwarden/docker-compose.yml`
 - `stacks/photoprism/docker-compose.yml`
 - `stacks/homebox/docker-compose.yml`
+- `stacks/homeassistant/docker-compose.yml`
 
 Actual Budget:
 
@@ -59,6 +60,7 @@ Common:
 - `MEDIA_LOCAL_SHOWS_PATH` local shows folder mounted into Jellyfin. Defaults to `/Users/bill/Documents/media_local/shows`.
 - `MEDIA_LOCAL_AUDIOBOOKS_PATH` local audiobooks folder mounted into Jellyfin. Defaults to `/Users/bill/Documents/media_local/audiobooks`.
 - `MEDIA_LOCAL_PHOTOS_PATH` local photos folder mounted into Jellyfin. Defaults to `/Users/bill/Documents/media_local/photos`.
+- `TZ` timezone used by Home Assistant. Defaults to `Europe/London`.
 
 Monica:
 
@@ -91,6 +93,7 @@ Container config/data is stored under `CONFIG_ROOT`, with one folder per app:
 - `data/vaultwarden`
 - `data/photoprism/storage`
 - `data/homebox`
+- `data/homeassistant`
 
 The `data/` folder is intentionally ignored by git because it can contain databases, passwords, API keys, sessions, and other private runtime state. Back it up separately if you want to recreate the machine exactly.
 
@@ -103,3 +106,4 @@ Existing named Docker volumes are not moved automatically. For example, the curr
 - Jellyfin mounts both external media and local media. External paths appear as `/movies`, `/shows`, and `/audiobooks`; local paths appear under `/media_local`.
 - PhotoPrism mounts photos read-only at `/photoprism/originals` and stores its own index/cache under `data/photoprism/storage`.
 - `homarr` and `portainer` mount `/var/run/docker.sock`; keep those stacks trusted/admin-only.
+- Home Assistant uses host networking for local device discovery and is available on `http://<host>:8123` after startup.
