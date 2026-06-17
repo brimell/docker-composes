@@ -106,4 +106,4 @@ Existing named Docker volumes are not moved automatically. For example, the curr
 - Jellyfin mounts both external media and local media. External paths appear as `/movies`, `/shows`, and `/audiobooks`; local paths appear under `/media_local`.
 - PhotoPrism mounts photos read-only at `/photoprism/originals` and stores its own index/cache under `data/photoprism/storage`.
 - `homarr` and `portainer` mount `/var/run/docker.sock`; keep those stacks trusted/admin-only.
-- Home Assistant uses host networking for local device discovery and is available on `http://<host>:8123` after startup.
+- Home Assistant publishes port `8123` and is available on `http://<host>:8123` after startup.
